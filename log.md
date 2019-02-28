@@ -34,9 +34,10 @@ blastn can be used with the full query.txt and ref.fna files.
 
  mothur is used for its ability to flip sequences to their reverse complements while making alignments.
 
- mothur used only one reference when making alignments so all but one nifH gene sequence was removed form the ref.fna file.
+ mothur uses only one reference when making alignments so all but one nifH gene sequence was removed form the ref.fna file.
 
  "mothur > align.seqs(candidate=nifHout.fasta, template=ref.fna, flip=t)"
+
  The produced nifHout.align file has dots and dashes removed before being passed into MEGA for realignment.
 
  "removeMarks('nifHout.align','nifHflipped.fasta')"
