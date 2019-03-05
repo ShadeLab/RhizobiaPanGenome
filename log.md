@@ -62,3 +62,8 @@ Running
  "mothur > cluster(phylip="phylipAa.dist", method = average, precision=100 ,cutoff=0.2)"
 
  produces .an.saboud files that show the number of OTUs that result from varying percent similarity thresholds.
+
+__________________________________________________________________________________________
+The housekeeping genes of rRNA, recA, glnII, gltA, dnaK, and rpoA will be isolated and aligned from the Rhizobium genomes in a similar manner that nifH was isolataed and aligned.
+
+With the introduction of more genes, I will need to start documenting which genomes possess what genes. 
