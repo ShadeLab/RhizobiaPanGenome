@@ -1,4 +1,4 @@
-# NIFH
+# nifH
 
 264 sequenced Rhizobium genomes were taken from the JGI database. Functional nifH gene viability as a marker for OTU classification was first explored using this database.
 
@@ -10,7 +10,7 @@ The tools I used to isolate, align, and check for OTU groupings were:
 
 blastn was used to locate the nifH genes on the genomes.
 
-A single query.txt file was created by extracted the contents of all fasta files from the individual genome directories.
+A single query.txt file was created by extracted the contents of all fasta files from the individual genome directories. This is relatively large at 1.7gb and will most likely be excluded from this git directly for the time being. 
 
 "toQuery(RJGI,query.txt,folderpos=0)"
 Where RJGI is the greater directory containing all genomic data, query.txt is an empty text file, and folderpos is set equal to the position of the .fna files within the directories(in my case at the very top) - this could be further improved to automatically target .fna files and not require the folderpos parameter, but it works as is.
@@ -79,7 +79,7 @@ jupyter notebook "gene listing.ipynb" was written. This contains script that gro
 
 Additional scripts will be later added to the gene listng notebook that will allow for post mega alignment fasta files to be used in counting gene matches. This will be useful as some fasta files will be removed due to shortness or quality in the MEGA alignment process. As MEGA reformats tags, another script will have to be written that associates MEGA reformated tags to the tags in the blastnout.fasta files. 
 
-The end product of this should be two csv files that show what genes were found in what genomes and in what quantities pre and post MEGA alignment and quality/length control. I will also have alignments for all housekeeping genes. This will be done following the same process as done with nifH and using the scripts in the new jupyter notebook to create the excel sheets. 
+The end product of this should be two csv files that show what genes were found in what genomes and in what quantities pre and post MEGA alignment and quality/length control. I will also have alignments for all housekeeping genes. This will be done following the same process as done with nifH minus the amino acid conversion and using the scripts in the new jupyter notebook to create the excel sheets. 
 
 Some steps of the nifH will have to be redone as the initial blastnout file converted to fasta has change. My original script the removed all the matches from the blastnout file into a fasta formatted file had issues with reformatting some of the tags. This is also fine as certain components of my original nifH processing were done in a different location and are not contained in this directory. 
 
@@ -93,7 +93,57 @@ These fastas are all contained in the House/16s/references subdirectory
 
 All other processes were followed as seen in the nifH gene isolation and alignment notes
 
-285 matches were found with blastN. What genomes these matches corresponded with can be seen in the genematches.csv file.
+285 matches were found with blastN. What genomes these matches corresponded with can be seen in the genematches.csv file. Some genomes had 2 matches and one had 6, leading to more matches being found than the number of genomes (264).
 
-## 
+## recA
+5 recA fasta files were taken from NCBI for usage as references in blastn
+ - >NC_018610.1:1038758-1039897 Lactobacillus buchneri CD034, complete genome - 1140 bp (https://www.ncbi.nlm.nih.gov/gene/34324109)
+ - >NC_029008.1:20730-21809 Bacillus phage phi4J1, complete genome - 1080 bp (https://www.ncbi.nlm.nih.gov/gene/26648639)
+ - >NC_003295.1:596177-597235 Ralstonia solanacearum GMI1000 chromosome complete sequence - 1059 bp (https://www.ncbi.nlm.nih.gov/gene/1219356)
+ - >NC\_000915.1:162928-163971 Helicobacter pylori 26695 chromosome, complete genome - 1044 bp (https://www.ncbi.nlm.nih.gov/nuccore/NC_000915.1?report=fasta&from=162928&to=163971)
+ - >NZ_CYSI01000007.1:c525521-524469 Mycolicibacterium mucogenicum strain CSUR P2099, whole genome shotgun sequence - 1053 bp (https://www.ncbi.nlm.nih.gov/gene/32359521)
+
+nifH gene isolation and alignment notes were followed with the recA references
+
+246 matches were found with blastn. The distribution of these matches can be seen in genematches.csv
+
+## glnII
+Using "glnII" as a gene search term in ncbi did not return many results. Only 4 sequences were tagged with "glnII" but two were complement sequences. I've been avoiding the usage of complements as I'm not sure how they work as references or if I can adjust them to be non-complement. I may come back and use the complement strands later if not many matches are produced by only 2 references. 
+ - >NC_004463.1:4607187-4608221 Bradyrhizobium japonicum USDA 110 chromosome, complete genome - 1035bp (https://www.ncbi.nlm.nih.gov/gene/1054220)
+ - >NC_005027.1:3850538-3851638 Rhodopirellula baltica SH 1 chromosome, complete genome - 1101bp (https://www.ncbi.nlm.nih.gov/gene/1796405)
+
+218 matches were found with blastn. 229 matches were found with geneMatch in the gene_listing notebook. I'm not sure why this happened. The other 2 genes done so far had equal matches. I'll return to this later to see what went wrong where. 
+
+## gltA
+4 sequences were used as references
+ - >NC_017047.1:3473103-3474386 Rahnella aquatilis HX2, complete genome - 1284bp (https://www.ncbi.nlm.nih.gov/gene/34350111)
+ - >NC_005295.2:128215-129462 Ehrlichia ruminantium strain Welgevonden, complete genome - 1248bp (https://www.ncbi.nlm.nih.gov/gene/33058199)
+ - >NC_021084.1:763591-764832 Wolbachia endosymbiont of Drosophila simulans wNo, complete genome - 1242bp (https://www.ncbi.nlm.nih.gov/gene/32546691)
+ - >NC_017384.1:1767787-1769079 Ketogulonigenium vulgarum WSH-001 chromosome, complete genome - 1293bp (https://www.ncbi.nlm.nih.gov/gene/12374555)
+
+Only 50 matches were found. These were matches to 57 genomes, which should not be happening. Counting the matches sequences only showed 50 matches aswell. The only thing that could be causing this is if multiple scaffold tags have the same name. I'll be looking into this later.
+
+I will not be doing alignments or considering usage for phylogeny. 50 is low. 
+
+## dnaK
+6 sequences were used as references
+ - >NC_000962.3:419835-421712 Mycobacterium tuberculosis H37Rv, complete genome - 1878bp (https://www.ncbi.nlm.nih.gov/gene/885946)
+ - >NC_004350.2:85642-87480 Streptococcus mutans UA159 chromosome, complete genome - 1839bp (https://www.ncbi.nlm.nih.gov/gene/1029666)
+ - >NC_008596.1:796766-798634 Mycobacterium smegmatis str. MC2 155 chromosome, complete genome - 1869bp (https://www.ncbi.nlm.nih.gov/gene/4532040)
+ - >NC_000853.1:392268-394058 Thermotoga maritima MSB8 chromosome, complete genome - 1791bp (https://www.ncbi.nlm.nih.gov/gene/897332)
+ - >NC_002946.2:1390552-1392480 Neisseria gonorrhoeae FA 1090 chromosome, complete genome - 1929bp (https://www.ncbi.nlm.nih.gov/gene/3281746)
+ - >NC_000913.3:12163-14079 Escherichia coli str. K-12 substr. MG1655, complete genome - 1917bp (https://www.ncbi.nlm.nih.gov/gene/944750)
+
+140 matches were found. 149 were found with geneMatch.
+
+## rpoA
+5 sequences were used as references
+ - >NC_038051.1:114353-115297 Gracilaria changii chloroplast, complete genome - 945bp (https://www.ncbi.nlm.nih.gov/gene/37500278)
+ - >NC_034803.1:5119-6138 Vernicia fordii chloroplast, complete genome - 1020bp (https://www.ncbi.nlm.nih.gov/gene/32891847)
+ - >NC_034644.1:161197-162207 Peucedanum japonicum chloroplast, complete genome - 1011bp (https://www.ncbi.nlm.nih.gov/gene/32879479)
+ - >NC_029770.1:181179-182159 Drosera rotundifolia chloroplast, complete genome - 981bp (https://www.ncbi.nlm.nih.gov/gene/27110401)
+ - >NC_008289.1:47688-48758 Ostreococcus tauri chloroplast, complete genome - 1070bp (https://www.ncbi.nlm.nih.gov/gene/4238797)
+
+0 matches were found - I will not be doing alignments or considering usage for phylogeny 
+
 
