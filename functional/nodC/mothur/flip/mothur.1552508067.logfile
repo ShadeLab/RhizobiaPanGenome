@@ -1,0 +1,72 @@
+Linux version
+
+Using ReadLine
+
+Running 64Bit Version
+
+mothur v.1.39.5
+Last updated: 3/20/2017
+
+by
+Patrick D. Schloss
+
+Department of Microbiology & Immunology
+University of Michigan
+http://www.mothur.org
+
+When using, please cite:
+Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
+
+Distributed under the GNU General Public License
+
+Type 'help()' for information on the commands that are available
+
+For questions and analysis support, please visit our forum at https://www.mothur.org/forum
+
+Type 'quit()' to exit program
+Interactive Mode
+
+
+mothur > align.seqs(candidate=nodCout.fasta template=nodCref.fna, flip = t)
+
+Using 1 processors.
+[ERROR]: The reference parameter is a required for the align.seqs command, aborting.
+[ERROR]: did not complete align.seqs.
+
+mothur > align.seqs(candidate=nodCout.fasta, template=nodCref.fna, flip = t)
+
+Using 1 processors.
+
+Reading in the nodCref.fna template sequences...	DONE.
+It took 0 to read  1 sequences.
+Aligning sequences from nodCout.fasta ...
+[WARNING]: Some of your sequences generated alignments that eliminated too many bases, a list is provided in nodCout.flip.accnos. If the reverse compliment proved to be better it was reported.
+It took 2 secs to align 98 sequences.
+
+
+Output File Names: 
+nodCout.align
+nodCout.align.report
+nodCout.flip.accnos
+
+[WARNING]: your sequence names contained ':'.  I changed them to '_' to avoid problems in your downstream analysis.
+
+mothur > quit()
+
+
+************************************************************
+************************************************************
+************************************************************
+Detected 2 [ERROR] messages, please review.
+************************************************************
+************************************************************
+************************************************************
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Detected 2 [WARNING] messages, please review.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

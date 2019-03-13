@@ -154,16 +154,44 @@ A script was ran in the gene_listing notebook to count the number of genomes con
  - rRNA, recA: 238
  - rRNA, glnII: 206
  - rRNA, recA, glnII: 193
- - rRNA, recA, glnII, rpoA: 93
+ - rRNA, recA, glnII, gltA: 93
  - rRNA, recA, glnII, gltA, dnaK: 12
 
 I will concatenating the 3 genes rRNA, recA, and glnII for up to 193 genomes (some may be removed in the length control/alignment process. 
 
-The fasta files for these 3 genes were copied into a new subdirectory labeled "phylogeny".
 
 The geneMatch script in the gene_listing notebook was modified to also produce a table of the scaffold names found to contain genes and their correspondence with their respective genomes. This was then used in another new script "genePresOnly" to remove all genes from the rRNA, recA, and glnII fasta files that did not have the other 2 genes matched to the given genome. The name of the genome was also appended to the beginning of the scaffold tags to allow for easier removal during alignment and concatenation. These files were named with "gpo" (genePresOnly) in place of "out" .fasta. 
 
 The new table with the scaffold names of the matched genes was converted to csv as "nametable.csv"
 
+Before alignment in MEGA, the sequences were flipped using mothur's alignment tool. This autoformats the sequences so a new script was written in the conversions_function notebook to write the original tags over the reformatted tags. This will be used on any fasta file that is to be read into mothur and aligned as they will need to be flipped first.
 
 
+# functional genes
+
+nifH process will be followed for all genes in list ~
+
+##nifH redo
+
+nifH was redone using the same references as before. Some of the conversion functions were modified to preserve tag formatting for usage in creating the gene to genome count tables. The results should be the same. I will be replacing all nifH files with these new ones.
+
+References:
+ - 
+
+101 matches were found
+
+nifH gene to genome information was added to genematches.csv
+
+##nodC
+
+6 nodC references from ncbi were used 
+ - >NC_004041.2:c299424-298093 Rhizobium etli CFN 42 plasmid symbiotic plasmid p42d, complete sequence - 1332bp (https://www.ncbi.nlm.nih.gov/gene/24297332)
+ - >NC_011368.1:685725-687005 Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG201, complete sequence - 1281bp (https://www.ncbi.nlm.nih.gov/gene/34190652)
+ - >NC_020061.1:236925-238283 Rhizobium tropici CIAT 899 plasmid pRtrCIAT899b, complete sequence - 1359bp (https://www.ncbi.nlm.nih.gov/gene/32499773)
+ - >NZ_HF536778.1:c155538-154189 Rhizobium mesoamericanum STM3625, whole genome shotgun sequence - 1350bp (https://www.ncbi.nlm.nih.gov/gene/31829151)
+ - >NC_010529.1:c310015-308663 Cupriavidus taiwanensis str. LMG19424 plasmid pRALTA, complete genome - 1353bp (https://www.ncbi.nlm.nih.gov/gene/31819335)
+ - >NC_010627.1:c490711-489374 Paraburkholderia phymatum STM815 plasmid pBPHY02, complete sequence - 1338bp (https://www.ncbi.nlm.nih.gov/gene/27747179)
+
+98 matches were found
+
+nifH gene to genome information was added to genematches.csv
