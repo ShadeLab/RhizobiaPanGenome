@@ -112,7 +112,7 @@ Using "glnII" as a gene search term in ncbi did not return many results. Only 4 
  - >NC_004463.1:4607187-4608221 Bradyrhizobium japonicum USDA 110 chromosome, complete genome - 1035bp (https://www.ncbi.nlm.nih.gov/gene/1054220)
  - >NC_005027.1:3850538-3851638 Rhodopirellula baltica SH 1 chromosome, complete genome - 1101bp (https://www.ncbi.nlm.nih.gov/gene/1796405)
 
-218 matches were found with blastn. 229 matches were found with geneMatch in the gene_listing notebook. I'm not sure why this happened. The other 2 genes done so far had equal matches. I'll return to this later to see what went wrong where. 
+218 matches were found with blastn. 
 
 ## gltA
 4 sequences were used as references
@@ -121,7 +121,7 @@ Using "glnII" as a gene search term in ncbi did not return many results. Only 4 
  - >NC_021084.1:763591-764832 Wolbachia endosymbiont of Drosophila simulans wNo, complete genome - 1242bp (https://www.ncbi.nlm.nih.gov/gene/32546691)
  - >NC_017384.1:1767787-1769079 Ketogulonigenium vulgarum WSH-001 chromosome, complete genome - 1293bp (https://www.ncbi.nlm.nih.gov/gene/12374555)
 
-Only 50 matches were found. These were matches to 57 genomes, which should not be happening. Counting the matches sequences only showed 50 matches aswell. The only thing that could be causing this is if multiple scaffold tags have the same name. I'll be looking into this later.
+Only 50 matches were found. 
 
 I will not be doing alignments or considering usage for phylogeny. 50 is low. 
 
@@ -134,7 +134,7 @@ I will not be doing alignments or considering usage for phylogeny. 50 is low.
  - >NC_002946.2:1390552-1392480 Neisseria gonorrhoeae FA 1090 chromosome, complete genome - 1929bp (https://www.ncbi.nlm.nih.gov/gene/3281746)
  - >NC_000913.3:12163-14079 Escherichia coli str. K-12 substr. MG1655, complete genome - 1917bp (https://www.ncbi.nlm.nih.gov/gene/944750)
 
-140 matches were found. 149 were found with geneMatch.
+140 matches were found.
 
 ## rpoA
 5 sequences were used as references
@@ -145,5 +145,25 @@ I will not be doing alignments or considering usage for phylogeny. 50 is low.
  - >NC_008289.1:47688-48758 Ostreococcus tauri chloroplast, complete genome - 1070bp (https://www.ncbi.nlm.nih.gov/gene/4238797)
 
 0 matches were found - I will not be doing alignments or considering usage for phylogeny 
+
+# House gene concatenation
+
+A script was ran in the gene_listing notebook to count the number of genomes containing a given set of found genes. These were the results.
+
+ - total: 264
+ - rRNA, recA: 238
+ - rRNA, glnII: 206
+ - rRNA, recA, glnII: 193
+ - rRNA, recA, glnII, rpoA: 93
+ - rRNA, recA, glnII, gltA, dnaK: 12
+
+I will concatenating the 3 genes rRNA, recA, and glnII for up to 193 genomes (some may be removed in the length control/alignment process. 
+
+The fasta files for these 3 genes were copied into a new subdirectory labeled "phylogeny".
+
+The geneMatch script in the gene_listing notebook was modified to also produce a table of the scaffold names found to contain genes and their correspondence with their respective genomes. This was then used in another new script "genePresOnly" to remove all genes from the rRNA, recA, and glnII fasta files that did not have the other 2 genes matched to the given genome. The name of the genome was also appended to the beginning of the scaffold tags to allow for easier removal during alignment and concatenation. These files were named with "gpo" (genePresOnly) in place of "out" .fasta. 
+
+The new table with the scaffold names of the matched genes was converted to csv as "nametable.csv"
+
 
 
