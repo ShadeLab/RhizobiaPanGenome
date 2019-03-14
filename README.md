@@ -166,12 +166,18 @@ The new table with the scaffold names of the matched genes was converted to csv 
 
 Before alignment in MEGA, the sequences were flipped using mothur's alignment tool. This autoformats the sequences so a new script was written in the conversions_function notebook to write the original tags over the reformatted tags. This will be used on any fasta file that is to be read into mothur and aligned as they will need to be flipped first.
 
+17 genomes were removed due to one or more of the genes being removed in the alignment process, leaving 176 genomes instead of 193. Lost genomes of the 193 seen in nametable.csv were: 2599185236, 2585427975, 2585427529, 2582581298, 2791355262, 2619619304, 2513237144, 2585428001, 2738541311, 2738541333, 2738541317, 2617270885, 2738541319, 2558860983, 2643221558, 2738541331, and 2738541322. 
+
+Each fasta for each gene was reduced to one gene per genome during MEGA processing. All fastas have 176 tags and are ordered based on corresponding genome. This allowed for easy concatenation into a single fasta "houseConcat.fasta" using a script in the gene listing notebook. This script was not made to be reusable but I may go back later and improve it. This new fasta and the three fastas used to make it were moved into a new subdirectory labeled "phylogeny".
+
+A distance matrix and OTU information for houseConcat.fasta was produced using MEGA and mothur with the same process as seen in the initial nifH processing notes. 
+
 
 # functional genes
 
 nifH process will be followed for all genes in list ~
 
-##nifH redo
+## nifH redo
 
 nifH was redone using the same references as before. Some of the conversion functions were modified to preserve tag formatting for usage in creating the gene to genome count tables. The results should be the same. I will be replacing all nifH files with these new ones.
 
@@ -182,7 +188,7 @@ References:
 
 nifH gene to genome information was added to genematches.csv
 
-##nodC
+## nodC
 
 6 nodC references from ncbi were used 
  - >NC_004041.2:c299424-298093 Rhizobium etli CFN 42 plasmid symbiotic plasmid p42d, complete sequence - 1332bp (https://www.ncbi.nlm.nih.gov/gene/24297332)
