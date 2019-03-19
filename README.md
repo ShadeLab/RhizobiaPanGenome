@@ -226,7 +226,7 @@ I only found one glnII gene belonging to a Rhizobium in ncbi. I found 3 more usi
  - >ENA|AGB69577|AGB69577.1 Rhizobium tropici CIAT 899 chaperone protein DnaK - 1920bp
  - >ENA|AEY82528|AEY82528.1 Rhizobium favelukesii DnaK - 1917bp
 
-264 matches were made compared to original 140. Average length of all is 1902 compared to original 1132. It appears that the original fasta conversion did affect the original dnaKoutOnlyHits to fasta conversion and some others may have been affected so thats another good reason to be redoing this process. 
+264 matches were made compared to original 140. Average length of all is 1902 compared to original 1132. It appears that the original fasta conversion did affect the original dnaKoutOnlyHits to fasta conversion and some others may have been affected. This is another reason to not use the original fastas. 
 
 ## rpoA
 
@@ -252,9 +252,7 @@ Count of genomes containing a given set of the 6 available genes:
 - rRNA, glnII, gltA, dnaK, rpoA: 250
 - rRNA, recA, glnII, gltA, dnaK, rpoA: 250
 
-All 6 genes can be used with only a loss of 14 from the total of 264 genomes. Including more genomes will mean more loss due to shortness in the MEGA processing but this isn't a big enough reason to disclude any of the genes. 
-
-geneout.fasta files were reduced to only genes included in the 250 common genomes. These were labeled as genecon.fasta.
+All 6 genes can be used with only a loss of 14 from the total of 264 genomes. I expect to lose a greater number of genomes in MEGA processing than before due to the increase of genes but the end genome total should be higher and with 6 genes instead of 3. *gene*out.fasta files were reduced to only genes included in the 250 common genomes. These were labeled as *gene*con.fasta.
 
 
 
