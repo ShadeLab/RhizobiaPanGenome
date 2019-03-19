@@ -95,6 +95,8 @@ All other processes were followed as seen in the nifH gene isolation and alignme
 
 285 matches were found with blastN. What genomes these matches corresponded with can be seen in the genematches.csv file. Some genomes had 2 matches and one had 6, leading to more matches being found than the number of genomes (264).
 
+The toFasta function was previously appending all matches of a given scaffold into one sequence. I do not believe that this was an issue before as only a maximum of one match per scaffold was found per blast. THe toFasta function has been modified to only take the match with the highest score (the matches are sorted by highest score to lowest score so the first can always be taken). 
+
 ## recA
 5 recA fasta files were taken from NCBI for usage as references in blastn
  - >NC_018610.1:1038758-1039897 Lactobacillus buchneri CD034, complete genome - 1140 bp (https://www.ncbi.nlm.nih.gov/gene/34324109)
@@ -171,6 +173,89 @@ Before alignment in MEGA, the sequences were flipped using mothur's alignment to
 Each fasta for each gene was reduced to one gene per genome during MEGA processing. All fastas have 176 tags and are ordered based on corresponding genome. This allowed for easy concatenation into a single fasta "houseConcat.fasta" using a script in the gene listing notebook. This script was not made to be reusable but I may go back later and improve it. This new fasta and the three fastas used to make it were moved into a new subdirectory labeled "phylogeny".
 
 A distance matrix and OTU information for houseConcat.fasta was produced using MEGA and mothur with the same process as seen in the initial nifH processing notes. 
+
+# House genes redo
+
+I used chloroplast genes for 16srRNA blasting as well as other unideal references for other genes. I will be redoing most if not all of "House genes location" with proper correct references. 
+
+A new function in conversion functions notebook "lengthAve" calculates average length of all sequences in a fasta file and allows for percentile control for comparison of old and new fastas produced by better references. 
+
+## 16s rRNA 
+
+ - >NR_074499.2 Rhizobium etli strain CFN 42 16S ribosomal RNA, complete sequence - 1481bp
+ - >NR_115872.1 Rhizobium fabae strain CCBAU 33202 16S ribosomal RNA, partial sequence - 1353bp
+ - >NR_044774.1 Rhizobium leguminosarum bv. viciae USDA 2370 16S ribosomal RNA, partial sequence - 1423bp
+ - >NR_036785.1 Rhizobium gallicum strain R602sp 16S ribosomal RNA, partial sequence - 1474bp
+
+309 hits compared to original 285 hits. 0.3 to 0.95 percentile average length is ~1481 compared to original ~1280. Average length of all sequences is ~1299 compared to original ~1217.
+
+0.3 was chosen as a bottom line as it the bottom 30% contains many outliers, some under 100bp. Top percents don't contain any outliers.
+
+## recA
+
+ - >NC_007761.1:c2423762-2422674 Rhizobium etli CFN 42, complete genome - 1089bp
+ - >NC_011369.1:c2005252-2004164 Rhizobium leguminosarum bv. trifolii WSM2304, complete genome - 1089bp
+ - >NC_020059.1:c2000543-1999458 Rhizobium tropici CIAT 899, complete genome - 1086bp
+
+263 hits compared to original 246. Average of all lengths is ~1072 compared to original ~877. 0.1 to 0.9 percentiles is ~1073 compared to original ~885. New recAout.fasta has a range of 987 to 1091 while old has a range from 623 to 983 with no outliers in either fasta.
+
+## glnII
+
+I only found one glnII gene belonging to a Rhizobium in ncbi. I found 3 more using uniprot. 
+ - >CP006877.1:211936-212976 Rhizobium gallicum bv. gallicum R602, complete genome - 1041bp
+ - >ENA|CAA47710|CAA47710.1 Rhizobium leguminosarum glutamate--ammonia ligase - 981 bp
+ - >X17523.1 R.meliloti DNA for glutamine synthetase II (GSII) - 990 bp
+ - >ENA|AGS22903|AGS22903.1 Rhizobium etli bv. mimosae str. Mim1 glutamine synthetase 2 - 1041bp
+
+272 matches were made compared to the original 218. Average length of all sequences is 989 compared to 981. Average length of 0.2 to 0.95 is 1031 compared to 1003.
+
+
+## gltA
+
+ - >ENA|AGS21774|AGS21774.1 Rhizobium etli bv. mimosae str. Mim1 citrate synthase 1 - 1290bp
+ - >ENA|AAB82405|AAB82405.1 Sinorhizobium meliloti citrate synthase - 1290bp
+ - >ENA|AGB71100|AGB71100.1 Rhizobium tropici CIAT 899 citrate (Si)-synthase - 1290bp
+ - >ENA|AJD43901|AJD43901.1 Rhizobium gallicum bv. gallicum R602 citrate synthase 2 - 1290bp
+
+271 matches were made compared to original 50. Average length of all is ~1255 compared to original 1118.
+
+## dnaK
+
+ - >ENA|CAA74982|CAA74982.1 Rhizobium leguminosarum hypothetical protein - 1917bp
+ - >ENA|AGS20025|AGS20025.1 Rhizobium etli bv. mimosae str. Mim1 molecular chaperone protein DnaK - 1917bp
+ - >ENA|AGB69577|AGB69577.1 Rhizobium tropici CIAT 899 chaperone protein DnaK - 1920bp
+ - >ENA|AEY82528|AEY82528.1 Rhizobium favelukesii DnaK - 1917bp
+
+264 matches were made compared to original 140. Average length of all is 1902 compared to original 1132. It appears that the original fasta conversion did affect the original dnaKoutOnlyHits to fasta conversion and some others may have been affected so thats another good reason to be redoing this process. 
+
+## rpoA
+
+ - >NC_007761.1:1781361-1782371 Rhizobium etli CFN 42, complete genome - 1011bp
+ - >CP017101.1:1672454-1673464 Rhizobium gallicum strain IE4872, complete genome - 1011bp
+ - >ENA|KEC75252|KEC75252.1 Rhizobium leguminosarum bv. phaseoli CCGM1 DNA-directed RNA polymerase subunit alpha - 1011bp
+ - >ENA|KPH04744|KPH04744.1 Rhizobium acidisoli DNA-directed RNA polymerase subunit alpha - 1011bp
+ - >ENA|PDS54494|PDS54494.1 Rhizobium anhuiense DNA-directed RNA polymerase subunit alpha - 1011bp
+ - >ENA|PDT00351|PDT00351.1 Rhizobium sp. C5 DNA-directed RNA polymerase subunit alpha - 1011bp
+ - >ENA|PCK77361|PCK77361.1 Rhizobium sophoriradicis DNA-directed RNA polymerase subunit alpha - 1011bp
+
+263 matches were made compared to the original 0. Average length of all sequences is 1005bp.
+
+# House gene concatenation redo
+
+All new fasta files were read into a new genome match count and scaffold name table, "newgenematches.csv" and "newnametable.csv"
+
+Count of genomes containing a given set of the 6 available genes:
+- total: 264
+- rRNA, glnII: 250
+- rRNA, glnII, gltA: 250
+- rRNA, glnII, gltA, dnaK: 250
+- rRNA, glnII, gltA, dnaK, rpoA: 250
+- rRNA, recA, glnII, gltA, dnaK, rpoA: 250
+
+All 6 genes can be used with only a loss of 14 from the total of 264 genomes. Including more genomes will mean more loss due to shortness in the MEGA processing but this isn't a big enough reason to disclude any of the genes. 
+
+geneout.fasta files were reduced to only genes included in the 250 common genomes. These were labeled as genecon.fasta.
+
 
 
 # functional genes
