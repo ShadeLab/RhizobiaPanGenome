@@ -254,6 +254,9 @@ Count of genomes containing a given set of the 6 available genes:
 
 All 6 genes can be used with only a loss of 14 from the total of 264 genomes. I expect to lose a greater number of genomes in MEGA processing than before due to the increase of genes but the end genome total should be higher and with 6 genes instead of 3. *gene*out.fasta files were reduced to only genes included in the 250 common genomes. These were labeled as *gene*con.fasta.
 
+Sequences were automatically flipped with mothur, marks were removed with python function removeMarks, formatted tags by mothur were replaced with originalTags function. 
+
+
 
 
 # functional genes
@@ -265,9 +268,12 @@ nifH process will be followed for all genes in list ~
 nifH was redone using the same references as before. Some of the conversion functions were modified to preserve tag formatting for usage in creating the gene to genome count tables. The results should be the same. I will be replacing all nifH files with these new ones.
 
 References:
- - 
+ - >NZ_HF536778.1:c82817-81924 Rhizobium mesoamericanum STM3625, whole genome shotgun sequence - 894bp
+ - >ENA|AAA26319|AAA26319.1 Rhizobium phaseoli hypothetical protein - 894bp
+ - >ENA|KKZ84372|KKZ84372.1 Rhizobium phaseoli Ch24-10 nitrogenase reductase - 894bp
+ - >ENA|ANM26530|ANM26530.1 Rhizobium sp. N941 nitrogenase iron protein NifH 1 - 894bp
 
-101 matches were found
+108 matches were found
 
 nifH gene to genome information was added to genematches.csv
 
@@ -283,4 +289,4 @@ nifH gene to genome information was added to genematches.csv
 
 98 matches were found
 
-nifH gene to genome information was added to genematches.csv
+nodC gene to genome information was added to genematches.csv
