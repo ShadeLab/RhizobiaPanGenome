@@ -1,0 +1,61 @@
+Linux version
+
+Using ReadLine
+
+Running 64Bit Version
+
+mothur v.1.39.5
+Last updated: 3/20/2017
+
+by
+Patrick D. Schloss
+
+Department of Microbiology & Immunology
+University of Michigan
+http://www.mothur.org
+
+When using, please cite:
+Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
+
+Distributed under the GNU General Public License
+
+Type 'help()' for information on the commands that are available
+
+For questions and analysis support, please visit our forum at https://www.mothur.org/forum
+
+Type 'quit()' to exit program
+Interactive Mode
+
+
+mothur > cluster(phyllip=nifHdistAA.dist, method=average, cutoff=10)
+phyllip is not a valid parameter.
+The valid parameters are: phylip, fasta, name, count, column, cutoff, precision, method, initialize, metric, delta, iters, showabund, timing, sim, seed, inputdir, processors, and outputdir.
+No valid current files. You must provide a phylip, column or fasta file before you can use the cluster command.
+
+Using 1 processors.
+[ERROR]: did not complete cluster.
+
+mothur > cluster(phylip=nifHdistAA.dist, method=average, cutoff=10)
+
+Using 1 processors.
+********************#****#****#****#****#****#****#****#****#****#****#
+Reading matrix:     |||||||||||||||||||||||||||||||||||||||||||||||||||
+***********************************************************************
+It took 0 seconds to cluster
+
+Output File Names: 
+nifHdistAA.an.sabund
+nifHdistAA.an.rabund
+nifHdistAA.an.list
+
+
+mothur > quit()
+
+
+************************************************************
+************************************************************
+************************************************************
+Detected 1 [ERROR] messages, please review.
+************************************************************
+************************************************************
+************************************************************
