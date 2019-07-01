@@ -1,0 +1,28 @@
+1: N4311
+Identifiers: BioSample: SAMN03998649; Sample name: Rhizobium sp. N4311
+Organism: Rhizobium sp. N4311
+Attributes:
+    /culture collection="not applicable"
+    /depth="not collected"
+    /sample type="Whole organism"
+    /latitude and longitude="not collected"
+    /mating type="not collected"
+    /broad-scale environmental context="not collected"
+    /host tissue sampled="Legume-root nodule"
+    /biomaterial provider="Finca Xochitlamitla"
+    /collected by="Olga Perez Carrascal and Victor Gonzalez Z."
+    /strain="N4311"
+    /temperature="26C"
+    /host="Phaseolus vulgaris"
+    /geographic location="Mexico: Tepoztlan, Morelos"
+    /serotype="not applicable"
+    /sample size="2025 strains"
+    /collection date="2013"
+    /isolation source="legume-root nodule"
+    /passage history="not collected"
+    /altitude="1700 m"
+Description:
+Genomic Differentiation in a Sympatric Population of Rhizobium
+Accession: SAMN03998649	ID: 3998649
+
+

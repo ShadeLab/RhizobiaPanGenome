@@ -1,0 +1,21 @@
+1: MIGS Cultured Bacterial/Archaeal sample from Rhizobium sp. CCGE531
+Identifiers: BioSample: SAMN10118218; Sample name: CCGE531
+Organism: Rhizobium sp. CCGE531
+Attributes:
+    /strain="CCGE531"
+    /collection date="June-2016"
+    /broad-scale environmental context="terrestrial biome"
+    /local-scale environmental context="soil"
+    /environmental medium="agricultural soil"
+    /geographic location="Mexico: Veracruz, Ayahualulco, Ocotepec"
+    /host="Phaseolus"
+    /isolation and growth condition="PY at 28 degrees"
+    /latitude and longitude="19 N 97 W"
+    /number of replicons="5"
+    /reference for biomaterial="Rhizobium etli, R. leguminosarum and a new Rhizobium genospecies from Phaseolus dumosus"
+Description:
+Rhizobium etli, R. leguminosarum and a new Rhizobium genospecies from Phaseolus dumosus
+Keywords: GSC:MIxS;MIGS:5.0
+Accession: SAMN10118218	ID: 10118218
+
+

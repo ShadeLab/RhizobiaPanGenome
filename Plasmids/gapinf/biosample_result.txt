@@ -1,0 +1,16 @@
+1: Sample from Rhizobium etli NXC12
+Identifiers: BioSample: SAMN06767430; Sample name: Rhizobium etli NXC12
+Organism: Rhizobium etli
+Attributes:
+    /strain="NXC12"
+    /host="Phaseolus vulgaris"
+    /collection date="Jul-2012"
+    /geographic location="Mexico: Morelos, Sierra de Huautla"
+    /sample type="cell culture"
+    /collected by="Fabiola Miranda"
+    /temperature="16-28"
+Description:
+Rhizobium etli NXC12
+Accession: SAMN06767430	ID: 6767430
+
+

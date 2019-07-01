@@ -1,0 +1,1281 @@
+Rhizobium Frank 1889, genus. (Type genus of the order ¤ Rhizobiales Kuykendall 2006; type genus of the family ¤ Rhizobiaceae Conn 1938 [Approved Lists 1980]; type genus of the tribe ¤ Rhizobieae Prévot 1948 [Approved Lists 1980] 
+Type species: ¤ Rhizobium leguminosarum (Frank 1879) Frank 1889 (Approved Lists 1980). 
+Synonyms: "Phytomyxa" Schroeter 1886, "Rhizobacterium" Kirchner 1896. 
+Etymology: Gr. n. rhiza, a root; Gr. masc. n. bios, life; N.L. neut. n. Rhizobium, that which lives in a root. 
+Approved Lists reference: SKERMAN (V.B.D.), McGOWAN (V.) and SNEATH (P.H.A.) (editors): Approved Lists of Bacterial Names. Int. J. Syst. Bacteriol., 1980, 30, 225-420 (Approved Lists of Bacterial Names in IJSEM Online - Approved Lists of Bacterial Names Amended edition). 
+Original publication: FRANK (B.): Über die Pilzsymbiose der Leguminosen. Berichte der Deutschen Botanischen Gesellschaft, 1889, 7, 332-346.
+
+Note: According to Jarvis et al. 1992, Rhizobium Frank 1889 (Approved Lists 1980) is an earlier synonym of ¤ Sinorhizobium Chen et al. 1988 [1]. On the other hand, the subcommittee on the taxonomy of Agrobacterium and Rhizobium does not endorse the genus Sinorhizobium Chen et al. 1988 [2]. 
+References: 
+1 JARVIS (B.D.W.), DOWNER (H.L.) and YOUNG (J.P.W.): Phylogeny of fast-growing soybean-nodulating rhizobia supports synonymy of Sinorhizobium and Rhizobium and assignment to Rhizobium fredii. Int. J. Syst. Bacteriol., 1992, 42, 93-96. 
+Original article in IJSEM Online 
+2 ICSB, SUBCOMMITTEE ON THE TAXONOMY OF AGROBACTERIUM AND RHIZOBIUM: Minutes of the meeting, 10 December 1992, Cancun, Mexico. Int. J. Syst. Bacteriol., 1993, 43, 622. 
+Original article in IJSEM Online
+
+→ Rhizobium Frank 1889 (Approved Lists 1980) emend. Young et al. 2001. 
+Reference: YOUNG (J.M.), KUYKENDALL (L.D.), MARTÍNEZ -ROMERO (E.), KERR (A.) and SAWADA (H.): A revision of Rhizobium Frank 1889, with an emended description of the genus, and the inclusion of all species of Agrobacterium Conn 1942 and Allorhizobium undicola de Lajudie et al. 1998 as new combinations: Rhizobium radiobacter, R. rhizogenes, R. rubi, R. undicola and R. vitis. Int. J. Syst. Evol. Microbiol., 2001, 51, 89-103. 
+Original article in IJSEM Online
+
+Notes: 
+1 According to Young et al. 2001, Rhizobium Frank 1889 (Approved Lists 1980) is an earlier heterotypic synonym of ¤ Agrobacterium Conn 1942 (Approved Lists 1980). 
+Reference: YOUNG (J.M.), KUYKENDALL (L.D.), MARTÍNEZ -ROMERO (E.), KERR (A.) and SAWADA (H.): A revision of Rhizobium Frank 1889, with an emended description of the genus, and the inclusion of all species of Agrobacterium Conn 1942 and Allorhizobium undicola de Lajudie et al. 1998 as new combinations: Rhizobium radiobacter, R. rhizogenes, R. rubi, R. undicola and R. vitis. Int. J. Syst. Evol. Microbiol., 2001, 51, 89-103. 
+Original article in IJSEM Online 
+2 According to Young et al. 2001, Rhizobium Frank 1889 (Approved Lists 1980) is an earlier heterotypic synonym of ¤ Allorhizobium de Lajudie et al. 1998. 
+Reference: YOUNG (J.M.), KUYKENDALL (L.D.), MARTÍNEZ -ROMERO (E.), KERR (A.) and SAWADA (H.): A revision of Rhizobium Frank 1889, with an emended description of the genus, and the inclusion of all species of Agrobacterium Conn 1942 and Allorhizobium undicola de Lajudie et al. 1998 as new combinations: Rhizobium radiobacter, R. rhizogenes, R. rubi, R. undicola and R. vitis. Int. J. Syst. Evol. Microbiol., 2001, 51, 89-103. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium acidisoli Román-Ponce et al. 2016, sp. nov. 
+Type strain: (see also StrainInfo.net) FH13=CCBAU 101094=HAMBI 3626=LMG 28672. 
+Sequence accession no. (16S rRNA gene) for the type strain: KJ921033. 
+Whole-genome sequence accession no. for the type strain: PRJNA295402. 
+Etymology: L. adj. acidus, acidic; L. n. solum, soil; N.L. gen. n. acidisoli, of acidic soil. 
+Source: Plant. 
+Valid publication: ROMÁN-PONCE, B., JING ZHANG, Y., SOLEDAD VÁSQUEZ-MURRIETA, M., HUA SUI, X., FENG CHEN, W., CARLOS ALBERTO PADILLA, J., WU GUO, X., LIAN GAO, J., YAN, J., HONG WEI, G. and TAO WANG, E. 2016. Rhizobium acidisoli gen. nov., isolated from root nodules of Phaseolus vulgaris in acid soils. Int. J. Syst. Evol. Microbiol., 66, 398-406. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium aegyptiacum Shamseldin et al. 2017, sp. nov. 
+Type strain: (see also StrainInfo.net) USDA 7124=LMG 29296=CECT 9098. 
+Sequence accession no. (16S rRNA gene) for the type strain: KU664566. 
+Etymology: N/A. 
+Source: Environmental - soil. 
+Valid publication: VALIDATION LIST no. 177. List of novel names and novel combinations previously effectively, but not validly, published. Int. J. Syst. Evol. Microbiol., 67 (2017), 3140-3143. 
+Validation List Online 
+Effective publication: SHAMSELDIN, A., CARRO, L., PEIX, A., VELAZQUEZ, E., MOAWAD, H. and SADOWSKY, M. J. 2016. The symbiovar trifolii of Rhizobium bangladeshense and Rhizobium aegyptiacum sp. nov., nodulate Trifolium alexandrinum in Egypt. Syst. Appl. Microbiol., 39, 275-279.
+Effective publication Online
+
+   image
+
+Rhizobium aethiopicum Aserse et al. 2017, sp. nov. 
+Type strain: (see also StrainInfo.net) HBR26=HAMBI 3550=LMG 29711. 
+Sequence accession no. (16S rRNA gene) for the type strain: JN580610. 
+Whole-genome sequence accession no.: FMAJ01000000. 
+Etymology: L. neut. adj. aethiopicum, pertaining to Ethiopia. 
+Source: Plant. 
+Valid publication: VALIDATION LIST no. 175. List of new names and new combinations previously effectively, but not validly, published. Int. J. Syst. Evol. Microbiol., 67 (2017), 1095-1098. 
+Validation List Online 
+Effective publication: ASERSE, A. A., WOYKE, T., KYRPIDES, N. C., WHITMAN, W. B. and LINDSTRÖM, K. 2017. Draft genome sequence of type strain HBR26T and description of Rhizobium aethiopicum sp. nov. Stand. Genomic Sci., 12, 14.
+Effective publication Online
+
+   image
+
+Rhizobium aggregatum (Hirsch and Müller 1986) Kaur et al. 2011, comb. nov. 
+Type strain: (see also StrainInfo.net) Müller 161 = ATCC 43293= DSM 1111 = IFAM 1003 = VKM B-2061. 
+Sequence accession no. (16S rRNA gene) for the type strain: X73041. 
+Basonym: ¤ Blastobacter aggregatus Hirsch and Müller 1986. 
+Etymology: L. neut. part. adj. aggregatum, added to, joined together, referring to the frequent formation of rosettes. 
+Valid publication: KAUR (J.), VERMA (M.) and LAL (R.): Rhizobium rosettiformans gen. nov., isolated from a hexachlorocyclohexane dump site, and reclassification of Blastobacter aggregatus Hirsch and Muller 1986 as Rhizobium aggregatum comb. nov. Int. J. Syst. Evol. Microbiol., 2011, 61, 1218-1225. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium alamii Berge et al. 2009, sp. nov. 
+Type strain: (see also StrainInfo.net) GBV016 = CFBP 7146 = LMG 24466. 
+Sequence accession no. (16S rRNA gene) for the type strain: AM931436. 
+Etymology: N.L. gen. masc. n. alamii, of Alami, named in honour of Younes Alami, who isolated strain YAS34 and demonstrated its effect on non-legume plant growth. 
+Valid publication: BERGE (O.), LODHI (A.), BRANDELET (G.), SANTAELLA (C.), RONCATO (M.A.), CHRISTEN (R.), HEULIN (T.) and ACHOUAK (W.): Rhizobium alamii gen. nov., an exopolysaccharide-producing species isolated from legume and non-legume rhizospheres. Int. J. Syst. Evol. Microbiol., 2009, 59, 367-372. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium alkalisoli Lu et al. 2009, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 01393 = HAMBI 3051 = LMG 24763. 
+Sequence accession no. (16S rRNA gene) for the type strain: EU074168. 
+Etymology: N.L. n. alkali (from Arabic al-qaliy), alkali; L. n. solum, soil; N.L. gen. n. alkalisoli, of alkaline soil, referring to the fact that the bacterium was isolated from Caragana intermedia grown in saline-alkali soil. 
+Valid publication: LU (Y.L.), CHEN (W.F.), HAN (L.L.), WANG (E.T.) and CHEN (W.X.): Rhizobium alkalisoli gen. nov., isolated from Caragana intermedia growing in saline-alkaline soils in the north of China. Int. J. Syst. Evol. Microbiol., 2009, 59, 3006-3011. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium altiplani Barauna et al. 2016, sp. nov. 
+Type strain: (see also StrainInfo.net) BR 10423=HAMBI 3664. 
+Sequence accession no. (16S rRNA gene) for the type strain: KX022634. 
+Whole-genome sequence accession no. for the type strain: . 
+Etymology: L. adj. altus, high; L. neut. n. planum, a plain; N.L. gen. n. altiplani, of a high plain; from the central plateau of Brazil; referring to a region of Brazil with more than 1000 m of altitude and which is contained in the Cerrado biome).. 
+Source: Environmental - soil. 
+Valid publication: BARAUNA, A. C., ROUWS, L. F., SIMOES-ARAUJO, J. L., DOS REIS JUNIOR, F. B., IANNETTA, P. P., MALUK, M., GOI, S. R., REIS, V. M., JAMES, E. K. and ZILLI, J. E. 2016. Rhizobium altiplani gen. nov., isolated from effective nodules on Mimosa pudica growing in untypically alkaline soil in central Brazil. Int. J. Syst. Evol. Microbiol., 66, 4118-4124. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium alvei Sheu et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) TNR-22=BCRC 80408=LMG 26895=KCTC 23919. 
+Sequence accession no. (16S rRNA gene) for the type strain: HE649224. 
+Etymology: L. gen. n. alvei, of/from the bed of a river, referring to the location from where the type strain was isolated. 
+Source: Environmental - freshwater. 
+Valid publication: SHEU, S.-Y., HUANG, H.-W., YOUNG, C.-C. and CHEN, W.-M. 2015. Rhizobium alvei gen. nov., isolated from a freshwater river. Int. J. Syst. Evol. Microbiol., 65, 472-478 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium anhuiense Zhang et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 23252=CGMCC 1.12621=LMG 27729. 
+Sequence accession no. (16S rRNA gene) for the type strain: KF111868. 
+Etymology: N.L. neut. adj. anhuiense, originating from Anhui Province of China, from where the type strain was isolated. 
+Source: Plant. 
+Valid publication: ZHANG, Y. J., ZHENG, W. T., EVERALL, I., YOUNG, J. P., ZHANG, X. X., TIAN, C. F., SUI, X. H., WANG, E. T. and CHEN, W. X. 2015. Rhizobium anhuiense gen. nov., isolated from effective nodules of Vicia faba and Pisum sativum. Int. J. Syst. Evol. Microbiol., 65, 2960-2967. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium arenae Zhang et al. 2017, sp. nov. 
+Type strain: (see also StrainInfo.net) MIM27=KCTC 52299=MCCC 1K03215. 
+Sequence accession no. (16S rRNA gene) for the type strain: KX352244. 
+Whole-genome sequence accession no.: MOOY01000000. 
+Etymology: L. fem. gen. n. arenae, of sand, the isolation source of the type strain. 
+Source: Environmental. 
+Valid publication: ZHANG, S., YANG, S., CHEN, W., CHEN, Y., ZHANG, M., ZHOU, X., FAN, G. and FENG, F. Y. 2017. Rhizobium arenae gen. nov., isolated from the sand of Desert Mu Us, China. Int. J. Syst. Evol. Microbiol., 67, 2098-2103. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium azibense Mnasri et al. 2014, sp. nov. 
+Type strain: (see also StrainInfo.net) 23C2=CCBAU 101087=HAMBI3541. 
+Sequence accession no. (16S rRNA gene) for the type strain: JN624691. 
+Whole-genome sequence accession no. for the type strain: N/A. 
+Etymology: N.L. neut. adj. azibense, of or pertaining to Azib (North Tunisia), referring to the origin of the type strain, 23C2. 
+Source: Plant. 
+Valid publication: MNASRI, B., LIU, T. Y., SAIDI, S., CHEN, W. F., CHEN, W. X., ZHANG, X. X. and MHAMDI, R. 2014. Rhizobium azibense gen. nov., a nitrogen fixing bacterium isolated from root-nodules of Phaseolus vulgaris. Int. J. Syst. Evol. Microbiol., 64, 1501-1506. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium azooxidifex Behrendt et al. 2016, sp. nov. 
+Type strain: (see also StrainInfo.net) Po 20/26=DSM 100211=LMG 28788 . 
+Sequence accession no. (16S rRNA gene) for the type strain: LN832063. 
+Whole-genome sequence accession no. for the type strain: -. 
+Etymology: N.L. n. azooxidum, dinitrogenmonoxide; L. n. suffix -fex, the maker; azooxidifex, the dinitrogenmonoxide maker. 
+Source: Environmental - soil. 
+Valid publication: BEHRENDT, U., KAMPFER, P., GLAESER, S. P., AUGUSTIN, J. and ULRICH, A. 2016. Characterization of the N2O-producing soil bacterium Rhizobium azooxidifex sp. nov. Int. J. Syst. Evol. Microbiol., 66, 2354-2361. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium bangladeshense Rashid et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) BLR175=LMG 28442=DSM 29287. 
+Sequence accession no. (16S rRNA gene) for the type strain: JN648931. 
+Etymology: N.L. neut. adj. bangladeshense, from Bangladesh, referring to the geographical origin of the first strains. 
+Source: Plant. 
+Valid publication: RASHID, M. H., YOUNG, J. P. W., EVERALL, I., CLERCX, P., WILLEMS, A., SANTHOSH BRAUN, M. and WINK, M. 2015. Average nucleotide identity of genome sequences supports the description of Rhizobium lentis sp. nov., Rhizobium bangladeshense sp. nov. and Rhizobium binae sp. nov., from lentil (Lens culinaris) nodules. Int. J. Syst. Evol. Microbiol., 65, 3037-3045. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium binae Rashid et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) BLR195=LMG 28443=DSM 29288. 
+Sequence accession no. (16S rRNA gene) for the type strain: JN648932. 
+Etymology: N.L. gen. fem. n. binae, arbitrary name formed from the abbreviation for the Bangladesh Institute of Nuclear Agriculture, the research institute where the first steps to isolate the species were taken. 
+Source: Plant. 
+Valid publication: RASHID, M. H., YOUNG, J. P. W., EVERALL, I., CLERCX, P., WILLEMS, A., SANTHOSH BRAUN, M. and WINK, M. 2015. Average nucleotide identity of genome sequences supports the description of Rhizobium lentis gen. nov., Rhizobium bangladeshense sp. nov. and Rhizobium binae sp. nov., from lentil (Lens culinaris) nodules. Int. J. Syst. Evol. Microbiol., 65, 3037-3045. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium borbori Zhang et al. 2011, sp. nov. 
+Type strain: (see also StrainInfo.net) DN316 = CICC 10378 = LMG 23925. 
+Sequence accession no. (16S rRNA gene) for the type strain: EF125187. 
+Etymology: Gr. n. borboros, sludge; N.L. gen. n. borbori, of sludge. 
+Valid publication: ZHANG (G.X.), REN (S.Z.), XU (M.Y.), ZENG (G.Q.), LUO (H.D.), CHEN (J.L.), TAN (Z.Y.) and SUN (G.P.): Rhizobium borbori gen. nov., aniline-degrading bacteria isolated from activated sludge. Int. J. Syst. Evol. Microbiol., 2011, 61, 816-822. 
+Original article in IJSEM Online
+
+→ ¤ Allorhizobium borbori (Zhang et al. 2011) Mousavi et al. 2016, comb. nov.,
+
+   image
+
+Rhizobium calliandrae Rincón-Rosales et al. 2013, sp. nov. 
+Type strain: (see also StrainInfo.net) CCGE524=ATCC BAA-2435=CIP 110456=LBP2-1. 
+Sequence accession no. (16S rRNA gene) for the type strain: JX855162. 
+Etymology: N.L. gen. n. calliandrae, of Calliandra, the genus of the medicinal plant Calliandra grandiflora from which the bacterium were isolated. 
+Source: Plant. 
+Valid publication: RINCÓN-ROSALES, R., VILLALOBOS-ESCOBEDO, J. M., ROGEL, M. A., MARTINEZ, J., ORMEÑO-ORRILLO, E. and MARTÍNEZ-ROMERO, E. 2013. Rhizobium calliandrae sp. nov., Rhizobium mayense sp. nov. and Rhizobium jaguaris sp. nov., rhizobial species nodulating the medicinal legume Calliandra grandiflora. Int. J. Syst. Evol. Microbiol., 63, 3423-3429. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium capsici Lin et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) CC-SKC2=BCRC 80699=JCM 19535. 
+Sequence accession no. (16S rRNA gene) for the type strain: HQ113369. 
+Whole-genome sequence accession no. for the type strain: -. 
+Etymology: -. 
+Source: Plant pathogen. 
+Valid publication: Validation List no. 164. List of new names and new combinations previously effectively, but not validly, published. Int. J. Syst. Evol. Microbiol., 65 (2015), 2017-2025. 
+Validation List Online 
+Effective publication: Lin, S.-Y., Hung, M.-H., Hameed, A., Liu, Y.-C., Hsu, Y.-H., Wen, C.-Z., Arun, A.B., Busse, H.-J., Glaeser, S.P., other authors, 2015. Rhizobium capsici gen. nov., isolated from root tumor of a green bell pepper (Capsicum annuum var. grossum) plant. Antonie van Leeuwenhoek, 107, 773-784.
+Effective publication Online
+
+   image
+
+Rhizobium cauense Liu et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 101002=HAMBI 3288=LMG 26832. 
+Sequence accession no. (16S rRNA gene) for the type strain: JQ308326. 
+Whole-genome sequence accession no. for the type strain: -. 
+Etymology: -. 
+Source: Plant. 
+Valid publication: Validation List no. 162. List of new names and new combinations previously effectively, but not validly, published. Int. J Syst. Evol. Microbiol., 65 (2015), 741-744. 
+Validation List Online 
+Effective publication: LIU, T. Y., LI, Y., JR, LIU, X. X., SUI, X. H., ZHANG, X. X., WANG, E. T., CHEN, W. X., CHEN, W. F. and PUłAWSKA, J. 2012. Rhizobium cauense gen. nov., isolated from root nodules of the herbaceous legume Kummerowia stipulacea grown in campus lawn soil. Syst. Appl. Microbiol., 35, 415-420.
+Effective publication Online
+
+   image
+
+Rhizobium cellulosilyticum García-Fraile et al. 2007, sp. nov. 
+Type strain: (see also StrainInfo.net) ALA10B2 = CECT 7176 = DSM 18291 = LMG 23642. 
+Sequence accession no. (16S rRNA gene) for the type strain: DQ855276. 
+Etymology: N.L. n. cellulosum, cellulose; N.L. adj. lyticus -a -um (from Gr. adj. lutikos -ê -on), able to loosen, able to dissolve; N.L. neut. adj. cellulosilyticum, cellulose-dissolving. 
+Valid publication: GARCÍA-FRAILE (P.), RIVAS (R.), WILLEMS (A.), PEIX (A.), MARTENS (M.), MARTÍNEZ-MOLINA (E.), MATEOS (P.F.) and VELÁZQUEZ (E.): Rhizobium cellulosilyticum gen. nov., isolated from sawdust of Populus alba. Int. J. Syst. Evol. Microbiol., 2007, 57, 844-848. 
+Original article in IJSEM Online
+Note: The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of Rhizobium cellulosilyticum ALA10B2 is DQ855276, not DQ855376 as given in the published paper.
+Reference: Erratum in IJSEM Online.
+
+   image
+
+Rhizobium ciceri Nour et al. 1994, sp. nov. 
+Type strain: (see also StrainInfo.net) UPM-Ca7 = ATCC 51585= CIP 104229 = DSM 11540 = HAMBI 1750 = JCM 21564 = LMG 14989 = NBRC 100389. 
+Sequence accession no. (16S rRNA gene) for the type strain: U07934. 
+Etymology: L. n. cicer -eris, the chickpea, and also a botanical generic name; L. gen. n. ciceri, of Cicer. 
+Valid publication: NOUR (S.M.), FERNANDEZ (M.P.), NORMAND (P.) and CLEYET-MAREL (J.C.): Rhizobium ciceri gen. nov., consisting of strains that nodulate chickpeas (Cicer arietinum L.). Int. J. Syst. Bacteriol., 1994, 44, 511-522. 
+Original article in IJSEM Online
+
+→ ¤ Mesorhizobium ciceri (Nour et al. 1994) Jarvis et al. 1997, comb. nov.
+
+   image
+
+Rhizobium daejeonense Quan et al. 2005, sp. nov. 
+Type strain: (see also StrainInfo.net) L61 = CCBAU 10050 = IAM 15042 = JCM 21505 = KCTC 12121 = NBRC 102495. 
+Sequence accession no. (16S rRNA gene) for the type strain: AY341343. 
+Etymology: N.L. neut. adj. daejeonense, pertaining to Daejeon, a city in Korea, where the type strain was isolated. 
+Valid publication: QUAN (Z.X.), BAE (H.S.), BAEK (J.H.), CHEN (W.F.), IM (W.T.) and LEE (S.T.): Rhizobium daejeonense gen. nov., isolated from a cyanide treatment bioreactor. Int. J. Syst. Evol. Microbiol., 2005, 55, 2543-2549. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium ecuadorense Ribeiro et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) CNPSo 671=UMR 1450=PIMAMPIRS I 5=LMG 27578. 
+Sequence accession no. (16S rRNA gene) for the type strain: JN129381. 
+Etymology: N.L. neut. adj. ecuadorense, of or belonging to Ecuador. 
+Source: Plant. 
+Valid publication: RIBEIRO, R. A., MARTINS, T. B., ORMEÑO-ORRILLO, E., MARCON DELAMUTA, J. R., ROGEL, M. A., MARTÍNEZ-ROMERO, E. and HUNGRIA, M. 2015. Rhizobium ecuadorense gen. nov., an indigenous N2-fixing symbiont of the Ecuadorian common bean (Phaseolus vulgaris L.) genetic pool. Int. J. Syst. Evol. Microbiol., 65, 3162-3169. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium endophyticum López-López et al. 2011, sp. nov. 
+Type strain: (see also StrainInfo.net) CCGE 2052 = ATCC BAA-2116 = HAMBI 3153 = LMG 26002. 
+Sequence accession no. (16S rRNA gene) for the type strain: EU867317. 
+Etymology: Gr. pref. endo, within; Gr. n. phuton, plant; L. neut. suff. -icum, adjectival suffix used with the sense of belonging to; N.L. neut. adj. endophyticum, within plant, endophytic, pertaining to the isolation of the type strain from plant tissues. 
+Valid publication: Validation List no. 139. Int. J. Syst. Evol. Microbiol., 2011, 61, 1011-1013. 
+Effective publication: LÓPEZ-LÓPEZ (A.), ROGEL (M.A.), ORMEÑO-ORRILLO (E.), MARTÍNEZ-ROMERO (J.) and MARTÍNEZ-ROMERO (E.): Phaseolus vulgaris seed-borne endophytic community with novel bacterial species such as Rhizobium endophyticum sp. nov. Syst. Appl. Microbiol., 2010, 33, 322-327. 
+Validation List no. 139 in IJSEM Online - Effective publication Online
+
+Note: The accession number LMG 26002 has been provided at the time of request for valid publication of the name. 
+Reference: ASSOCIATE EDITOR, IJSEM: Validation List no. 139 (footnote ||||). Int. J. Syst. Evol. Microbiol., 2011, 61, 1011-1013. 
+Validation List no. 139 in IJSEM Online
+
+   image
+
+Rhizobium endolithicum Parag et al. 2014, sp. nov. 
+Type strain: (see also StrainInfo.net) JC140=CCUG 64352=KCTC 32077=MTCC 11723. 
+Sequence accession no. (16S rRNA gene) for the type strain: HE818072. 
+Whole-genome sequence accession no. for the type strain: N/A. 
+Etymology: -. 
+Source: Environmental. 
+Valid publication: Validation List no. 157. List of new names and new combinations previously effectively, but not validly, published. Int. J Syst. Evol. Microbiol., 64 (2014), 1455-1458. 
+Validation List Online 
+Effective publication: PARAG, B., SASIKALA, CH.. and RAMANA CH., V. 2014. Molecular and culture dependent characterization of endolithic bacteria in two beach sand samples and description of Rhizobium endolithicum sp. nov. Antonie van Leeuwenhoek, 104, 1235-1244.
+Effective publication Online
+
+   image
+
+Rhizobium esperanzae Cordeiro et al. 2017, sp. nov. 
+Type strain: (see also StrainInfo.net) CNPSo 668=UMR 1320=Z87-8=LMG 30030=U 10001. 
+Sequence accession no. (16S rRNA gene) for the type strain: KY748059. 
+Whole-genome sequence accession no.: MXPU00000000. 
+Etymology: N.L. fem. gen. n. esperanzae, of Esperanza, named after Dr Esperanza Martínez-Romero, scientist at the Centre of Genomic Sciences, Cuernavaca, Mexico, who dedicates her life to studies of the diversity of rhizobia, with an emphasis on symbionts of common bean.. 
+Source: Environmental - soil. 
+Valid publication: CORDEIRO, A. B., RIBEIRO, R. A., HELENE, L. C. F. and HUNGRIA, M. 2017. Rhizobium esperanzae gen. nov., a N2-fixing root symbiont of Phaseolus vulgaris from Mexican soils. Int. J. Syst. Evol. Microbiol., 67, 3937-3945. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium etli Segovia et al. 1993, sp. nov. 
+Type strain: (see also StrainInfo.net) CFN 42 = ATCC 51251= CIP 104814 = DSM 11541 = HAMBI 1727 = IFO (now NBRC) 15573 = JCM 21823 = LMG 17827. 
+Sequence accession no. (16S rRNA gene) for the type strain: U28916. 
+Etymology: N.L. gen. n. etli (from Nahuatl n. etl, bean), of bean. 
+Valid publication: SEGOVIA (L.), YOUNG (J.P.W.) and MARTÍNEZ-ROMERO (E.): Reclassification of American Rhizobium leguminosarum biovar Phaseoli type I strains as Rhizobium etli sp. nov. Int. J. Syst. Bacteriol., 1993, 43, 374-377. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium fabae Tian et al. 2008, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 33202 = JCM 14831 = LMG 23997. 
+Sequence accession no. (16S rRNA gene) for the type strain: FJ392873. 
+Etymology: L. gen. n. fabae, of a bean, referring to the isolation of the first strains from broad bean or fava bean (Vicia faba).
+Valid publication: TIAN (C.F.), WANG (E.T.), WU (L.J.), HAN (T.X.), CHEN (W.F.), GU (C.T.), GU (J.G.) and CHEN (W.X.): Rhizobium fabae gen. nov., a bacterium that nodulates Vicia faba. Int. J. Syst. Evol. Microbiol., 2008, 58, 2871-2875. 
+Original article in IJSEM Online
+
+Note: The correct number of the type strain is JCM 14831, not JCM 14381 as cited in the paper by Tian et al. 2008. 
+References: 
+1 KUDO (T.): Personal communication (February 02, 2009). 
+2 Erratum: Int. J. Syst. Evol. Microbiol., 2009, 59, 1258. 
+Erratum in IJSEM Online
+
+   image
+
+Rhizobium favelukesii Torres tejerizo et al. 2016, sp. nov. 
+Type strain: (see also StrainInfo.net) LPU83=CECT 9014=LMG 29160. 
+Sequence accession no. (complete genome) for the type strain: HG916852. 
+Whole-genome sequence accession no.: HG916852. 
+Etymology: N.L. gen. n. favelukesii, of Favelukes, named in honour of Gabriel Favelukes, who made valuable contributions to the development of rhizobiology in South America. 
+Source: Plant. 
+Valid publication: TORRES TEJERIZO, G., ROGEL, M. A., ORMENO-ORRILLO, E., ALTHABEGOITI, M. J., NILSSON, J. F., NIEHAUS, K., SCHLUTER, A., PUHLER, A., DEL PAPA, M. F., LAGARES, A., MARTINEZ-ROMERO, E. and PISTORIO, M. 2016. Rhizobium favelukesii gen. nov., isolated from the root nodules of alfalfa (Medicago sativa L.). Int. J. Syst. Evol. Microbiol., 66, 4451-4457. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium flavum Gu et al. 2014, sp. nov. 
+Type strain: (see also StrainInfo.net) YW14=KACC 17222=CCTCC AB2013042. 
+Sequence accession no. (16S rRNA gene) for the type strain: KC904963. 
+Etymology: L. neut. adj. flavum, yellow, referring to the colony colour. 
+Source: Environmental - soil. 
+Valid publication: GU, T., SUN, L. N., ZHANG, J., SUI, X. H. and LI, S. P. 2014. Rhizobium flavum gen. nov., a triazophos-degrading bacterium isolated from soil under the long-term application of triazophos. Int. J. Syst. Evol. Microbiol., 64, 2017-2022. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium fredii Scholla and Elkan 1984, sp. nov. 
+Type strain: (see also StrainInfo.net) PRC 205 = ATCC 35423= CCUG 27877 = DSM 5851 = HAMBI 2075 = ICMP 11139 = IFO (now NBRC) 14780 = JCM 20967 = LMG 6217 = NRRL B-14241 = NRRL B-14594 = USDA 205. 
+Sequence accession no. (16S rRNA gene) for the type strain: X67231. 
+Etymology: N.L. gen. n. fredii, of Fred, named after of E.B. Fred. 
+Valid publication: SCHOLLA (M.H.) and ELKAN (G.H.): Rhizobium fredii gen. nov., a fast-growing species that effectively nodulates soybeans. Int. J. Syst. Bacteriol., 1984, 34, 484-486. 
+Original article in IJSEM Online
+
+→ ¤ Sinorhizobium fredii (Scholla and Elkan 1984) Chen et al. 1988, comb. nov.
+
+→ Rhizobium fredii Scholla and Elkan 1984.
+
+Notes: 
+1 According to Jarvis et al. 1992, Rhizobium fredii Scholla and Elkan 1984 is an earlier homotypic synonym of Sinorhizobium fredii (Scholla and Elkan 1984) Chen et al. 1988. 
+Reference: JARVIS (B.D.W.), DOWNER (H.L.) and YOUNG (J.P.W.): Phylogeny of fast-growing soybean-nodulating rhizobia supports synonymy of Sinorhizobium and Rhizobium and assignment to Rhizobium fredii. Int. J. Syst. Bacteriol., 1992, 42, 93-96. 
+Original article in IJSEM Online 
+2 The subcommittee on the taxonomy of Agrobacterium and Rhizobium does not endorse the genus Sinorhizobium Chen et al. 1988 and recommends that Rhizobium fredii Scholla and Elkan 1984 be retained in the genus Rhizobium Frank 1889 (Approved Lists 1980). 
+Reference: ICSB, SUBCOMMITTEE ON THE TAXONOMY OF AGROBACTERIUM AND RHIZOBIUM: Minutes of the meeting, 10 December 1992, Cancun, Mexico. Int. J. Syst. Bacteriol., 1993, 43, 622. 
+Original article in IJSEM Online
+
+→ ¤ Sinorhizobium fredii (Scholla and Elkan 1984) Chen et al. 1988 emend. De Lajudie et al. 1994.
+
+→ ¤ Ensifer fredii (Scholla and Elkan 1984) Young 2003, comb. nov.
+
+   image
+
+Rhizobium freirei Dall'Agnol et al. 2013, sp. nov. 
+Type strain: (see also StrainInfo.net) PRF 81=CNPSo 122=SEMIA 4080=IPR-Pv81=WDCM 440. 
+Sequence accession no. (16S rRNA gene) for the type strain: EU488742. 
+Etymology: N.L. masc. gen. n. freirei, of Freire, named after João Ruy Jardim Freire, a distinguished Brazilian rhizobiologist. 
+Source: Plant. 
+Valid publication: DALL'AGNOL, R. F., RIBEIRO, R. A., ORMEÑO-ORRILLO, E., ROGEL, M. A., DELAMUTA, J. R. M., ANDRADE, D. S., MARTÍNEZ-ROMERO, E. and HUNGRIA, M. 2013. Rhizobium freirei gen. nov., a symbiont of Phaseolus vulgaris that is very effective at fixing nitrogen. Int. J. Syst. Evol. Microbiol., 63, 4167-4173. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium galegae Lindström 1989, sp. nov. 
+Type strain: (see also StrainInfo.net) ATCC 43677= CIP 105585 = DSM 11542 = HAMBI 540 = IFO (now NBRC) 14965 = JCM 20973 = LMG 6214. 
+Sequence accession no. (16S rRNA gene) for the type strain: D11343. 
+Etymology: N.L. gen. n. galegae, of Galega, a genus of leguminous plants. 
+Valid publication: LINDSTRÖM (K.): Rhizobium galegae, a new species of legume root nodule bacteria. Int. J. Syst. Bacteriol., 1989, 39, 365-367. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium gallicum Amarger et al. 1997, sp. nov. 
+Type strain: (see also StrainInfo.net) R602sp = MSDJ1109. 
+Sequence accession no. (16S rRNA gene) for the type strain: U86343. 
+Etymology: L. neut. adj. gallicum, pertaining to Gallia; the country of origin, France. 
+Valid publication: AMARGER (N.), MACHERET (V.) and LAGUERRE (G.): Rhizobium gallicum sp. nov. and Rhizobium giardinii sp. nov., from Phaseolus vulgaris nodules. Int. J. Syst. Bacteriol., 1997, 47, 996-1006. 
+Original article in IJSEM Online
+
+Note: The small subunit rRNA gene sequences of the type strains for Rhizobium gallicum Amarger et al. 1997 and ¤ Rhizobium mongolense Van Berkum et al. 1998 are 99.2% similar. 
+Reference: VAN BERKUM (P.), BEYENE (D.), BAO (G.), CAMPBELL (T.A.) and EARDLY (B.D.): Rhizobium mongolense sp. nov., is one of three rhizobial genotypes identified which nodulate and form nitrogen-fixing symbioses with Medicago ruthenica [(L.) Ledebour]. Int. J. Syst. Bacteriol., 1998, 48, 13-22. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium gei Shi et al. 2016, sp. nov. 
+Type strain: (see also StrainInfo.net) ZFJT-2=CCTCC AB 2013015=KCTC 32301=LMG 27603. 
+Sequence accession no. (16S rRNA gene) for the type strain: KF551166. 
+Etymology: L. gen. n. gei, of the plant genus Geum, referring to the host of origin for the bacterium. 
+Source: Plant. 
+Valid publication: SHI, X., LI, C., ZHAO, L., SI, M., ZHU, L., XIN, K., CHEN, C., WANG, Y., SHEN, X. and ZHANG, L. 2016. Rhizobium gei gen. nov., a bacterial endophyte of Geum aleppicum. Int. J. Syst. Evol. Microbiol., 66, 4282-4288. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium giardinii Amarger et al. 1997, sp. nov. 
+Type strain: (see also StrainInfo.net) H152 = KACC 10720 = MSDJ0144. 
+Sequence accession no. (16S rRNA gene) for the type strain: U86344. 
+Etymology: N.L. gen. masc. n. giardinii, of Giardini, a Brazilian microbiologist who isolated the organism. 
+Valid publication: AMARGER (N.), MACHERET (V.) and LAGUERRE (G.): Rhizobium gallicum sp. nov. and Rhizobium giardinii sp. nov., from Phaseolus vulgaris nodules. Int. J. Syst. Bacteriol., 1997, 47, 996-1006. 
+Original article in IJSEM Online
+
+→ ¤ Pararhizobium giardinii (Amarger et al. 1997) Mousavi et al. 2016, comb. nov.,
+
+   image
+
+Rhizobium grahamii López-López et al. 2012, sp. nov. 
+Type strain: (see also StrainInfo.net) CCGE 502 = Dal4 = ATCC BAA-2124 = CFN 242 = HAMBI 3152. 
+Sequence accession no. (16S rRNA gene) for the type strain: JF424608. 
+Etymology: N.L. masc. gen. n. grahamii, of Graham, named after the late Peter Graham, who made very valuable contributions to Rhizobium research. 
+Valid publication: LÓPEZ-LÓPEZ (A.), ROGEL-HERNÁNDEZ (M.A.), BAROIS (I.), ORTIZ CEBALLOS  (A.I.), MARTÍNEZ (J.), ORMEÑO-ORRILLO (E.) and MARTÍNEZ-ROMERO (E.): Rhizobium grahamii gen. nov., from nodules of Dalea leporina, Leucaena leucocephala and Clitoria ternatea, and Rhizobium mesoamericanum gen. nov., from nodules of Phaseolus vulgaris, siratro, cowpea and Mimosa pudica. Int. J. Syst. Evol. Microbiol., 2012, 62, 2264-2271. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium hainanense Chen et al. 1997, sp. nov. 
+Type strain: (see also StrainInfo.net) I66 = CCBAU 57015 = CIP 105503 = DSM 11917. 
+Sequence accession no. (16S rRNA gene) for the type strain: U71078. 
+Etymology: N.L. neut. adj. hainanense, pertaining to Hainan Province in China. 
+Valid publication: CHEN (W.X.), TAN (Z.Y.), GAO (J.L.), LI (Y.) and WANG (E.T.): Rhizobium hainanense gen. nov., isolated from tropical legumes. Int. J. Syst. Bacteriol., 1997, 47, 870-873. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium halophytocola Bibi et al. 2012, sp. nov. 
+Type strain: (see also StrainInfo.net) YC6881 = DSM 21600 = KACC 13775. 
+Sequence accession no. (16S rRNA gene) for the type strain: GU322905. 
+Etymology: Gr. n. hals halos, salt; Gr. n. phuton, a plant; L. suff. -cola (from L. n. incola), inhabitant, dweller; N.L. n. halophytocola, inhabitant of a halophyte, Rosa rugosa. 
+Valid publication: BIBI (F.), CHUNG (E.J.), KHAN (A.), JEON (C.O.) and CHUNG (Y.R.): Rhizobium halophytocola gen. nov., isolated from the root of a coastal dune plant. Int. J. Syst. Evol. Microbiol., 2012, 62, 1997-2003. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium helianthi Wei et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) Xi19=CGMCC 1.12192=KCTC 23879. 
+Sequence accession no. (16S rRNA gene) for the type strain: JQ032629. 
+Whole-genome sequence accession no. for the type strain: -. 
+Etymology: N.L. gen. n. helianthi, of the sunflower Helianthus. 
+Source: Plant. 
+Valid publication: WEI, X., YAN, S., LI, D., PANG, H., LI, Y. and ZHANG, J. 2015. Rhizobium helianthi gen. nov., isolated from the rhizosphere of sunflower. Int. J. Syst. Evol. Microbiol., 65, 4455-4460. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium herbae Ren et al. 2011, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 83011 = HAMBI 3117 = LMG 25718. 
+Sequence accession no. (16S rRNA gene) for the type strain: GU565534. 
+Etymology: L. gen. n. herbae, of a herb, because this bacterium was originally isolated from root nodules of herb legumes. 
+Valid publication: REN (D.W.), WANG (E.T.), CHEN (W.F.), SUI (X.H.), ZHANG (X.X.), LIU (H.C.) and CHEN (W.X.): Rhizobium herbae sp. nov., and Rhizobium giardinii-related bacteria, minor microsymbionts of various wild legumes in China. Int. J. Syst. Evol. Microbiol., 2011, 61, 1912-1920. 
+Original article in IJSEM Online
+
+→ ¤ Pararhizobium herbae (Ren et al. 2011) Mousavi et al. 2016, comb. nov.,
+
+   image
+
+Rhizobium huakuii Chen et al. 1991, sp. nov. 
+Type strain: (see also StrainInfo.net) 103 = ATCC 51122= CCBAU 2609 = DSM 6573 = HAMBI 1674 = HAMBI 2035 = IFO (now NBRC) 15243 = JCM 21036 = LMG 14107. 
+Sequence accession no. (16S rRNA gene) for the type strain: D13431. 
+Etymology: N.L. gen. n. huakuii, of Huakui, named  in honor of Huakui Chen, a Chinese professor of soil microbiology, who is the pioneer in investigating the microsymbionts isolated from Astragalus sinicus. 
+Valid publication: CHEN (W.X.), LI (G.S.), QI (Y.L.), WANG (E.T.), YUAN (H.L.) and LI (J.L.): Rhizobium huakuii sp. nov., isolated from the root nodules of Astragalus sinicus. Int. J. Syst. Bacteriol., 1991, 41, 275-280. 
+Original article in IJSEM Online
+
+→ ¤ Mesorhizobium huakuii (Chen et al. 1991) Jarvis et al. 1997, comb. nov.
+
+   image
+
+Rhizobium huautlense Wang et al. 1998, sp. nov. 
+Type strain: (see also StrainInfo.net) SO2 (The type strain has been deposited in the USDA ARS National Rhizobium Resource Center collection, USA, and in the Culture Collection of Centro de Investigación sobre Fijación de Nitrógeno (CFN) at UNAM, Cuernavaca, Mexico. Accession numbers not given) = ATCC BAA-115 = CIP 105757 = LMG 18254. 
+Sequence accession no. (16S rRNA gene) for the type strain: AF025852. 
+Etymology: N.L. neut. adj. huautlense, pertaining to Huautla, the region in Mexico where the organisms were isolated. 
+Valid publication: WANG (E.T.), VAN BERKUM (P.), BEYENE (D.), SUI (X.H.), DORADO (O.), CHEN (W.X.) and MARTÍNEZ-ROMERO (E.): Rhizobium huautlense gen. nov., a symbiont of Sesbania herbacea that has a close phylogenetic relationship with Rhizobium galegae. Int. J. Syst. Bacteriol., 1998, 48, 687-699. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium indigoferae Wei et al. 2002, sp. nov. 
+Type strain: (see also StrainInfo.net) AS 1.3054 = CCBAU 71042 = CIP 108029 = NBRC 100398. 
+Sequence accession no. (16S rRNA gene) for the type strain: AF364068. 
+Etymology: N.L. gen. n. indigoferae, of Indigofera, a genus of leguminous plants, referring to the host from which the bacterium was isolated. 
+Valid publication: WEI (G.H.), WANG (E.T.), TAN (Z.Y.), ZHU (M.E.) and CHEN (W.X.): Rhizobium indigoferae sp. nov. and Sinorhizobium kummerowiae sp. nov., respectively isolated from Indigofera spp. and Kummerowia stipulacea. Int. J. Syst. Evol. Microbiol., 2002, 52, 2231-2239. 
+Original article in IJSEM Online
+
+Notes: 
+1 In the abstract the type strain is erroneously cited as CCBAU 71714 = AS 1.3046. 
+2 According to Rules 27(3) and 30, this name is not validly published, because the original publication makes reference to the deposit of the type strain in a single recognized culture collection. However, according to the Judicial Opinion 81, Rhizobium indigoferae Wei et al. 2002 is considered to be validly published, since deposit in a second culture collection in a different country has been documented.
+References: 
+1 EUZÉBY (J.P.) and TINDALL (B.J.): Status of strains that contravene Rules 27(3) and 30 of the Bacteriological Code. Request for an Opinion. Int. J. Syst. Evol. Microbiol., 2004, 54, 293-301. 
+Original article in IJSEM Online 
+2 JUDICIAL COMMISSION OF THE INTERNATIONAL COMMITTEE ON SYSTEMATICS OF PROKARYOTES: Status of strains that contravene Rules 27 (3) and 30 of the International Code of Nomenclature of Bacteria. Opinion 81. Int. J. Syst. Evol. Microbiol., 2008, 58, 1755-1763. 
+Opinion 81 in IJSEM Online
+
+   image
+
+Rhizobium ipomoeae Sheu et al. 2016, sp. nov. 
+Type strain: (see also StrainInfo.net) shin9-1=LMG 27163=KCTC 32148. 
+Sequence accession no. (16S rRNA gene) for the type strain: HE866935. 
+Whole-genome sequence accession no. for the type strain: . 
+Etymology: N.L. n. Ipomoea, generic name of the water convolvulus; N.L. gen. n. ipomoeae, of Ipomoea, pertaining to the isolation of the type strain from a water convolvulus field. 
+Source: Environmental - freshwater. 
+Valid publication: SHEU, S. Y., CHEN, Z. H., YOUNG, C. C. and CHEN, W. M. 2016. Rhizobium ipomoeae gen. nov., isolated from a water convolvulus field. Int. J. Syst. Evol. Microbiol., 66, 1633-1640. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium jaguaris Rincón-Rosales et al. 2013, sp. nov. 
+Type strain: (see also StrainInfo.net) CCGE525=ATCC BAA-2445=CIP 110453=SJP1-2. 
+Sequence accession no. (16S rRNA gene) for the type strain: JX855169. 
+Etymology: N.L. n. jaguar -aris, jaguar; N.L. gen. n. jaguaris, of a jaguar, feline mammal present in the Mexican rainforests from which the strains were isolated). 
+Source: Plant. 
+Valid publication: RINCÓN-ROSALES, R., VILLALOBOS-ESCOBEDO, J. M., ROGEL, M. A., MARTINEZ, J., ORMEÑO-ORRILLO, E. and MARTÍNEZ-ROMERO, E. 2013. Rhizobium calliandrae sp. nov., Rhizobium mayense sp. nov. and Rhizobium jaguaris sp. nov., rhizobial species nodulating the medicinal legume Calliandra grandiflora. Int. J. Syst. Evol. Microbiol., 63, 3423-3429. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium japonicum (Kirchner 1896) Buchanan 1926, species. 
+Type strain: (see also StrainInfo.net) ATCC 10324= CCUG 27876 = CIP 106093 = DSM 30131 = HAMBI 2314 = IFO (now NBRC) 14783 = LMG 6138 = USDA 6 = VKM B-1967. 
+Sequence accession no. (16S rRNA gene) for the type strain: U69638. 
+Synonym: "Rhizobacterium japonicum" Kirchner 1896. 
+Etymology: N.L. neut. adj. japonicum, pertaining to Japan. 
+Approved Lists reference: SKERMAN (V.B.D.), McGOWAN (V.) and SNEATH (P.H.A.) (editors): Approved Lists of Bacterial Names. Int. J. Syst. Bacteriol., 1980, 30, 225-420 (Approved Lists of Bacterial Names in IJSEM Online - Approved Lists of Bacterial Names Amended edition). 
+Original publication: 1 KIRCHNER (O.): Die Wurzelknöllchen der Sojabohne. Beitrage zur Biologie der Pflanzen, 1896, 7, 213-224. 2 BUCHANAN (R.E.): What names should be used for the organisms producing nodules on the roots of leguminous plants? Proceedings of the Iowa Academy of Science, 1926, 33, 81-90.
+→ ¤ Bradyrhizobium japonicum (Kirchner 1896) Jordan 1982, comb. nov.
+
+   image
+
+Rhizobium laguerreae Saïdi et al. 2014, sp. nov. 
+Type strain: (see also StrainInfo.net) FB206=LMG 27434=CECT 8280. 
+Sequence accession no. (16S rRNA gene) for the type strain: JN558651. 
+Etymology: N.L. gen. fem. n. laguerreae, of Laguerre, to honour the recently deceased (January 2013) French rhizobiologist Gisèle Laguerre , who made a great contribution to research on rhizobia. 
+Source: Plant. 
+Valid publication: SAIDI, S., RAMÍREZ-BAHENA, M.-H., SANTILLANA, N., ZÚÑIGA, D., ÁLVAREZ-MARTÍNEZ, E., PEIX, A., MHAMDI, R. and VELÁZQUEZ, E. 2014. Rhizobium laguerreae sp. nov., nodulates Vicia faba on several continents. Int. J. Syst. Evol. Microbiol., 64, 242-247. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium larrymoorei (Bouzar and Jones 2001) Young 2004, comb. nov. 
+Type strain: (see also StrainInfo.net) ATCC 51759= CFBP 5473 = ICMP 14256 = NCPPB 4096. 
+Sequence accession no. (16S rRNA gene) for the type strain: Z30542. 
+Basonym: ¤ Agrobacterium larrymoorei Bouzar and Jones 2001. 
+Etymology: N.L. gen. n. larrymoorei, named in honour of Larry Moore, renowned plant pathologist who spent his career studying the genus Agrobacterium. 
+Valid publication: YOUNG (J.M.): Renaming of Agrobacterium larrymoorei Bouzar and Jones 2001 as Rhizobium larrymoorei (Bouzar and Jones 2001) comb. nov. Int. J. Syst. Evol. Microbiol., 2004, 54, 149. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium leguminosarum (Frank 1879) Frank 1889, species. (Type species of the genus.) 
+Type strain: (see also StrainInfo.net) 3Hoq18 = ATCC 10004= LMG 14904 = USDA 2370. 
+Sequence accession no. (16S rRNA gene) for the type strain: U29386. 
+Synonyms: "Schinzia leguminosarum" Frank 1879, "Phytomyxa leguminosarum" (Frank 1879) Schroeter 1886, "Bacillus francki" Matzuschita 1902, "Rhizobacterium leguminosarum" (Frank 1879) Kirchner 1896. 
+Etymology: L. gen. pl. n. leguminosarum, of Leguminosae (the former systematic family name of the legumes). 
+Approved Lists reference: SKERMAN (V.B.D.), McGOWAN (V.) and SNEATH (P.H.A.) (editors): Approved Lists of Bacterial Names. Int. J. Syst. Bacteriol., 1980, 30, 225-420 (Approved Lists of Bacterial Names in IJSEM Online - Approved Lists of Bacterial Names Amended edition). 
+Original publication: 1 FRANK (B.): Über die Parasiten in den Wurzelanschwillungen der Papilionaceen. Berichte der Deutschen Botanischen Gesellschaft, 1879, 37, 394-399. 2 FRANK (B.): Über die Pilzsymbiose der Leguminosen. Berichte der Deutschen Botanischen Gesellschaft, 1889, 7, 332-346.
+
+Note: The reference of the publication by Frank 1879 is Botanische Zeitung, 1879, 37, 376-387, 394-399. However, in the "Approved Lists of Bacterial Names" and in the "Amended Edition of Approved Lists of Bacterial Names" the publication of Frank 1879 is erroneously cited as Berichte der Deutschen Botanischen Gesellschaft, 1879, 37, 376-387, 394-399. 
+Reference: YOUNG (J.M.): Correction to the authority of Rhizobium leguminosarum. Int. J. Syst. Bacteriol., 1999, 49, 1943. 
+Original article in IJSEM Online
+
+Notes: 
+1 According to Jarvis et al. 1980 and to Ramírez-Bahena et al. 2008, Rhizobium leguminosarum (Frank 1879) Frank 1889 (Approved Lists 1980) is an earlier heterotypic synonym of ¤ Rhizobium trifolii Dangeard 1926 (Approved Lists 1980). 
+References: 
+1 JARVIS (B.D.W.), DICK (A.G.) and GREENWOOD (R.M.): Deoxyribonucleic acid homology among strains of Rhizobium trifolii and related species. Int. J. Syst. Bacteriol., 1980, 30, 42-52. 
+Original article in IJSEM Online 
+2 RAMÍREZ-BAHENA (M.H.), GARCÍA-FRAILE (P.), PEIX (A.), VALVERDE (A.), RIVAS (R.), IGUAL (J.M.), MATEOS (P.F.), MARTÍNEZ-MOLINA (E.) and VELÁZQUEZ (E.): Revision of the taxonomic status of the species Rhizobium leguminosarum (Frank 1879) Frank 1889AL, Rhizobium phaseoli 1926AL and Rhizobium trifolii Dangeard 1926AL. R. trifolii is a later synonym of R. leguminosarum. Reclassification of the strain R. leguminosarum DSM 30132 (=NCIMB 11478) as Rhizobium pisi sp. nov. Int. J. Syst. Evol. Microbiol., 2008, 58, 2484-2490. 
+Original article in IJSEM Online 
+2 This species includes the strains of Rhizobium phaseoli Dangeard 1926 (Approved Lists 1980) isolated from Phaseolus vulgaris. 
+Reference: CROW (V.L.), JARVIS (B.D.W.) and GREENWOOD (R.M.): Deoxyribonucleic acid homologies among acid-producing strains of Rhizobium. Int. J. Syst. Bacteriol., 1981, 31, 152-172. 
+Original article in IJSEM Online
+
+→ Rhizobium leguminosarum (Frank 1879) Frank 1889 (Approved Lists 1980) emend. Ramírez-Bahena et al. 2008. 
+Type strain: (see also StrainInfo.net) 3Hoq18 = ATCC 10004= LMG 14904 = USDA 2370.
+Sequence accession no. (16S rRNA gene) for the type strain: U29386. 
+Synonyms: "Schinzia leguminosarum" Frank 1879, "Phytomyxa leguminosarum" (Frank 1879) Schroeter 1886, "Bacillus francki" Matzuschita 1902, "Rhizobacterium leguminosarum" (Frank 1879) Kirchner 1896.  
+Etymology: L. gen. pl. n. leguminosarum, of Leguminosae (the former systematic family name of the legumes). 
+Valid publication: RAMÍREZ-BAHENA (M.H.), GARCÍA-FRAILE (P.), PEIX (A.), VALVERDE (A.), RIVAS (R.), IGUAL (J.M.), MATEOS (P.F.), MARTÍNEZ-MOLINA (E.) and VELÁZQUEZ (E.): Revision of the taxonomic status of the species Rhizobium leguminosarum (Frank 1879) Frank 1889AL, Rhizobium phaseoli 1926AL and Rhizobium trifolii Dangeard 1926AL. R. trifolii is a later synonym of R. leguminosarum. Reclassification of the strain R. leguminosarum DSM 30132 (=NCIMB 11478) as Rhizobium pisi sp. nov. Int. J. Syst. Evol. Microbiol., 2008, 58, 2484-2490. 
+Original article in IJSEM Online
+
+Note: It seems that the ATCC collection has distributed different type strains of Rhizobium leguminosarum with the same accession number (ATCC 10004 before and after 1994. The strain 3Hoq18 = ATCC 10004(the currently available strain) = LMG 14904 = USDA 2370 should be considered as the true type strain of this species. 
+Strain DSM 30132 and NCIMB 2370, previously considered as the type strain of Rhizobium leguminosarum, were received from the ATCC before 1990. These strains belong to a new species for which Ramírez-Bahena et al. 2008 propose the name ¤ Rhizobium pisi. 
+Reference: RAMÍREZ-BAHENA (M.H.), GARCÍA-FRAILE (P.), PEIX (A.), VALVERDE (A.), RIVAS (R.), IGUAL (J.M.), MATEOS (P.F.), MARTÍNEZ-MOLINA (E.) and VELÁZQUEZ (E.): Revision of the taxonomic status of the species Rhizobium leguminosarum (Frank 1879) Frank 1889AL, Rhizobium phaseoli 1926AL and Rhizobium trifolii Dangeard 1926AL. R. trifolii is a later synonym of R. leguminosarum. Reclassification of the strain R. leguminosarum DSM 30132 (=NCIMB 11478) as Rhizobium pisi sp. nov. Int. J. Syst. Evol. Microbiol., 2008, 58, 2484-2490. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium lemnae Kittiwongwattana and Thawai 2014, sp. nov. 
+Type strain: (see also StrainInfo.net) L6-16=NBRC 109339=BCC 55143. 
+Sequence accession no. (16S rRNA gene) for the type strain: AB738386. 
+Etymology: N.L. fem. gen. n. lemnae, pertaining to Lemna, the genus of the host plant. 
+Source: Plant. 
+Valid publication: KITTIWONGWATTANA, C. and THAWAI, C. 2014. Rhizobium lemnae gen. nov., a bacterial endophyte of Lemna aequinoctialis. Int. J. Syst. Evol. Microbiol., 64, 2455-2460. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium lentis Rashid et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) BLR27=LMG 28441=DSM 29286. 
+Sequence accession no. (16S rRNA gene) for the type strain: JN648905. 
+Whole-genome sequence accession no. for the type strain: PRJEB7125. 
+Etymology: L. gen. n. lentis, referring to the lentil and, in botany, to Lens, the plant genus from which the first strains were isolated. 
+Source: Plant. 
+Valid publication: RASHID, M. H., YOUNG, J. P. W., EVERALL, I., CLERCX, P., WILLEMS, A., SANTHOSH BRAUN, M. and WINK, M. 2015. Average nucleotide identity of genome sequences supports the description of Rhizobium lentis sp. nov., Rhizobium bangladeshense sp. nov. and Rhizobium binae sp. nov., from lentil (Lens culinaris) nodules. Int. J. Syst. Evol. Microbiol., 65, 3037-3045. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium leucaenae Ribeiro et al. 2012, sp. nov. 
+Type strain: (see also StrainInfo.net) CENA 183 = CFN 299 = CNPSo 141 = CECT 4844 = IAM 14230 = JCM 21088 = LMG 9517 = SEMIA 4083 = UMR1026 = USDA 9039. 
+Sequence accession no. (16S rRNA gene) for the type strain: X67234.
+Etymology: N.L. gen. n. leucaenae, of Leucaena, referring to the isolation source of many strains of this species, root nodules of Leucaena. 
+Valid publication: RIBEIRO (R.A.), ROGEL (M.A.), LÓPEZ-LÓPEZ (A.), ORMEÑO-ORRILLO (E.), BARCELLOS (F.G.), MARTÍNEZ (J.), THOMPSON (F.L.), MARTÍNEZ-ROMERO (E.) and HUNGRIA (M.): Reclassification of Rhizobium tropici type A strains as Rhizobium leucaenae sp. nov. Int. J. Syst. Evol. Microbiol., 2012, 62, 1179-1184. 
+Original article in IJSEM Online
+
+Note: Rhizobium leucaenae Ribeiro et al. 2012 was previously known as ¤ Rhizobium tropici Martínez-Romero et al., 1991, type A strains.
+
+   image
+
+Rhizobium loessense Wei et al. 2003, sp. nov. 
+Type strain: (see also StrainInfo.net) AS1.3401 = CCBAU 7190B = CIP 108030 = LMG 21975. 
+Sequence accession no. (16S rRNA gene) for the type strain: AF364069. 
+Etymology: N.L. neut. adj. loessense, referring to the Loess Plateau of China, where the bacterium was isolated. 
+Valid publication: WEI (G.H.), TAN (Z.Y.), ZHU (M.E.), WANG (E.T.), HAN (S.Z.) and CHEN (W.X.): Characterization of rhizobia isolated from legume species within the genera Astragalus and Lespedeza grown in the Loess Plateau of China and description of Rhizobium loessense sp. nov. Int. J. Syst. Evol. Microbiol., 2003, 53, 1575-1583. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium loti Jarvis et al. 1982, sp. nov. 
+Type strain: (see also StrainInfo.net) ATCC 700743= CCUG 27878 = DSM 2626 = HAMBI 1129 = IFO (now NBRC) 14779 = JCM 21464 = LMG 6125 = NZP 2213. 
+Sequence accession no. (16S rRNA gene) for the type strain: D14514. 
+Etymology: L. n. Lotus, the name of several plants and also the generic name of leguminous plants (Lotus); L. gen. n. loti, of Lotus. 
+Valid publication: JARVIS (B.D.W.), PANKHURST (C.E.) and PATEL (J.J.): Rhizobium loti, a new species of legume root nodule bacteria. Int. J. Syst. Bacteriol., 1982, 32, 378-380. 
+Original article in IJSEM Online
+
+Note: The strain ATCC 33669, designated as the type strain of Rhizobium loti, is a mixed culture [1] and has been deaccessioned by the ATCC [2]. The ATCC accessioned in its place the strain ATCC 700743 [2]. 
+References: 
+1 WILLEMS (A.), HOSTE (B.), TANG (J.), JANSSENS (D.) and GILLIS (M.): Differences between subcultures of the Mesorhizobium loti type strain from different culture collections. Syst. Appl. Microbiol., 2001, 24, 549-553. 
+Original article Online 
+2 TANG (J.): Personal communication (June 14, 2002).
+
+→ ¤ Mesorhizobium loti (Jarvis et al. 1982) Jarvis et al. 1997, comb. nov.
+
+   image
+
+Rhizobium lupini (Schroeter 1886) Eckhardt et al. 1931, species. 
+Type strain: (see also StrainInfo.net) ATCC 10319= DSM 30140 = NBRC 100381 = VKM B-1965. 
+Sequence accession no. (16S rRNA gene) for the type strain: X87273. 
+Synonym: "Phytomyxa lupini" Schroeter 1886. 
+Etymology: N.L. n. Lupinus, generic name of lupine; N.L. gen. n. lupini, of Lupinus. 
+Approved Lists reference: SKERMAN (V.B.D.), McGOWAN (V.) and SNEATH (P.H.A.) (editors): Approved Lists of Bacterial Names. Int. J. Syst. Bacteriol., 1980, 30, 225-420 (Approved Lists of Bacterial Names in IJSEM Online - Approved Lists of Bacterial Names Amended edition). 
+Original publication: 1 SCHROETER (J.), 1886. In: F. COHN (ed.), Kryptogamenflora von Schlesien, Band 3, Heft 3, Pilze J.U. Kern's Verlag, Breslau, 1885-1889, pp. 1-814. 2 ECKHARDT (M.M.), BALDWIN (I.R.) and FRED (E.B.): Studies on the root-nodule bacteria of Lupinus. Journal of Bacteriology, 1931, 21, 273-285.
+
+   image
+
+Rhizobium lusitanum Valverde et al. 2006, sp. nov. 
+Type strain: (see also StrainInfo.net) P1-7 = CECT 7016 = LMG 22705. 
+Sequence accession no. (16S rRNA gene) for the type strain: AY738130. 
+Etymology: L. neut. adj. lusitanum, of Lusitania, the Roman name of Portugal, where the strains reported in this study were isolated. 
+Valid publication: VALVERDE (A.), IGUAL (J.M.), PEIX (A.), CERVANTES (E.) and VELÁZQUEZ (E.): Rhizobium lusitanum gen. nov., a bacterium that nodulates Phaseolus vulgaris. Int. J. Syst. Evol. Microbiol., 2006, 56, 2631-2637. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium marinum Liu et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) MGL06=MCCC 1A00836=JCM 30155. 
+Sequence accession no. (16S rRNA gene) for the type strain: KJ751545. 
+Whole-genome sequence accession no. for the type strain: -. 
+Etymology: L. neut. adj. marinum, of the sea, marine. 
+Source: Environmental - marine. 
+Valid publication: LIU, Y., WANG, R. P., REN, C., LAI, Q. L. and ZENG, R. Y. 2015. Rhizobium marinum gen. nov., a malachite-green-tolerant bacterium isolated from seawater. Int. J. Syst. Evol. Microbiol., 65, 4449-4454. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium mayense Rincón-Rosales et al. 2013, sp. nov. 
+Type strain: (see also StrainInfo.net) CCGE526=ATCC BAA-2446=CIP 110454=NSJP1-1. 
+Sequence accession no. (16S rRNA gene) for the type strain: JX855172. 
+Etymology: N.L. neut. adj. mayense, of or belonging to the Mayas, native people of South-east Mexico that inhabited rainforests. 
+Source: Plant. 
+Valid publication: RINCÓN-ROSALES, R., VILLALOBOS-ESCOBEDO, J. M., ROGEL, M. A., MARTINEZ, J., ORMEÑO-ORRILLO, E. and MARTÍNEZ-ROMERO, E. 2013. Rhizobium calliandrae sp. nov., Rhizobium mayense sp. nov. and Rhizobium jaguaris sp. nov., rhizobial species nodulating the medicinal legume Calliandra grandiflora. Int. J. Syst. Evol. Microbiol., 63, 3423-3429. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium mediterraneum Nour et al. 1995, sp. nov. 
+Type strain: (see also StrainInfo.net) UPM-Ca36 = ATCC 51670= DSM 11555 = HAMBI 2096 = JCM 21565 = LMG 17148 = NBRC 102497. 
+Sequence accession no. (16S rRNA gene) for the type strain: AM181745. 
+Etymology: L. neut. adj. mediterraneum, midland, inland, remote from the sea, mediterranean (opp. to maritimus), and, in late Latin, used to refer to the Mediterranean Sea (Mediterraneum mare). 
+Valid publication: NOUR (S.M.), CLEYET-MAREL (J.C.), NORMAND (P.) and FERNANDEZ (M.P.): Genomic heterogeneity of strains nodulating chickpeas (Cicer arietinum L.) and description of Rhizobium mediterraneum sp. nov. Int. J. Syst. Bacteriol., 1995, 45, 640-648. 
+Original article in IJSEM Online
+→ ¤ Mesorhizobium mediterraneum (Nour et al. 1995) Jarvis et al. 1997, comb. nov.
+
+   image
+
+Rhizobium meliloti Dangeard 1926, species. 
+Type strain: (see also StrainInfo.net) ATCC 9930= CCUG 27879 = CFBP 5561 = DSM 30135 = HAMBI 2148 = ICMP 12623 = IFO (now NBRC) 14782 = JCM 20682 = LMG 6133 = NCAIM B.01520 = NRRL L-45 = NZP 4027 = USDA 1002. 
+Sequence accession no. (16S rRNA gene) for the type strain: D14509. 
+Etymology: N.L. n. Melilotus, generic name of sweet clover; N.L. gen. n. meliloti, of Melilotus. 
+Approved Lists reference: SKERMAN (V.B.D.), McGOWAN (V.) and SNEATH (P.H.A.) (editors): Approved Lists of Bacterial Names. Int. J. Syst. Bacteriol., 1980, 30, 225-420 (Approved Lists of Bacterial Names in IJSEM Online - Approved Lists of Bacterial Names Amended edition). 
+Original publication: DANGEARD (P.A.): Recherches sur les tubercles radicaux des Légumineuses. Botaniste (Paris), 1926, 16, 1-275.
+
+→ ¤ Sinorhizobium meliloti (Dangeard 1926) De Lajudie et al. 1994, comb. nov.
+
+→ ¤ Ensifer meliloti (Dangeard 1926) Young 2003, comb. nov.
+
+   image
+
+Rhizobium mesoamericanum López-López et al. 2012, sp. nov. 
+Type strain: (see also StrainInfo.net) CCGE 501 = 1847 = ATCC BAA-2123 = CIP 110148 = HAMBI 3151. 
+Sequence accession no. (16S rRNA gene) for the type strain: JF424606. 
+Etymology: N.L. neut. adj. mesoamericanum, of/from Mesoamerica. 
+Valid publication: LÓPEZ-LÓPEZ (A.), ROGEL-HERNÁNDEZ (M.A.), BAROIS (I.), ORTIZ CEBALLOS  (A.I.), MARTÍNEZ (J.), ORMEÑO-ORRILLO (E.) and MARTÍNEZ-ROMERO (E.): Rhizobium grahamii gen. nov., from nodules of Dalea leporina, Leucaena leucocephala and Clitoria ternatea, and Rhizobium mesoamericanum gen. nov., from nodules of Phaseolus vulgaris, siratro, cowpea and Mimosa pudica. Int. J. Syst. Evol. Microbiol., 2012, 62, 2264-2271. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium mesosinicum Lin et al. 2009, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 25010 = JCM 14777 = LMG 24135. 
+Sequence accession no. (16S rRNA gene) for the type strain: DQ100063. 
+Etymology: Gr. adj. mesos, middle; N.L. neut. adj. sinicum, belonging to China; N.L. neut. adj. mesosinicum, pertaining to central China, referring to the location of isolation of the first strains. 
+Valid publication: LIN (D.X.), CHEN (W.F.), WANG (F.Q.), HU (D.), WANG (E.T.), SUI (X.H.) and CHEN (W.X.): Rhizobium mesosinicum gen. nov., isolated from root nodules of three different legumes. Int. J. Syst. Evol. Microbiol., 2009, 59, 1919-1923. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium metallidurans Grison et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) ChimEc512=DSM 26575 = CIP 110550. 
+Sequence accession no. (16S rRNA gene) for the type strain: JX678769. 
+Etymology: L. n. metallum, metal; L. part. adj. durans, enduring; N.L. part.adj. metallidurans, enduring metal, referring to metal resistance. 
+Source: Plant. 
+Valid publication: GRISON, C. M., JACKSON, S., MERLOT, S., DOBSON, A. and GRISON, C. 2015. Rhizobium metallidurans gen. nov., a symbiotic heavy metal resistant bacterium isolated from the Anthyllis vulneraria Zn-hyperaccumulator. Int. J. Syst. Evol. Microbiol., 65, 1525-1530. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium miluonense Gu et al. 2008, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 41251 = HAMBI 2971 = LMG 24208. 
+Sequence accession no. (16S rRNA gene) for the type strain: EF061096. 
+Etymology: N.L. fem. adj. miluonense, pertaining to the Miluo River, a famous river located in Hunan Province, where the bacterium was isolated. 
+Valid publication: GU (C.T.), WANG (E.T.), TIAN (C.F.), HAN (T.X.), CHEN (W.F.), SUI (X.H.) and CHEN (W.X.): Rhizobium miluonense gen. nov., a symbiotic bacterium isolated from Lespedeza root nodules. Int. J. Syst. Evol. Microbiol., 2008, 58, 1364-1368. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium mongolense Van Berkum et al. 1998, sp. nov. 
+Type strain: (see also StrainInfo.net) ATCC BAA-116 = CIP 106112 = HAMBI 2349 = LMG 19141 = USDA 1844. 
+Sequence accession no. (16S rRNA gene) for the type strain: U89817. 
+Etymology: N.L. neut. adj. mongolense, pertaining to Inner Mongolia, the region where the bacteria were isolated. 
+Valid publication: VAN BERKUM (P.), BEYENE (D.), BAO (G.), CAMPBELL (T.A.) and EARDLY (B.D.): Rhizobium mongolense sp. nov., is one of three rhizobial genotypes identified which nodulate and form nitrogen-fixing symbioses with Medicago ruthenica [(L.) Ledebour]. Int. J. Syst. Bacteriol., 1998, 48, 13-22. 
+Original article in IJSEM Online
+
+Note: The small subunit rRNA gene sequences of the type strains for Rhizobium mongolense Van Berkum et al. 1998 and ¤ Rhizobium gallicum Amarger et al. 1997 are 99.2% similar. The species Rhizobium gallicum has been proposed after the manuscript of Van Berkum et al. 1998 was accepted for publication. 
+Reference: VAN BERKUM (P.), BEYENE (D.), BAO (G.), CAMPBELL (T.A.) and EARDLY (B.D.): Rhizobium mongolense sp. nov., is one of three rhizobial genotypes identified which nodulate and form nitrogen-fixing symbioses with Medicago ruthenica [(L.) Ledebour]. Int. J. Syst. Bacteriol., 1998, 48, 13-22. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium multihospitium Han et al. 2008, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 83401 = HAMBI 2975 = LMG 23946. 
+Sequence accession no. (16S rRNA gene) for the type strain: EF035074. 
+Etymology: L. adj. multus, many, numerous; L. n. hospes -itis, he who entertains a stranger, a host; N.L. gen. pl. n. multihospitium, of numerous hosts, referring to the isolation of the bacterium from various legume species. 
+Valid publication: HAN (T.X.), WANG (E.T.), WU (L.J.), CHEN (W.F.), GU (J.G.), GU (C.T.), TIAN (C.F.) and CHEN (W.X.): Rhizobium multihospitium gen. nov., isolated from multiple legume species native of Xinjiang, China. Int. J. Syst. Evol. Microbiol., 2008, 58, 1693-1699. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium naphthalenivorans Kaiya et al. 2018, sp. nov. 
+Type strain: (see also StrainInfo.net) TSY03b=KCTC 23252=NBRC 107585. 
+Sequence accession no. (16S rRNA gene) for the type strain: AB685467. 
+Etymology: N/A. 
+Source: Laboratory. 
+Valid publication: VALIDATION LIST no. 180. List of new names and new combinations previously effectively, but not validly, published. Int. J. Syst. Evol. Microbiol., 68 (2018), 693-694. 
+Validation List Online 
+Effective publication: KAIYA, S., RUBABA, O., YOSHIDA, N., YAMADA, T. and HIRAISHI, A. 2012. Characterization of Rhizobium naphthalenivorans sp. nov. with special emphasis on aromatic compound degradation and multilocus sequence analysis of housekeeping genes. J. Gen. Appl. Microbiol., 3, 211-224.
+Effective publication Online
+
+   image
+
+Rhizobium nepotum Puławska et al. 2012, sp. nov. 
+Type strain: (see also StrainInfo.net) 39/7 = CFBP 7436 = LMG 26435. 
+Sequence accession no. (16S rRNA gene) for the type strain: FR870231. 
+Etymology: L. gen. pl. n. nepotum, of nephews, isolated in Poland and Hungary and reflecting the common Polish and Hungarian historical relationship - i.e. Polish and Hungarian are two nephews. 
+Valid publication: Validation List no. 147. Int. J. Syst. Evol. Microbiol., 2012, 62, 2045-2047. 
+Effective publication: PUŁAWSKA (J.), WILLEMS (A.), DE MEYER (S.E.) and SÜLE (S.): Rhizobium nepotum sp. nov., isolated from tumors on different plant species. Syst. Appl. Microbiol., 2012, 35, 215-220. 
+Validation List no. 147 in IJSEM Online - Effective publication Online
+
+→ ¤ Agrobacterium nepotum (Puławska et al. 2012) Mousavi et al. 2016, comb. nov.,
+
+   image
+
+Rhizobium oryzae Peng et al. 2008, sp. nov. 
+Type strain: (see also StrainInfo.net) Alt 505 = CGMCC 1.7048 = LMG 24253. 
+Sequence accession no. (16S rRNA gene) for the type strain: EU056823. 
+Etymology: L. gen. n. oryzae, of rice, the origin of the first strains. 
+Valid publication: PENG (G.), YUAN (Q.), LI (H.), ZHANG (W.) and TAN (Z.): Rhizobium oryzae gen. nov., isolated from the wild rice Oryza alta. Int. J. Syst. Evol. Microbiol., 2008, 58, 2158-2163. 
+Original article in IJSEM Online
+
+→ ¤ Allorhizobium oryzae (Peng et al. 2008) Mousavi et al. 2016, comb. nov.,
+
+   image
+
+Rhizobium oryzicola Zhang et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) ZYY136=ACCC 05753=KCTC 32088. 
+Sequence accession no. (16S rRNA gene) for the type strain: JX446583. 
+Etymology: L. fem n. oryza, rice, L. suff. -cola (from L. n. incola), inhabitant dweller; N.L. n. oryzicola, rice-dweller. 
+Source: Plant. 
+Valid publication: ZHANG, X. X., GAO, J. S., CAO, Y. H., SHEIRDIL, R. A., WANG, X. C. and ZHANG, L. 2015. Rhizobium oryzicola gen. nov., potential plant-growth-promoting endophytic bacteria isolated from rice roots. Int. J. Syst. Evol. Microbiol., 65, 2931-2936. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium oryziradicis Zhao et al. 2017, sp. nov. 
+Type strain: (see also StrainInfo.net) N19=ACCC 19962=KCTC 52413. 
+Sequence accession no. (16S rRNA gene) for the type strain: KX129901. 
+Etymology: L. fem. n. oryza, rice; L. fem. n. radix -icis, root; N.L. gen. n. oryziradicis, of the rice root. 
+Source: Plant. 
+Valid publication: ZHAO, J. J., ZHANG, J., SUN, L., ZHANG, R. J., ZHANG, C. W., YIN, H. Q. and ZHANG, X. X. 2017. Rhizobium oryziradicis gen. nov., isolated from rice roots. Int. J. Syst. Evol. Microbiol., 67, 963-968. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium pakistanense Khalid et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) BN-19=CCBAU 101086=LMG 27895. 
+Sequence accession no. (16S rRNA gene) for the type strain: AB854065. 
+Whole-genome sequence accession no. for the type strain: -. 
+Etymology: N.L. adj. pakistanensis, pertaining to Pakistan, where this novel strain was first isolated. 
+Source: Plant. 
+Valid publication: Validation List no. 166. List of new names and new combinations previously effectively, but not validly, published. Int. J. Syst. Evol. Microbiol., 65 (2015), 3763-3767. 
+Validation List Online 
+Effective publication: Khalid, R., Zhang, Y.J., Ali, S., Sui, X.H., Zhang, X.X., Amara, U., Chen, W.X. and Hayat, R. 2015. Rhizobium pakistanensis gen. nov., isolated from groundnut (Arachis hypogaea) nodules grown in rainfed Pothwar, Pakistan. Antonie van Leeuwenhoek 107, 281-290.
+Effective publication Online
+
+   image
+
+Rhizobium paknamense Kittiwongwattana and Thawai 2013, sp. nov. 
+Type strain: (see also StrainInfo.net) L6-8=NBRC 109338=BCC 55142. 
+Sequence accession no. (16S rRNA gene) for the type strain: AB733647. 
+Etymology: N.L. neut. adj. paknamense, pertaining to Paknam district, where the type strain was isolated. 
+Source: Plant. 
+Valid publication: KITTIWONGWATTANA, C. and THAWAI, C. 2013. Rhizobium paknamense gen. nov., isolated from lesser duckweeds (Lemna aequinoctialis). Int. J. Syst. Evol. Microbiol., 63, 3823-3828. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium paranaense Dall’Agnol et al. 2014, sp. nov. 
+Type strain: (see also StrainInfo.net) PRF 35=CNPSo 120=LMG 27577=IPR-Pv 1249. 
+Sequence accession no. (16S rRNA gene) for the type strain: EU488753. 
+Etymology: N.L. neut. adj. paranaense, of or belonging to Paraná. Named after Paraná State, where our research group is established and where the type strain was isolated. 
+Source: Plant. 
+Valid publication: DALL’AGNOL, R. F., RIBEIRO, R. A., DELAMUTA, J. R. M. O., ORMEÑO-ORRILLO, E., ROGEL, M. A., ANDRADE, D. S., MARTÍ­NEZ-ROMERO, E. and HUNGRIA, M. 2014. Rhizobium paranaense gen. nov., an effective N2-fixing symbiont of common bean (Phaseolus vulgaris L.) with broad geographical distribution in Brazil. Int. J. Syst. Evol. Microbiol., 64, 3222-3229. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium petrolearium Zhang et al. 2012, sp. nov. 
+Type strain: (see also StrainInfo.net) SL-1 = ACCC 11238 = KCTC 23288. 
+Sequence accession no. (16S rRNA gene) for the type strain: EU556969. 
+Etymology: Gr. n. petra, rock; L. neut. olearium, related to oil, of or belonging to oil; N.L. neut. adj. petrolearium, related to mineral oil. 
+Valid publication: ZHANG (X.), LI (B.), WANG (H.), SUI (X.), MA (X.), HONG (Q.) and JIANG (R.): Rhizobium petrolearium gen. nov., isolated from oil-contaminated soil. Int. J. Syst. Evol. Microbiol., 2012, 62, 1871-1876. 
+Original article in IJSEM Online
+Note: The epithet is petrolearium. So, the correct etymology must be "Gr. n. petra, rock", not "L. n. petra, rock" as cited in the paper Zhang et al. 2012.
+
+   image
+
+Rhizobium phaseoli Dangeard 1926, species. 
+Type strain: (see also StrainInfo.net) ATCC 14482= DSM 30137 = IFO (now NBRC) 14785 = JCM 20683 = NRRL L-321 = VKM B-1966. 
+Sequence accession no. (16S rRNA gene) for the type strain: EF141340. 
+Etymology: L. gen. n. phaseoli, of bean, isolated from effective nodules of Phaseolus vulgaris. 
+Approved Lists reference: SKERMAN (V.B.D.), McGOWAN (V.) and SNEATH (P.H.A.) (editors): Approved Lists of Bacterial Names. Int. J. Syst. Bacteriol., 1980, 30, 225-420 (Approved Lists of Bacterial Names in IJSEM Online - Approved Lists of Bacterial Names Amended edition). 
+Original publication: DANGEARD (P.A.): Recherches sur les tubercles radicaux des Légumineuses. Botaniste (Paris), 1926, 16, 1-275.
+
+→ Rhizobium phaseoli Dangeard 1926 (Approved Lists 1980) emend. Ramírez-Bahena et al. 2008. 
+Type strain: (see also StrainInfo.net) ATCC 14482= DSM 30137 = JCM 20683 = NBRC 14785 = NRRL L-321 = VKM B-1966. 
+Sequence accession no. (16S rRNA gene) for the type strain: EF141340. 
+Etymology: L. gen. n. phaseoli, of bean, isolated from effective nodules of Phaseolus vulgaris. 
+Reference: RAMÍREZ-BAHENA (M.H.), GARCÍA-FRAILE (P.), PEIX (A.), VALVERDE (A.), RIVAS (R.), IGUAL (J.M.), MATEOS (P.F.), MARTÍNEZ-MOLINA (E.) and VELÁZQUEZ (E.): Revision of the taxonomic status of the species Rhizobium leguminosarum (Frank 1879) Frank 1889AL, Rhizobium phaseoli 1926AL and Rhizobium trifolii Dangeard 1926AL. R. trifolii is a later synonym of R. leguminosarum. Reclassification of the strain R. leguminosarum DSM 30132 (=NCIMB 11478) as Rhizobium pisi sp. nov. Int. J. Syst. Evol. Microbiol., 2008, 58, 2484-2490. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium pisi Ramírez-Bahena et al. 2008, sp. nov. 
+Type strain: (see also StrainInfo.net) DSM 30132 = NCIMB 11478. 
+Sequence accession no. (16S rRNA gene) for the type strain: AY509899. 
+Etymology: L. gen. neut. n. pisi, of the pea, referring to the isolation source of this micro-organism, nodules of Pisum sativum. 
+Valid publication: RAMÍREZ-BAHENA (M.H.), GARCÍA-FRAILE (P.), PEIX (A.), VALVERDE (A.), RIVAS (R.), IGUAL (J.M.), MATEOS (P.F.), MARTÍNEZ-MOLINA (E.) and VELÁZQUEZ (E.): Revision of the taxonomic status of the species Rhizobium leguminosarum (Frank 1879) Frank 1889AL, Rhizobium phaseoli 1926AL and Rhizobium trifolii Dangeard 1926AL. R. trifolii is a later synonym of R. leguminosarum. Reclassification of the strain R. leguminosarum DSM 30132 (=NCIMB 11478) as Rhizobium pisi sp. nov. Int. J. Syst. Evol. Microbiol., 2008, 58, 2484-2490. 
+Original article in IJSEM Online
+
+Note: It seems that the ATCC collection has distributed different type strains of ¤ Rhizobium leguminosarum with the same accession number (ATCC 10004 before and after 1994. 
+Strain DSM 30132 and NCIMB 2370, previously considered as the type strain of ¤ Rhizobium leguminosarum, were received from the ATCC before 1990. These strains belong to a new species for which Ramírez-Bahena et al. 2008 propose the name Rhizobium pisi. 
+Reference: RAMÍREZ-BAHENA (M.H.), GARCÍA-FRAILE (P.), PEIX (A.), VALVERDE (A.), RIVAS (R.), IGUAL (J.M.), MATEOS (P.F.), MARTÍNEZ-MOLINA (E.) and VELÁZQUEZ (E.): Revision of the taxonomic status of the species Rhizobium leguminosarum (Frank 1879) Frank 1889AL, Rhizobium phaseoli 1926AL and Rhizobium trifolii Dangeard 1926AL. R. trifolii is a later synonym of R. leguminosarum. Reclassification of the strain R. leguminosarum DSM 30132 (=NCIMB 11478) as Rhizobium pisi sp. nov. Int. J. Syst. Evol. Microbiol., 2008, 58, 2484-2490. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium populi Rozahon et al. 2014, sp. nov. 
+Type strain: (see also StrainInfo.net) K-38=CCTCC AB 2013068=NRRL B-59990=JCM 19159. 
+Sequence accession no. (16S rRNA gene) for the type strain: KC609734. 
+Etymology: L. fem. gen. n. populi, of a poplar tree, pertaining to Populus euphratica, the Latin name for the poplars that grow in the forest from which the type strain was isolated. 
+Source: Plant. 
+Valid publication: ROZAHON, M., ISMAYIL, N., HAMOOD, B., ERKIN, R., ABDURAHMAN, M., MAMTIMIN, H., ABDUKERIM, M., LAL, R. and RAHMAN, E. 2014. Rhizobium populi gen. nov., an endophytic bacterium isolated from Populus euphratica. Int. J. Syst. Evol. Microbiol., 64, 3215-3221. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium pseudoryzae Zhang et al. 2011, sp. nov. 
+Type strain: (see also StrainInfo.net) J3-A127 = ACCC 10380 = KCTC 23294. 
+Sequence accession no. (16S rRNA gene) for the type strain: DQ454123. 
+Etymology: Gr. adj. pseudês, false; L. gen. n. oryzae, of rice and also the name of a bacterial specific epithet; N.L. gen. n. pseudoryzae, not the true (Rhizobium) oryzae. 
+Valid publication: ZHANG (X.), SUN (L.), MA (X.), SUI (X.H.) and JIANG (R.): Rhizobium pseudoryzae gen. nov., isolated from the rhizosphere of rice. Int. J. Syst. Evol. Microbiol., 2011, 61, 2425-2429. 
+Original article in IJSEM Online
+
+→ ¤ Allorhizobium pseudoryzae (Zhang et al. 2011) Mousavi et al. 2016, comb. nov.,
+
+   image
+
+Rhizobium puerariae Boonsnongcheep et al. 2016, sp. nov. 
+Type strain: (see also StrainInfo.net) PC004=BCC 73740=NBRC 110722. 
+Sequence accession no. (16S rRNA gene) for the type strain: LC014930. 
+Whole-genome sequence accession no. for the type strain: -. 
+Etymology: N.L. fem. gen. n. puerariae, of Pueraria, the genus of Pueraria candollei, from which the type strain was isolated.
+Source: Plant. 
+Valid publication: BOONSNONGCHEEP, P., PRATHANTURARUG, S., TAKAHASHI, Y. and MATSUMOTO, A. 2016. Rhizobium puerariae gen. nov., an endophytic bacterium from the root nodules of the medicinal plant Pueraria candollei var. candollei. Int. J. Syst. Evol. Microbiol., 66, 1236-1241. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium pusense Panday et al. 2011, sp. nov. 
+Type strain: (see also StrainInfo.net) NRCPB10 = JCM 16209 = LMG 25623 = NCIMB 14639. 
+Sequence accession no. (16S rRNA gene) for the type strain: FJ969841. 
+Etymology: N.L. neut. adj. pusense, of or belonging to Pusa, India, the geographical origin of the type strain. 
+Valid publication: PANDAY (D.), SCHUMANN (P.) and DAS (S.K.): Rhizobium pusense gen. nov., isolated from the rhizosphere of chickpea (Cicer arietinum L.). Int. J. Syst. Evol. Microbiol., 2011, 61, 2632-2639. 
+Original article in IJSEM Online
+
+→ ¤ Agrobacterium pusense (Panday et al. 2011) Mousavi et al. 2016, comb. nov.,
+
+   image
+
+Rhizobium radiobacter (Beijerinck and van Delden 1902) Young et al. 2001, comb. nov. 
+Type strain: (see also StrainInfo.net) ATCC 19358= CIP 104325 = DSM 30147 = HAMBI 1814 = IAM 12048 = ICMP 5785 = IFO (now NBRC) 13532 = JCM 20371 = LMG 140 = NCCB 27005 = NCIB (now NCIMB) 9042 = NCPPB 3001. 
+Sequence accession no. (16S rRNA gene) for the type strain: AB247615. 
+Basonym: ¤ Agrobacterium radiobacter (Beijerinck and van Delden 1902) Conn 1942 (Approved Lists 1980) emend. Sawada et al. 1993. 
+Other synonyms: "Bacillus radiobacter" Beijerinck and van Delden 1902, "Bacterium radiobacter" (Beijerinck and van Delden 1902) Löhnis 1905, "Rhizobium radiobacter" (Beijerinck and van Delden 1902) Pribram 1933, "Achromobacter radiobacter" (Beijerinck and van Delden 1902) Bergey et al. 1934, "Alcaligenes radiobacter" (Beijerinck and van Delden 1902) Conn 1939, "Pseudomonas radiobacter" (Beijerinck and van Delden 1902) Krasil'nikov 1949. 
+Etymology: L. n. radius, a beam or ray; N.L. pref. radio-, pertaining to radiation; N.L. n. bacter, a rod, staff; N.L. n. radiobacter, ray rod. 
+Reference: YOUNG (J.M.), KUYKENDALL (L.D.), MARTÍNEZ -ROMERO (E.), KERR (A.) and SAWADA (H.): A revision of Rhizobium Frank 1889, with an emended description of the genus, and the inclusion of all species of Agrobacterium Conn 1942 and Allorhizobium undicola de Lajudie et al. 1998 as new combinations: Rhizobium radiobacter, R. rhizogenes, R. rubi, R. undicola and R. vitis. Int. J. Syst. Evol. Microbiol., 2001, 51, 89-103. 
+Original article in IJSEM Online
+
+Note: The new combination Rhizobium radiobacter (Beijerinck and van Delden 1902) Young et al. 2001 also encompasses the strains previously allocated to ¤ Agrobacterium tumefaciens (Smith and Townsend 1907) Conn 1942 (Approved Lists 1980).
+
+   image
+
+Rhizobium rhizogenes (Riker et al. 1930) Young et al. 2001, comb. nov. 
+Type strain: (see also StrainInfo.net) ATCC 11325= CIP 104328 = DSM 30148 = IFO (now NBRC) 13257 = CFBP 5520 = HAMBI 1816 = ICMP 5794 = JCM 20919 = LMG 150 = NCPPB 2991. 
+Sequence accession no. (16S rRNA gene) for the type strain: D14501. 
+Basonym: ¤ Agrobacterium rhizogenes (Riker et al. 1930) Conn 1942 (Approved Lists 1980) emend. Sawada et al. 1993. 
+Etymology: Gr. n. rhiza, root; N.L. suff. -genes (from Gr. v. gennaô, to produce), producing; N.L. part. adj. rhizogenes, root-producing. 
+Valid publication: YOUNG (J.M.), KUYKENDALL (L.D.), MARTÍNEZ -ROMERO (E.), KERR (A.) and SAWADA (H.): A revision of Rhizobium Frank 1889, with an emended description of the genus, and the inclusion of all species of Agrobacterium Conn 1942 and Allorhizobium undicola de Lajudie et al. 1998 as new combinations: Rhizobium radiobacter, R. rhizogenes, R. rubi, R. undicola and R. vitis. Int. J. Syst. Evol. Microbiol., 2001, 51, 89-103. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium rhizoryzae Zhang et al. 2014, sp. nov. 
+Type strain: (see also StrainInfo.net) J3-AN59=ACCC 05916=KCTC 23652. 
+Sequence accession no. (16S rRNA gene) for the type strain: EF649779. 
+Etymology: Gr. n. rhiza, root; L. gen. n. oryzae, of rice; N.L. gen. n. rhyzoryzae, of rice roots. 
+Source: Plant. 
+Valid publication: ZHANG, X.-X., TANG, X., SHEIRDIL, R. A., SUN, L. and MA, X.-T. 2014. Rhizobium rhizoryzae gen. nov., isolated from rice roots. Int. J. Syst. Evol. Microbiol., 64, 1373-1377. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium rosettiformans Kaur et al. 2011, sp. nov. 
+Type strain: (see also StrainInfo.net) W3 = CCM 7583 = MTCC 9454. 
+Sequence accession no. (16S rRNA gene) for the type strain: EU781656. 
+Etymology: N.L. n. rosetta (from L. n. rosa, rose), rosette; L. part. adj. formans, forming; N.L. part. adj. rosettiformans, rosette-forming, referring to the ability of the organism to form rosette-shaped structures. 
+Valid publication: KAUR (J.), VERMA (M.) and LAL (R.): Rhizobium rosettiformans gen. nov., isolated from a hexachlorocyclohexane dump site, and reclassification of Blastobacter aggregatus Hirsch and Muller 1986 as Rhizobium aggregatum comb. nov. Int. J. Syst. Evol. Microbiol., 2011, 61, 1218-1225. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium rubi (Hildebrand 1940) Young et al. 2001, comb. nov. 
+Type strain: (see also StrainInfo.net) ATCC 13335= CFBP 5509 = CFBP 6448 = CIP 104332 = DSM 6772 = HAMBI 1812 = ICMP 6428 = JCM 20918 = LMG 156 = LMG 17935 = NBRC 13261 = NCPPB 1854. 
+Sequence accession no. (16S rRNA gene) for the type strain: AY626395. 
+Basonym: ¤ Agrobacterium rubi (Hildebrand 1940) Starr and Weiss 1943 (Approved Lists 1980). 
+Other synonym: "Phytomonas rubi" Hildebrand 1940. 
+Etymology: L. n. rubus, a blackberry, and also the generic name of blackberry (Rubus); L. gen. n. rubi, of blackberry,  of Rubus. 
+Valid publication: YOUNG (J.M.), KUYKENDALL (L.D.), MARTÍNEZ -ROMERO (E.), KERR (A.) and SAWADA (H.): A revision of Rhizobium Frank 1889, with an emended description of the genus, and the inclusion of all species of Agrobacterium Conn 1942 and Allorhizobium undicola de Lajudie et al. 1998 as new combinations: Rhizobium radiobacter, R. rhizogenes, R. rubi, R. undicola and R. vitis. Int. J. Syst. Evol. Microbiol., 2001, 51, 89-103. 
+Original article in IJSEM Online
+
+Note: According to the CFBP Web site, the correct accession number of the type strain is CFBP 5509 (= CFBP 6448), not CFBP 1317 as cited in the paper by Young et al. 2001. 
+References: 
+1 BULL (C.T.): Personal communication (January 14, 2009). 
+2 LE SAUX (M.): Personal communication (February 02, 2009).
+
+   image
+
+Rhizobium selenitireducens corrig. Hunter et al. 2008, sp. nov. 
+Type strain: (see also StrainInfo.net) B1 = ATCC BAA-1503 = LMG 24075 = NRRL B-41997. 
+Sequence accession no. (16S rRNA gene) for the type strain: EF440185. 
+Etymology: N.L. n. selenis -itis, selenite; L. part. adj. reducens, converting to a different state; N.L. part. adj. selenitireducens, selenite reducing, referring to the organism's ability to reduce the selenium oxyanion selenite to elemental selenium. 
+Valid publication: Validation List no. 121. Int. J. Syst. Evol. Microbiol., 2008, 58, 1057. 
+Effective publication: HUNTER (W.J.), KUYKENDALL (L.D.) and MANTER (D.K.): Rhizobium selenireducens gen. nov., : a selenite-reducing α-Proteobacteria isolated from a bioreactor. Curr. Microbiol., 2007, 55, 455-460 
+Validation List no. 121 in IJSEM Online - Effective publication Online
+
+Note: The specific epithet, selenireducens (sic), has been corrected on validation according to Rule 61. 
+Reference: LISTS EDITOR, IJSEM: Validation List no. 121 (footnote §). Int. J. Syst. Evol. Microbiol., 2008, 58, 1057. 
+Validation List no. 121 in IJSEM Online
+
+   image
+
+Rhizobium skierniewicense Puławska et al. 2012, sp. nov. 
+Type strain: (see also StrainInfo.net) Ch11 = CFBP 7420 = LMG 26191. 
+Sequence accession no. (16S rRNA gene) for the type strain: HQ823551.
+Etymology: N.L. neut. adj. skierniewicense, of or belonging to Skierniewice, the town in Poland where the type strain was isolated. 
+Valid publication: PUŁAWSKA (J.), WILLEMS (A.) and SOBICZEWSKI (P.): Rhizobium skierniewicense gen. nov., isolated from tumours on chrysanthemum and cherry plum. Int. J. Syst. Evol. Microbiol., 2012, 62, 895-899. 
+Original article in IJSEM Online
+
+→ ¤ Agrobacterium skierniewicense (Puławska et al. 2012) Mousavi et al. 2016, comb. nov.,
+
+   image
+
+Rhizobium smilacinae Zhang et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) PTYR-5=CCTCC AB 2013016=LMG 27604. 
+Sequence accession no. (16S rRNA gene) for the type strain: KF551141. 
+Etymology: N.L. n. Smilacina, a botanical genus name; N.L. gen. smilacinae, of the plant genus Smilacina. 
+Source: Plant. 
+Valid publication: Validation List no. 161. List of new names and new combinations previously effectively, but not validly, published. Int. J Syst. Evol. Microbiol., 65 (2015), 1-4. 
+Validation List Online 
+Effective publication: ZHANG, L., SHI, X., SI, M., LI, C., ZHU, L., ZHAO, L., SHEN, X. and WANG, Y. 2014. Rhizobium smilacinae gen. nov., an endophytic bacterium isolated from the leaf of Smilacina japonica. Antonie van Leeuwenhoek, 106, 715-723.
+Effective publication Online
+
+   image
+
+Rhizobium soli Yoon et al. 2010, sp. nov. 
+Type strain: (see also StrainInfo.net) DS-42 = JCM 14591 = KCTC 12873. 
+Sequence accession no. (16S rRNA gene) for the type strain: EF363715. 
+Etymology: L. gen. n. soli, of soil. 
+Valid publication: YOON (J.H.), KANG (S.J.), YI (H.S.), OH (T.K.) and RYU (C.M.): Rhizobium soli gen. nov., isolated from soil. Int. J. Syst. Evol. Microbiol., 2010, 60, 1387-1393. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium sophorae Jiao et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 03386=E5=LMG 27901=HAMBI 3615. 
+Sequence accession no. (16S rRNA gene) for the type strain: KJ831229. 
+Etymology: N.L. fem. n. sophorae, of Sophora, the Latin name of the Chinese medicinal herb Sophora flavescens, from the root nodules of which the type strain was isolated. 
+Source: Plant. 
+Valid publication: JIAO, Y. S., YAN, H., JI, Z. J., LIU, Y. H., SUI, X. H., WANG, E. T., GUO, B. L., CHEN, W. X. and CHEN, W. F. 2015. Rhizobium sophorae sp. nov. and Rhizobium sophoriradicis sp. nov., nitrogen-fixing rhizobial symbionts of the medicinal legume Sophora flavescens. Int. J. Syst. Evol. Microbiol., 65, 497-503 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium sophoriradicis Jiao et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 03470=C-5-1=LMG 27898=HAMBI 3510. 
+Sequence accession no. (16S rRNA gene) for the type strain: KJ831225. 
+Etymology: N.L. n. Sophora, a plant species; L. n. radix, -icis, a root; N.L. gen. n. sophoriradicis, of (from) the root of Sophora. 
+Source: Plant. 
+Valid publication: JIAO, Y. S., YAN, H., JI, Z. J., LIU, Y. H., SUI, X. H., WANG, E. T., GUO, B. L., CHEN, W. X. and CHEN, W. F. 2015. Rhizobium sophorae sp. nov. and Rhizobium sophoriradicis sp. nov., nitrogen-fixing rhizobial symbionts of the medicinal legume Sophora flavescens. Int. J. Syst. Evol. Microbiol., 65, 497-503 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium sphaerophysae Xu et al. 2012, sp. nov. 
+Type strain: (see also StrainInfo.net) CCNWGS0238 = ACCC17498 = HAMBI 3074. 
+Sequence accession no. (16S rRNA gene) for the type strain: FJ154088. 
+Etymology: N.L. gen. n. sphaerophysae, of Sphaerophysa, a genus of leguminous plants, isolated from Sphaerophysa salsula, the host from which the type strain was isolated. 
+Valid publication: Validation List no. 148. Int. J. Syst. Evol. Microbiol., 2012, 62, 2549-2554. 
+Effective publication: XU (L.), SHI (J.F.), ZHAO (P.), CHEN (W.M.), QIN (W.), TANG (M.) and WEI (G.H.): Rhizobium sphaerophysae gen. nov., a novel species isolated from root nodules of Sphaerophysa salsula in China. Antonie van Leeuwenhoek, 2011, 99, 845-854. 
+Validation List no. 148 in IJSEM Online - Effective publication Online
+
+   image
+
+Rhizobium straminoryzae Lin et al. 2014, sp. nov. 
+Type strain: (see also StrainInfo.net) CC-LY845=BCRC 80698=JCM 19536. 
+Sequence accession no. (16S rRNA gene) for the type strain: KF444510. 
+Etymology: L. neut. n. stramen -inis, straw; L. fem. n. oryza, rice; N.L. gen. n. straminoryzae, of rice straw. 
+Source: Plant. 
+Valid publication: LIN, S.-Y., HSU, Y.-H., LIU, Y.-C., HUNG, M.-H., HAMEED, A., LAI, W.-A., YEN, W.-S. and YOUNG, C.-C. 2014. Rhizobium straminoryzae gen. nov., isolated from the surface of rice straw. Int. J. Syst. Evol. Microbiol., 64, 2962-2968.
+Original article in IJSEM Online
+
+   image
+
+Rhizobium subbaraonis Ramana et al. 2013, sp. nov. 
+Type strain: (see also StrainInfo.net) JC85 = DSM 24765 = KCTC 23614. 
+Sequence accession no. (16S rRNA gene) for the type strain: FR714938. 
+Etymology: N.L. gen. n. subbaraonis, of Subba Rao, named after Professor N. S. Subba Rao, an eminent microbiologist who significantly contributed to the knowledge of Rhizobium biofertilizers in India. 
+Valid publication: RAMANA (C.V.), PARAG (B.), GIRIJA (K.R.), RAM (B.R.), VENKATA RAMANA (V.) and SASIKALA (C.): Rhizobium subbaraonis gen. nov., an endolithic bacterium isolated from beach sand. Int. J. Syst. Evol. Microbiol., 2013, 63, 581-585. 
+Original article in IJSEM Online 
+
+   image
+
+Rhizobium sullae Squartini et al. 2002, sp. nov. 
+Type strain: (see also StrainInfo.net) IS123 = DSM 14623 = USDA 4950. 
+Sequence accession no. (16S rRNA gene) for the type strain: Y10170. 
+Etymology: N.L. gen. n. sullae, of sulla, the common Italian name of Hedysarum coronarium, the host plant. 
+Valid publication: SQUARTINI (A.), STRUFFI (P.), DÖRING (H.), SELENSKA-POBELL (S.), TOLA (E.), GIACOMINI (A.), VENDRAMIN (E.), VELÁZQUEZ (E.), MATEOS (P.F.), MARTÍNEZ-MOLINA (E.), DAZZO (F.B.), CASELLA (S.) and NUTI (M.P.): Rhizobium sullae sp. nov., (formerly 'Rhizobium hedysari'), the root-nodule microsymbiont of Hedysarum coronarium L. Int. J. Syst. Evol. Microbiol., 2002, 52, 1267-1276. 
+Original article in IJSEM Online
+
+Note: Rhizobium sullae Squartini et al. 2002 was previously known as "Rhizobium hedysari".
+
+   image
+
+Rhizobium taibaishanense Yao et al. 2012, sp. nov. 
+Type strain: (see also StrainInfo.net) CCNWSX 0483 = ACCC 14971 = HAMBI 3214. 
+Sequence accession no. (16S rRNA gene) for the type strain: HM776997. 
+Etymology: N.L. neut. adj. taibaishanense, of or belonging to the Taibaishan Mountains in the Shaanxi province of China, where the bacterium was isolated. 
+Valid publication: YAO (L.J.), SHEN (Y.Y.), ZHAN (J.P.), XU (W.), CUI (G.L.) and WEI (G.H.): Rhizobium taibaishanense gen. nov., isolated from a root nodule of Kummerowia striata. Int. J. Syst. Evol. Microbiol., 2012, 62, 335-341. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium tarimense Turdahon et al. 2013, sp. nov. 
+Type strain: (see also StrainInfo.net) PL-41=CCTCC AB 2011011=NRRL B-59556. 
+Sequence accession no. (16S rRNA gene) for the type strain: HM371420. 
+Etymology: N.L. neut. adj. tarimense, pertaining to Tarim basin in Xinjiang Uyghur autonomous region of China, where the type strain was isolated. 
+Source: Environmental - soil. 
+Reference: TURDAHON, M., OSMAN, G., HAMDUN, M., YUSUF, K., ABDUREHIM, Z., ABAYDULLA, G., ABDUKERIM, M., FANG, C. and RAHMAN, E. 2013. Rhizobium tarimense gen. nov., isolated from soil in the ancient Khiyik River. Int. J. Syst. Evol. Microbiol., 63, 2424-2429. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium tianshanense Chen et al. 1995, sp. nov. 
+Type strain: (see also StrainInfo.net) A-1BS = CCBAU 3306 = CIP 105502 = DSM 11417 = HAMBI 1870 = JCM 21567 = LMG 18976 = NBRC 102499. 
+Sequence accession no. (16S rRNA gene) for the type strain: AF041447. 
+Etymology: N.L. neut. adj. tianshanense, pertaining to the Tianshan Mountains in the Xingjiang region of the People' s Republic of China, where strains were isolated. 
+Valid publication: CHEN (W.), WANG (E.), WANG (S.), LI (Y.), CHEN (X.) and LI (Y.): Characteristics of Rhizobium tianshanense gen. nov., a moderately and slowly growing root nodule bacterium isolated from an arid saline environment in Xinjiang, People's Republic of China. Int. J. Syst. Bacteriol., 1995, 45, 153-159. 
+Original article in IJSEM Online
+→ ¤ Mesorhizobium tianshanense (Chen et al. 1995) Jarvis et al. 1997, comb. nov.
+
+   image
+
+Rhizobium tibeticum Hou et al. 2009, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 85039 = CGMCC 1.7071 = LMG 24453. 
+Sequence accession no. (16S rRNA gene) for the type strain: EU256404. 
+Etymology: N.L. neut. adj. tibeticum of or pertaining to Tibet, referring to the isolation of the first strains from Tibet, China. 
+Valid publication: HOU (B.C.), WANG (E.T.), LI Jr (Y.), JIA (R.Z.), CHEN (W.F.), GAO (Y.), DONG (R.J.) and CHEN (W.X.): Rhizobium tibeticum gen. nov., a symbiotic bacterium isolated from Trigonella archiducis-nicolai (Širj.) Vassilcz. Int. J. Syst. Evol. Microbiol., 2009, 59, 3051-3057. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium trifolii Dangeard 1926, species. 
+Type strain: (see also StrainInfo.net) ATCC 14480= DSM 30141. 
+Sequence accession no. (16S rRNA gene) for the type strain: AY509900. 
+Etymology: L. n. trifolium, clover, trefoil, and also the generic name of clover (Trifolium); L. gen. n. trifolii, of clover, of Trifolium. 
+Approved Lists reference: SKERMAN (V.B.D.), McGOWAN (V.) and SNEATH (P.H.A.) (editors): Approved Lists of Bacterial Names. Int. J. Syst. Bacteriol., 1980, 30, 225-420 (Approved Lists of Bacterial Names in IJSEM Online - Approved Lists of Bacterial Names Amended edition). 
+Original publication: DANGEARD (P.A.): Recherches sur les tubercles radicaux des Légumineuses. Botaniste (Paris), 1926, 16, 1-275.
+
+→ ¤ Rhizobium leguminosarum (Frank 1879) Frank 1889 (Approved Lists 1980).
+
+Note: According to Jarvis et al. 1980 and to Ramírez-Bahena et al. 2008, Rhizobium trifolii Dangeard 1926 (Approved Lists 1980) is a later heterotypic synonym of Rhizobium leguminosarum (Frank 1879) Frank 1889 (Approved Lists 1980). 
+References: 
+1 JARVIS (B.D.W.), DICK (A.G.) and GREENWOOD (R.M.): Deoxyribonucleic acid homology among strains of Rhizobium trifolii and related species. Int. J. Syst. Bacteriol., 1980, 30, 42-52. 
+Original article in IJSEM Online 
+2 RAMÍREZ-BAHENA (M.H.), GARCÍA-FRAILE (P.), PEIX (A.), VALVERDE (A.), RIVAS (R.), IGUAL (J.M.), MATEOS (P.F.), MARTÍNEZ-MOLINA (E.) and VELÁZQUEZ (E.): Revision of the taxonomic status of the species Rhizobium leguminosarum (Frank 1879) Frank 1889AL, Rhizobium phaseoli 1926AL and Rhizobium trifolii Dangeard 1926AL. R. trifolii is a later synonym of R. leguminosarum. Reclassification of the strain R. leguminosarum DSM 30132 (=NCIMB 11478) as Rhizobium pisi sp. nov. Int. J. Syst. Evol. Microbiol., 2008, 58, 2484-2490. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium tropici Martínez-Romero et al. 1991, sp. nov. 
+Type strain: (see also StrainInfo.net) CIAT 899 = ATCC 49672= DSM 11418 = HAMBI 1163 = IFO (now NBRC) 15247 = JCM 21072 = LMG 9503. 
+Sequence accession no. (16S rRNA gene) for the type strain: U89832. 
+Etymology: N.L. gen. n. tropici (from L. adj. tropicus, tropical), of the tropic (of Cancer). 
+Valid publication: MARTÍNEZ-ROMERO (E.), SEGOVIA (L.), MERCANTE (F.M.), FRANCO (A.A.), GRAHAM (P.) and PARDO (M.A.): Rhizobium tropici, a novel species nodulating Phaseolus vulgaris L. beans and Leucaena sp. trees. Int. J. Syst. Bacteriol., 1991, 41, 417-426. 
+Original article in IJSEM Online
+
+Note: Rhizobium tropici Martínez-Romero et al. 1991, was the first description of a rhizobial species to include 16S rRNA gene-sequence analysis. At that time, in spite of evidence that supported the proposal of two species from the nodule isolates analyzed, such as differences in 16S rRNA gene sequences and low DNA-DNA hybridization values, only one novel species was accepted. However, two types, A and B, were recognized to account for these differences. In 2012, Ribeiro et al. propose to reclassify type A strains in a new species, ¤ Rhizobium leucaenae Ribeiro et al. 2012. 
+Reference: RIBEIRO (R.A.), ROGEL (M.A.), LÓPEZ-LÓPEZ (A.), ORMEÑO-ORRILLO (E.), BARCELLOS (F.G.), MARTÍNEZ (J.), THOMPSON (F.L.), MARTÍNEZ-ROMERO (E.) and HUNGRIA (M.): Reclassification of Rhizobium tropici type A strains as Rhizobium leucaenae sp. nov. Int. J. Syst. Evol. Microbiol., 2012, 62, 1179-1184. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium tubonense Zhang et al. 2011, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 85046 = HAMBI 3066 = LMG 25225. 
+Sequence accession no. (16S rRNA gene) for the type strain: EU256434. 
+Etymology: N.L. neut. adj. tubonense, pertaining to the ancient name "Tubo" of Tibet, where the bacterium was isolated. 
+Valid publication: ZHANG (R.J.), HOU (B.C.), WANG (E.T.), LI Jr. (Y.), ZHANG (X.X.) and CHEN (W.X.): Rhizobium tubonense gen. nov., isolated from root nodules of Oxytropis glabra. Int. J. Syst. Evol. Microbiol., 2011, 61, 512-517. 
+Original article in IJSEM Online
+
+Note: The epithet tubonense is a neo-Latin adjective in the neuter gender, not in the feminine gender as cited in the paper by Zhang et al. 2011.
+
+   image
+
+Rhizobium undicola (de Lajudie et al. 1998) Young et al. 2001, comb. nov. 
+Type strain: (see also StrainInfo.net) ORS 992 = ATCC 700741= CIP 105883 = JCM 21822 = LMG 11875. 
+Sequence accession no. (16S rRNA gene) for the type strain: Y17047. 
+Basonym: ¤ Allorhizobium undicola de Lajudie et al. 1998. 
+Etymology: L. n. unda, water; L. suff. -cola (from L. n. incola) dweller; N.L. n. undicola, water dweller, referring to the isolation of these strains from nodules of the aquatic plant Neptunia natans. 
+Valid publication: YOUNG (J.M.), KUYKENDALL (L.D.), MARTÍNEZ -ROMERO (E.), KERR (A.) and SAWADA (H.): A revision of Rhizobium Frank 1889, with an emended description of the genus, and the inclusion of all species of Agrobacterium Conn 1942 and Allorhizobium undicola de Lajudie et al. 1998 as new combinations: Rhizobium radiobacter, R. rhizogenes, R. rubi, R. undicola and R. vitis. Int. J. Syst. Evol. Microbiol., 2001, 51, 89-103. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium vallis Wang et al. 2011, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 65647 = HAMBI 3073 = LMG 25295. 
+Sequence accession no. (16S rRNA gene) for the type strain: FJ839677. 
+Etymology: L. gen. n. vallis, of a valley, referring to the fact that the strains were isolated from the Valley of Red River in Yunnan province, China. 
+Valid publication: WANG (F.), WANG (E.T.), WU (L.J.), SUI (X.H.), LI Jr. (Y.) and CHEN (W.X.): Rhizobium vallis gen. nov., isolated from nodules of three leguminous species. Int. J. Syst. Evol. Microbiol., 2011, 61, 2582-2588. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium vignae Ren et al. 2011, sp. nov. 
+Type strain: (see also StrainInfo.net) CCBAU 05176 = HAMBI 3039 = LMG 25447. 
+Sequence accession no. (16S rRNA gene) for the type strain: GU128881. 
+Etymology: N.L. gen. n. vignae, of Vigna, referring to the fact that the majority of strains were isolated from the mung bean, Vigna radiata. 
+Valid publication: REN (D.W.), CHEN (W.F.), SUI (X.H.), WANG (E.T.) and CHEN (W.X.): Rhizobium vignae gen. nov., a symbiotic bacterium isolated from multiple legume species. Int. J. Syst. Evol. Microbiol., 2011, 61, 580-586. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium viscosum Flores et al. 2017, comb. nov. 
+Type strain: (see also StrainInfo.net) LMG 16473=CECT 908. 
+Sequence accession no. (16S rRNA gene) for the type strain: AJ639832. 
+Basonym: ¤ Arthrobacter viscosus Gasdorf et al. 1965. 
+Etymology: L. neut. adj. viscosum, because of its thread-forming, adherent colonies. 
+Source: Environmental - soil. 
+Valid publication: FLORES-FELIX, J. D., RAMIREZ-BAHENA, M. H., SALAZAR, S., PEIX, A. and VELAZQUEZ, E. 2017. Reclassification of Arthrobacter viscosus as Rhizobium viscosum comb. nov. Int. J. Syst. Evol. Microbiol., 67, 1789-1792. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium vitis (Ophel and Kerr 1990) Young et al. 2001, comb. nov. 
+Type strain: (see also StrainInfo.net) K309 = ATCC 49767= CIP 105853 = HAMBI 1817 = ICMP 10752 = IFO (now NBRC) 15140 = JCM 21033 = LMG 8750 = NCPPB 3554. 
+Sequence accession no. (16S rRNA gene) for the type strain: U45329. 
+Basonym: ¤ Agrobacterium vitis Ophel and Kerr 1990. 
+Etymology: L. fem. n. vitis, wine plant; L. gen. fem. n. vitis, of the wine plant. 
+Valid publication: YOUNG (J.M.), KUYKENDALL (L.D.), MARTÍNEZ -ROMERO (E.), KERR (A.) and SAWADA (H.): A revision of Rhizobium Frank 1889, with an emended description of the genus, and the inclusion of all species of Agrobacterium Conn 1942 and Allorhizobium undicola de Lajudie et al. 1998 as new combinations: Rhizobium radiobacter, R. rhizogenes, R. rubi, R. undicola and R. vitis. Int. J. Syst. Evol. Microbiol., 2001, 51, 89-103. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium wenxiniae Gao et al. 2017, sp. nov. 
+Type strain: (see also StrainInfo.net) 166=CGMCC 1.15279=DSM 100734. 
+Sequence accession no. (16S rRNA gene) for the type strain: KR610521. 
+Etymology: N.L. fem. gen. n. wenxiniae, of Wen-xin, to honour Wen-xin Chen, a respected rhizobial taxonomist, for her great contributions to the investigation and taxonomy of rhizobial resources in China. 
+Source: Plant. 
+Valid publication: GAO, J. L., SUN, P., WANG, X. M., LV, F. Y., MAO, X. J. and SUN, J. G. 2017. Rhizobium wenxiniae gen. nov., an endophytic bacterium isolated from maize root. Int. J. Syst. Evol. Microbiol., 67, 2798-2803. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium yanglingense Tan et al. 2001, sp. nov. 
+Type strain: (see also StrainInfo.net) SH 22623 = CCBAU 71623 = CIP 108028 = LMG 19592. 
+Sequence accession no. (16S rRNA gene) for the type strain: AF003375. 
+Etymology: N.L. neut. adj. yanglingense, pertaining to Yangling a town in Shiaanxi province of China, where the majority of strains within this species were isolated. 
+Valid publication: TAN (Z.Y.), KAN (F.L.), PENG (G.X.), WANG (E.T.), REINHOLD-HUREK (B.) and CHEN (W.X.): Rhizobium yanglingense gen. nov., isolated from arid and semi-arid regions in China. Int. J. Syst. Evol. Microbiol., 2001, 51, 909-914. 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium yantingense Chen et al. 2015, sp. nov. 
+Type strain: (see also StrainInfo.net) H66=CCTCC AB 2014007=LMG 28229. 
+Sequence accession no. (16S rRNA gene) for the type strain: KC934840. 
+Etymology: N.L. neut. adj. yantingense, referring to Yanting district, Sichuan Province, PR China, where the organism was isolated. 
+Source: Environmental. 
+Valid publication: CHEN, W., SHENG, X.-F., HE, L.-Y. and HUANG, Z. 2015. Rhizobium yantingense gen. nov., a mineral-weathering bacterium. Int. J. Syst. Evol. Microbiol., 65, 412-417 
+Original article in IJSEM Online
+
+   image
+
+Rhizobium zeae Celador et al. 2017, sp. nov. 
+Type strain: (see also StrainInfo.net) CRZM18R=LMG 29735=CECT 9169. 
+Sequence accession no. (16S rRNA gene) for the type strain: KX932068. 
+Etymology: L. gen. n. zeae, of Zea mays. 
+Source: Plant. 
+Valid publication: CELADOR-LERA, L., MENENDEZ, E., PEIX, A., IGUAL, J. M., VELAZQUEZ, E. and RIVAS, R. 2017. Rhizobium zeae gen. nov., isolated from maize (Zea mays L.) roots. Int. J. Syst. Evol. Microbiol., 67, 2306-2311. 

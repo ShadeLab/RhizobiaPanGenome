@@ -1,0 +1,32 @@
+1: Microbe sample from Rhizobium leguminosarum bv. viciae
+Identifiers: BioSample: SAMN04849238; Sample name: Complete Genome Sequencing of Rhizobium leguminosarum symbiovar viciae strain BIHB 1148
+Organism: Rhizobium leguminosarum bv. viciae
+Attributes:
+    /strain="BIHB 1148"
+    /isolation source="Pisum sativum root-nodule"
+    /collection date="Sep-2005"
+    /geographic location="India:Kaza,Lahaul Spiti, State, Himachal Pradesh"
+    /sample type="Root nodule"
+    /altitude="3990 m"
+    /biomaterial provider="Dr. Arvind Gulati"
+    /collected by="Praveen Rahi"
+    /culture collection="MCC:2257"
+    /depth="1 CM"
+    /broad-scale environmental context="Root nodule"
+    /genotype="not applicable"
+    /host tissue sampled="not applicable"
+    /identified by="Praveen Rahi"
+    /lab host="not applicable"
+    /latitude and longitude="32.16 N 78.03999999999996 E"
+    /mating type="not applicable"
+    /passage history="10"
+    /sample size="10 GM"
+    /serotype="not applicable"
+    /serovar="not applicable"
+    /specimen voucher="not applicable"
+    /temperature="12 C"
+Description:
+This strain of Rhizobium leguminosarum symbiovar viciae BIHB 1148 from Root nodule of Pisum sativum cultivated at Village: Hansa, Town: Kaza, Dist.: Lahaul Spiti, State: Himachal Pradesh, India.
+Accession: SAMN04849238	ID: 4849238
+
+

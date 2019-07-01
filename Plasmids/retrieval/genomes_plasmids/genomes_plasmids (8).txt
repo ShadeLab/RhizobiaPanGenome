@@ -1,0 +1,4 @@
+#Organism/Name	Kingdom	Group	SubGroup	Plasmid Name	RefSeq	INSDC	Size (Kb)	GC%	Protein	rRNA	tRNA	Other RNA	Gene	Pseudogene	Release Date	Modify Date
+Rhizobium tropici CIAT 899	Bacteria	Proteobacteria	Alphaproteobacteria	pRtrCIAT899a	NC_020060.1	CP004016	216.61	58.6243	201	-	-	-	221	20	2013/01/03	2017/05/19
+Rhizobium tropici CIAT 899	Bacteria	Proteobacteria	Alphaproteobacteria	pRtrCIAT899b	NC_020061.1	CP004017	549.467	57.624	496	-	-	-	566	70	2013/01/03	2017/05/19
+Rhizobium tropici CIAT 899	Bacteria	Proteobacteria	Alphaproteobacteria	pRtrCIAT899c	NC_020062.1	CP004018	2083.2	59.3562	1872	-	-	-	1905	33	2013/01/03	2017/05/19

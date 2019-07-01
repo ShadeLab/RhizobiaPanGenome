@@ -1,0 +1,5 @@
+#Organism/Name	Kingdom	Group	SubGroup	Plasmid Name	RefSeq	INSDC	Size (Kb)	GC%	Protein	rRNA	tRNA	Other RNA	Gene	Pseudogene	Release Date	Modify Date
+Rhizobium esperanzae	Bacteria	Proteobacteria	Alphaproteobacteria	pRspN561a	NZ_CP013501.1	CP013501	315.151	61.686	302	-	-	-	306	4	2016/06/21	2018/11/26
+Rhizobium esperanzae	Bacteria	Proteobacteria	Alphaproteobacteria	pRspN561b	NZ_CP013502.1	CP013502	433.056	57.7865	346	-	-	-	450	104	2016/06/21	2018/11/26
+Rhizobium esperanzae	Bacteria	Proteobacteria	Alphaproteobacteria	pRspN561c	NZ_CP013503.1	CP013503	501.077	61.8576	463	-	-	-	483	20	2016/06/21	2018/11/26
+Rhizobium esperanzae	Bacteria	Proteobacteria	Alphaproteobacteria	pRspN561d	NZ_CP013504.1	CP013504	752.94	60.969	668	-	-	-	724	56	2016/06/21	2018/11/26

@@ -1,0 +1,13 @@
+Rhizobium etli strain NXC12
+Rhizobium leguminosarum strain Vaf-108
+Rhizobium leguminosarum strain Norway
+Rhizobium leguminosarum strain ATCC 14479
+Rhizobium leguminosarum bv. viciae strain BIHB 1148
+Rhizobium leguminosarum bv. viciae strain BIHB 1217
+Rhizobium leguminosarum bv. viciae strain UPM791
+Rhizobium jaguaris strain CCGE525
+Rhizobium pusense strain CFBP5875
+Rhizobium sp. CCGE531
+Rhizobium sp. CCGE532
+Rhizobium sp. N4311
+Rhizobium sp. TAL182

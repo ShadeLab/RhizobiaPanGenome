@@ -1,0 +1,5 @@
+#Organism/Name	Kingdom	Group	SubGroup	Plasmid Name	RefSeq	INSDC	Size (Kb)	GC%	Protein	rRNA	tRNA	Other RNA	Gene	Pseudogene	Release Date	Modify Date
+Rhizobium acidisoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRapFH23a	NZ_CP034999.1	CP034999	671.287	58.3789	509	-	-	-	675	166	2019/01/09	2019/01/26
+Rhizobium acidisoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRapFH23b	NZ_CP035000.1	CP035000	701.88	60.8999	599	-	-	-	646	47	2019/01/09	2019/01/26
+Rhizobium acidisoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRapFH23c	NZ_CP035001.1	CP035001	709.381	61.089	630	-	-	-	714	84	2019/01/09	2019/01/26
+Rhizobium acidisoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRapFH23d	NZ_CP035002.1	CP035002	845.857	60.7476	743	-	-	-	823	80	2019/01/09	2019/01/26

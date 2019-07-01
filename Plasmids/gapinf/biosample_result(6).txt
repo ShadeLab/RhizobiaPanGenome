@@ -1,0 +1,29 @@
+1: MIGS Cultured Bacterial/Archaeal sample from Rhizobium leguminosarum bv. viciae
+Identifiers: BioSample: SAMN07965043; Sample name: UPM791
+Organism: Rhizobium leguminosarum bv. viciae
+Attributes:
+    /strain="UPM791"
+    /collection date="missing"
+    /broad-scale environmental context="plant-associated habitat"
+    /local-scale environmental context="plant-associated habitat"
+    /environmental medium="soil"
+    /geographic location="USA"
+    /host="Pisum sativum"
+    /isolation and growth condition="YMB or TY media"
+    /latitude and longitude="not applicable"
+    /number of replicons="6"
+    /reference for biomaterial="not applicable"
+    /observed biotic relationship="symbiont"
+    /encoded traits="streptomycin resistant"
+    /extrachromosomal elements="5"
+    /isolation source="pea nodule"
+    /pathogenicity="not pathogen"
+    /relationship to oxygen="obligate aerobe"
+    /trophic level="heterotroph"
+    /biovar="viciae"
+Description:
+This endosymbiotic bacteria belongs to the biovar viciae, able to nodulate legumes in the Tribe Viciae (Pisum, Lens, Vicia, Lathyrus, ). This strain is streptomycin-resistant. The host-specificity and nitrogen fixation genes are carried on large plasmids (of which it has 5).
+Keywords: GSC:MIxS;MIGS:5.0
+Accession: SAMN07965043	ID: 7965043
+
+

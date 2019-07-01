@@ -1,0 +1,16 @@
+1: Complete Genome of Rhizobium etli sv phaseoli Tal182
+Identifiers: BioSample: SAMN05928285; Sample name: Tal182
+Organism: Rhizobium etli
+Attributes:
+    /strain="TAL 182"
+    /biomaterial provider="Esperanza Martinez collection"
+    /collection date="1988"
+    /geographic location="USA:Hawaii"
+    /sample type="cell culture"
+    /host="Phaseolus vulgaris"
+    /temperature="16-28"
+Description:
+Rhizobium etli sv phaseoli Tal182
+Accession: SAMN05928285	ID: 5928285
+
+

@@ -1,0 +1,12 @@
+1: Rhizobium leguminosarum Norway
+Identifiers: BioSample: SAMN07985393; Sample name: Rhizobium leguminosarum Norway genome
+Organism: Rhizobium leguminosarum
+Attributes:
+    /strain="Norway"
+    /host="Lotus corniculatus"
+    /collection date="17-Aug-2006"
+    /geographic location="Norway: Skammestein at route 51 northwest of Fagernes, intersection to E16"
+    /sample type="Bacteria culture"
+Accession: SAMN07985393	ID: 7985393
+
+

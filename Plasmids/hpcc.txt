@@ -1,0 +1,92 @@
+
+
+cd ~
+  /bin/bash
+  perl -MNet::FTP -e \
+    '$ftp = new Net::FTP("ftp.ncbi.nlm.nih.gov", Passive => 1);
+     $ftp->login; $ftp->binary;
+     $ftp->get("/entrez/entrezdirect/edirect.tar.gz");'
+  gunzip -c edirect.tar.gz | tar xf -
+  rm edirect.tar.gz
+  builtin exit
+  export PATH=${PATH}:$HOME/edirect >& /dev/null || setenv PATH "${PATH}:$HOME/edirect"
+  ./edirect/setup.sh
+
+I don't know what this above is
+
+
+
+--general access--
+	hpcc
+ssh bezemekb@hpcc.msu.edu
+   password is F~9
+cd Documents - workspace 1 - different from scratch how? - one of them has unlimited space but untouched documents will get deleted 
+ssh dev-intel14
+cd /mnt/ls15/scratch/users/bezemekb/ 
+cd /mnt/research/ShadeLab/Bezemek
+exit - exit dev-intel14 or hpcc
+
+
+--general commands-- 
+nano (text document) - allows for editing of txt within window - control key plus letters at bottom for commands or exiting or saving
+qstat (q number) - status of job
+squeue -u $USER - shows all statuses in a different format
+qsub spades1.sb - submit job
+qdel (q number) - delete job in q
+module load (name of module) - load module in current working directory
+module spider (name of module) - check if module is available
+touch (text file .txt or .sb) - create file
+module purge - remove all loaded modules
+scp bezemekb@dev-intel14:/mnt/ls15/scratch/users/bezemekb/Documents/sra/SRR4139940.fastq bezemekb@dev-intel14:/mnt/research/ShadeLab/Bezemek/sra - secure copy with full directory locations
+sudo apt install (name of software) - should only be done in before ssh dev-intel14 space(?)
+
+
+--sb formatting-- 
+#!/bin/bash --login
+########## Define Resources Needed with SBATCH Lines ##########
+
+#SBATCH --time=1:00:00             # limit of wall clock time - how long the jo$
+#SBATCH --ntasks=1                  # number of tasks - how many tasks (nodes) $
+#SBATCH --cpus-per-task=4           # number of CPUs (or cores) per task (same $
+#SBATCH --mem=200G                    # memory required per node - amount of me$
+#SBATCH --job-name spades_test1      # you can give your job a name for easier $
+
+########## Command Lines to Run ##########
+
+cd /mnt/research/ShadeLab/Bezemek/sra/              ### change to the directory$
+
+module load GCC/5.4.0-2.26  OpenMPI/1.10.3
+module load SPAdes/3.13.0
+spades.py --plasmid --merged merged.fastq -o spadesout2
+
+scontrol show job $SLURM_JOB_ID     ### write job information to output file
+
+
+---dependables/run formatting--- 
+
+--bbmerge-- 
+module load GCC/6.4.0-2.28  OpenMPI/2.1.2
+module load BBMap/37.93
+bbmerge.sh in=SRR4139940.fastq out=merged.fastq outu=unmerged.fastq 
+
+
+--sra toolkit--
+module load SRA-Toolkit/2.9.0-centos_linux64
+fastq-dump -O . SRR4139940 - from our data set
+fastq-dump -X 5 -O . SRR390728 - test example (-X 5 only gives first 5 lines)
+
+
+--recycler--
+ml Anaconda2/4.2.0
+git clone https://github.com/rozovr/Recycler.git
+python setup.py install --bezemekb@dev-intel14
+
+
+--plasmid spades--
+module load GCC/5.4.0-2.26  OpenMPI/1.10.3
+module load SPAdes/3.13.0
+spades.py --plasmid --merged merged.fastq -o spadesout2
+
+
+
+

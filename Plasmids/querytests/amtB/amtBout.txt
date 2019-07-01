@@ -1,0 +1,5308 @@
+BLASTN 2.6.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: amtBref.fna
+           14 sequences; 19,809 total letters
+
+
+
+Query= NZ_CP006987.1 Rhizobium sp. IE4771 plasmid pRetIE4771a, complete
+sequence
+
+Length=244771
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4769404276
+
+
+Query= NZ_CP006989.1 Rhizobium sp. IE4771 plasmid pRetIE4771c, complete
+sequence
+
+Length=470125
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9160877674
+
+
+Query= NZ_CP020911.1 Rhizobium etli strain NXC12 plasmid pRetNXC12e,
+complete sequence
+
+Length=978479
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 19053454215
+
+
+Query= NZ_CP013591.1 Rhizobium sp. N871 plasmid pRspN871a, complete
+sequence
+
+Length=315154
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6140957797
+
+
+Query= NZ_CP022565.1 Rhizobium leguminosarum bv. viciae strain BIHB 1148
+plasmid pSK01, complete sequence
+
+Length=976232
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 19009698384
+
+
+Query= NZ_CP013525.1 Rhizobium phaseoli strain R744 plasmid pRphaR744c,
+complete sequence
+
+Length=407814
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7946623217
+
+
+Query= NZ_CP024314.1 Rhizobium sp. NXC24 plasmid pRspNXC24c, complete
+sequence
+
+Length=2379650
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 46305122875
+
+
+Query= NZ_CP013554.1 Rhizobium phaseoli strain N931 plasmid pRphaN931b,
+complete sequence
+
+Length=431484
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8407880507
+
+
+Query= NZ_CP013526.1 Rhizobium phaseoli strain R744 plasmid pRphaR744d,
+complete sequence
+
+Length=1195489
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 23262533976
+
+
+Query= NZ_CP035000.1 Rhizobium acidisoli strain FH23 plasmid pRapFH23b,
+complete sequence
+
+Length=701880
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13667241888
+
+
+Query= NC_007766.1 Rhizobium etli CFN 42 plasmid p42f, complete sequence
+
+Length=642517
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12511266189
+
+
+Query= NZ_CP032693.1 Rhizobium sp. CCGE532 plasmid pRCCGE532a, complete
+sequence
+
+Length=300963
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5864417780
+
+
+Query= NZ_CP013550.1 Rhizobium phaseoli strain R611 plasmid pRetR611c,
+complete sequence
+
+Length=414080
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8068728759
+
+
+Query= NZ_CP013583.1 Rhizobium phaseoli strain N261 plasmid pRphaN261c,
+complete sequence
+
+Length=429574
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8370660337
+
+
+Query= NZ_CP013515.1 Rhizobium sp. N1314 plasmid pRspN1314d, complete
+sequence
+
+Length=488795
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9517837683
+
+
+Query= NZ_CP022669.1 Rhizobium leguminosarum bv. viciae strain BIHB 1217
+plasmid pPR4, complete sequence
+
+Length=327451
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6380589436
+
+
+Query= NZ_CP020899.1 Rhizobium phaseoli Brasil 5 plasmid pRphaBra5c,
+complete sequence
+
+Length=439779
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8569525172
+
+
+Query= NZ_CP020952.1 Rhizobium sp. CIAT894 plasmid pRheCIAT894e, complete
+sequence
+
+Length=718394
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13988819010
+
+
+Query= NZ_CP030764.1 Rhizobium leguminosarum strain ATCC 14479 plasmid
+unnamed4, complete sequence
+
+Length=630306
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12273481386
+
+
+Query= NZ_CP022570.1 Rhizobium leguminosarum bv. viciae strain BIHB 1148
+plasmid pSK06, complete sequence
+
+Length=12967
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 253042764
+
+
+Query= NZ_CP032692.1 Rhizobium sp. CCGE532 plasmid pRCCGE532b, complete
+sequence
+
+Length=506160
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9855986328
+
+
+Query= NZ_CP013556.1 Rhizobium phaseoli strain N931 plasmid pRphaN931d,
+complete sequence
+
+Length=1165895
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 22686664330
+
+
+Query= NZ_CP013588.1 Rhizobium phaseoli strain N161 plasmid pRphaN161c,
+complete sequence
+
+Length=407297
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7936548438
+
+
+Query= NZ_CP021027.1 Rhizobium sp. TAL182 plasmid pRetTAL182c, complete
+sequence
+
+Length=442228
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8617248835
+
+
+Query= NZ_HG916854.1 Rhizobium sp. LPU83 plasmid pLPU83c, complete sequence
+
+Length=759787
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14794864899
+
+
+Query= NZ_CP013540.1 Rhizobium phaseoli strain R630 plasmid pRphaR630c,
+complete sequence
+
+Length=442592
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8624342103
+
+
+Query= NZ_CP025015.1 Rhizobium leguminosarum strain Norway plasmid pRLN3,
+complete sequence
+
+Length=557386
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10853510226
+
+
+Query= NZ_CP013599.1 Rhizobium sp. N741 plasmid pRspN741d, complete
+sequence
+
+Length=501077
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9757005069
+
+
+Query= NZ_CP022671.1 Rhizobium leguminosarum bv. viciae strain BIHB 1217
+plasmid pPR6, complete sequence
+
+Length=18458
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 360075702
+
+
+Query= NZ_CP018232.1 Rhizobium leguminosarum strain Vaf-108 plasmid
+unnamed4, complete sequence
+
+Length=278328
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5423329535
+
+
+Query= NZ_CP022668.1 Rhizobium leguminosarum bv. viciae strain BIHB 1217
+plasmid pPR3, complete sequence
+
+Length=576090
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11217733218
+
+
+Query= NC_011368.1 Rhizobium leguminosarum bv. trifolii WSM2304 plasmid
+pRLG201, complete sequence
+
+Length=1266105
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 24636650720
+
+
+Query= NZ_CP013549.1 Rhizobium phaseoli strain R611 plasmid pRetR611b,
+complete sequence
+
+Length=413457
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8056588358
+
+
+Query= NZ_CP013504.1 Rhizobium esperanzae strain N561 plasmid pRspN561d,
+complete sequence
+
+Length=752940
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14661533268
+
+
+Query= NZ_CP018235.1 Rhizobium leguminosarum strain Vaf-108 plasmid
+unnamed7, complete sequence
+
+Length=227762
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4437949893
+
+
+Query= NZ_CP020909.1 Rhizobium etli strain NXC12 plasmid pRetNXC12c,
+complete sequence
+
+Length=505136
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9836045976
+
+
+Query= NZ_CP013492.1 Rhizobium sp. N6212 plasmid pRspN6212b, complete
+sequence
+
+Length=438384
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8542340807
+
+
+Query= NZ_CP013582.1 Rhizobium phaseoli strain N261 plasmid pRphaN261b,
+complete sequence
+
+Length=427855
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8337162184
+
+
+Query= NC_007764.1 Rhizobium etli CFN 42 plasmid p42c, complete sequence
+
+Length=250948
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4889775475
+
+
+Query= NZ_CP013519.1 Rhizobium sp. N113 plasmid pRspN113b, complete
+sequence
+
+Length=435821
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8492395626
+
+
+Query= NC_012848.1 Rhizobium leguminosarum bv. trifolii WSM1325 plasmid
+pR132501, complete sequence
+
+Length=828924
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 16141169700
+
+
+Query= NC_011371.1 Rhizobium leguminosarum bv. trifolii WSM2304 plasmid
+pRLG204, complete sequence
+
+Length=257956
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5026340371
+
+
+Query= NZ_CP007645.1 Rhizobium etli bv. phaseoli str. IE4803 plasmid
+pRetIE4803d, complete sequence
+
+Length=742914
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14466296970
+
+
+Query= NZ_CP030762.1 Rhizobium leguminosarum strain ATCC 14479 plasmid
+unnamed2, complete sequence
+
+Length=415988
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8105909955
+
+
+Query= NZ_CP013516.1 Rhizobium sp. N1314 plasmid pRspN1314e, complete
+sequence
+
+Length=506687
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9866248599
+
+
+Query= NZ_CP017242.1 Rhizobium etli 8C-3 plasmid pRsp8C3a, complete
+sequence
+
+Length=430631
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8391258096
+
+
+Query= NZ_CP018231.1 Rhizobium leguminosarum strain Vaf-108 plasmid
+unnamed3 sequence
+
+Length=339300
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6611490899
+
+
+Query= NZ_CP022670.1 Rhizobium leguminosarum bv. viciae strain BIHB 1217
+plasmid pPR5, complete sequence
+
+Length=179782
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3505499760
+
+
+Query= NC_008383.1 Rhizobium leguminosarum bv. viciae plasmid pRL8 complete
+genome, strain 3841
+
+Length=147463
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2875246941
+
+
+Query= NZ_CP021028.1 Rhizobium sp. TAL182 plasmid pRetTAL182d, complete
+sequence
+
+Length=506213
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9857018397
+
+
+Query= NZ_CP025507.1 Rhizobium leguminosarum bv. viciae strain UPM791
+plasmid pRlvA, complete sequence
+
+Length=1291920
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 25138984805
+
+
+Query= NZ_CP013596.1 Rhizobium sp. N741 plasmid pRspN741a, complete
+sequence
+
+Length=80368
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1567971705
+
+
+Query= NZ_FO082821.1 Rhizobium sp. NT-26 plasmid NT26_p1, complete genome
+
+Length=322264
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6279510367
+
+
+Query= NZ_CP013649.1 Rhizobium sp. N941 plasmid pRspN941e, complete
+sequence
+
+Length=661872
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12888166104
+
+
+Query= NZ_CP006991.1 Rhizobium sp. IE4771 plasmid pRetIE4771e, complete
+sequence
+
+Length=744104
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14489469840
+
+
+Query= NZ_CM008159.1 Rhizobium sp. N4311 plasmid pRspN4311c, whole genome
+shotgun sequence
+
+Length=439280
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8559801159
+
+
+Query= NC_021907.1 Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1b,
+complete sequence
+
+Length=252689
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4923702342
+
+
+Query= NZ_CP013598.1 Rhizobium sp. N741 plasmid pRspN741c, complete
+sequence
+
+Length=433134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8440034057
+
+
+Query= NZ_CP013507.1 Rhizobium sp. N1341 plasmid pRspN1341b, complete
+sequence
+
+Length=314785
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6133767094
+
+
+Query= NZ_HG916853.1 Rhizobium sp. LPU83 plasmid pLPU83a complete sequence
+
+Length=151687
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2957619165
+
+
+Query= NZ_CP021126.1 Rhizobium sp. Kim5 plasmid pRetKim5b, complete
+sequence
+
+Length=482471
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9394690431
+
+
+Query= NZ_CP020948.1 Rhizobium sp. CIAT894 plasmid pRheCIAT894a, complete
+sequence
+
+Length=215247
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4194070088
+
+
+Query= NZ_CP007050.1 Rhizobium leguminosarum bv. trifolii WSM1689 plasmid,
+complete sequence
+
+Length=259408
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5054635495
+
+
+Query= NZ_CP013570.1 Rhizobium phaseoli strain N771 plasmid pRphaN771b,
+complete sequence
+
+Length=352133
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6861567570
+
+
+Query= NZ_CP022569.1 Rhizobium leguminosarum bv. viciae strain BIHB 1148
+plasmid pSK05, complete sequence
+
+Length=264815
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5160001704
+
+
+Query= NZ_CP013503.1 Rhizobium esperanzae strain N561 plasmid pRspN561c,
+complete sequence
+
+Length=501077
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9757005069
+
+
+Query= NC_021909.1 Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1e,
+complete sequence
+
+Length=615363
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11982496347
+
+
+Query= NZ_CP013567.1 Rhizobium phaseoli strain N831 plasmid pRphaN831d,
+complete sequence
+
+Length=1165895
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 22686664330
+
+
+Query= NZ_CP021125.1 Rhizobium sp. Kim5 plasmid pRetKim5a, complete
+sequence
+
+Length=431886
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8415714281
+
+
+Query= NZ_CP013543.1 Rhizobium phaseoli strain R620 plasmid pRphaR620a,
+complete sequence
+
+Length=356390
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6944523729
+
+
+Query= NZ_HG916855.1 Rhizobium sp. LPU83 plasmid pLPU83d complete sequence
+
+Length=1932030
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 37594885295
+
+
+Query= NZ_CP022666.1 Rhizobium leguminosarum bv. viciae strain BIHB 1217
+plasmid pPR1, complete sequence
+
+Length=1169137
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 22749750408
+
+
+Query= NZ_CP017243.1 Rhizobium etli 8C-3 plasmid pRsp8C3b, complete
+sequence
+
+Length=438379
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8542243372
+
+
+Query= NZ_CP022999.1 Rhizobium sp. 11515TR plasmid p10195A, complete
+sequence
+
+Length=1569179
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 30534167686
+
+
+Query= NZ_CP006988.1 Rhizobium sp. IE4771 plasmid pRetIE4771b, complete
+sequence
+
+Length=393846
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7674428801
+
+
+Query= NZ_CP013648.1 Rhizobium sp. N941 plasmid pRspN941d, complete
+sequence
+
+Length=505351
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9840232671
+
+
+Query= NZ_CP013631.1 Rhizobium sp. N324 plasmid pRspN324a, complete
+sequence
+
+Length=305839
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5959436392
+
+
+Query= NC_012853.1 Rhizobium leguminosarum bv. trifolii WSM1325 plasmid
+pR132503, complete sequence
+
+Length=516088
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10049314272
+
+
+Query= NZ_CP013635.1 Rhizobium sp. N324 plasmid pRspN324e, complete
+sequence
+
+Length=667630
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13000291638
+
+
+Query= NZ_CP024313.1 Rhizobium sp. NXC24 plasmid pRspNXC24b, complete
+sequence
+
+Length=489086
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9523504326
+
+
+Query= NZ_CP013575.1 Rhizobium phaseoli strain N671 plasmid pRphaN671a,
+complete sequence
+
+Length=96338
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1878258316
+
+
+Query= NZ_CP013600.1 Rhizobium sp. N741 plasmid pRspN741e, complete
+sequence
+
+Length=752910
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14660949078
+
+
+Query= NZ_CP020951.1 Rhizobium sp. CIAT894 plasmid pRheCIAT894d, complete
+sequence
+
+Length=560456
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10913292336
+
+
+Query= NZ_CP013565.1 Rhizobium phaseoli strain N831 plasmid pRphaN831b,
+complete sequence
+
+Length=431484
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8407880507
+
+
+Query= NZ_CP017104.1 Rhizobium gallicum strain IE4872 plasmid pRgalIE4872c,
+complete sequence
+
+Length=506339
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9859471995
+
+
+Query= NZ_CP020907.1 Rhizobium etli strain NXC12 plasmid pRetNXC12a,
+complete sequence
+
+Length=182413
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3556806891
+
+
+Query= NZ_CP007070.1 Rhizobium leguminosarum bv. trifolii CB782 plasmid,
+complete sequence
+
+Length=251612
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4902714843
+
+
+Query= NZ_CP025017.1 Rhizobium leguminosarum strain Norway plasmid pRLN5,
+complete sequence
+
+Length=279539
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5446928292
+
+
+Query= NZ_CP013589.1 Rhizobium phaseoli strain N161 plasmid pRphaN161d,
+complete sequence
+
+Length=1048055
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 20408307663
+
+
+Query= NZ_CP034999.1 Rhizobium acidisoli strain FH23 plasmid pRapFH23a,
+complete sequence
+
+Length=671287
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13071504399
+
+
+Query= NZ_CP013569.1 Rhizobium phaseoli strain N771 plasmid pRphaN771a,
+complete sequence
+
+Length=96338
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1878258316
+
+
+Query= NZ_CP032697.1 Rhizobium jaguaris strain CCGE525 plasmid pRCCGE525a,
+complete sequence
+
+Length=314764
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6133357867
+
+
+Query= NZ_CP013637.1 Rhizobium sp. N541 plasmid pRspN541a, complete
+sequence
+
+Length=300955
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5864261884
+
+
+Query= NZ_CP025016.1 Rhizobium leguminosarum strain Norway plasmid pRLN4,
+complete sequence
+
+Length=354350
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6904770249
+
+
+Query= NC_021910.1 Rhizobium etli bv. mimosae str. Mim1 plasmid pRetNIM1c,
+complete sequence
+
+Length=269426
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5249856261
+
+
+Query= NZ_CP007642.1 Rhizobium etli bv. phaseoli str. IE4803 plasmid
+pRetIE4803a, complete sequence
+
+Length=445194
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8675047277
+
+
+Query= NZ_CP020900.1 Rhizobium phaseoli Brasil 5 plasmid pRphaBra5d,
+complete sequence
+
+Length=1144005
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 22260706820
+
+
+Query= NZ_CP013523.1 Rhizobium phaseoli strain R744 plasmid pRphaR744a,
+complete sequence
+
+Length=256181
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4991750946
+
+
+Query= NZ_CP013494.1 Rhizobium sp. N6212 plasmid pRspN6212d, complete
+sequence
+
+Length=742499
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14458215675
+
+
+Query= NZ_CP022566.1 Rhizobium leguminosarum bv. viciae strain BIHB 1148
+plasmid pSK02, complete sequence
+
+Length=549819
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10706158035
+
+
+Query= NZ_CP025505.1 Rhizobium leguminosarum bv. viciae strain UPM791
+plasmid pRlvC, complete sequence
+
+Length=405209
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7895859582
+
+
+Query= NZ_CP013632.1 Rhizobium sp. N324 plasmid pRspN324b, complete
+sequence
+
+Length=407833
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7946993470
+
+
+Query= NZ_CP007047.1 Rhizobium leguminosarum bv. trifolii WSM1689 plasmid,
+complete sequence
+
+Length=518052
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10087559244
+
+
+Query= NZ_CP007069.1 Rhizobium leguminosarum bv. trifolii CB782 plasmid,
+complete sequence
+
+Length=509829
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9927432765
+
+
+Query= NZ_CP013498.1 Rhizobium sp. N621 plasmid pRspN621c, complete
+sequence
+
+Length=501077
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9757005069
+
+
+Query= NZ_CP013576.1 Rhizobium phaseoli strain N671 plasmid pRphaN671b,
+complete sequence
+
+Length=352133
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6861567570
+
+
+Query= NZ_CP025506.1 Rhizobium leguminosarum bv. viciae strain UPM791
+plasmid pRlvE, complete sequence
+
+Length=564641
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10994786841
+
+
+Query= NZ_CP024312.1 Rhizobium sp. NXC24 plasmid pRspNXC24a, complete
+sequence
+
+Length=271356
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5287466171
+
+
+Query= NZ_CP022567.1 Rhizobium leguminosarum bv. viciae strain BIHB 1148
+plasmid pSK03, complete sequence
+
+Length=407945
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7949176014
+
+
+Query= NZ_CP035002.1 Rhizobium acidisoli strain FH23 plasmid pRapFH23d,
+complete sequence
+
+Length=845857
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 16470906009
+
+
+Query= NC_021906.1 Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1a,
+complete sequence
+
+Length=181313
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3535355791
+
+
+Query= NC_008384.1 Rhizobium leguminosarum bv. viciae plasmid pRL11
+complete genome, strain 3841
+
+Length=684202
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13322998194
+
+
+Query= NZ_CP021373.1 Rhizobium sp. ACO-34A plasmid pRACO34Ac, complete
+sequence
+
+Length=494144
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9621998760
+
+
+Query= NZ_CP013491.1 Rhizobium sp. N6212 plasmid pRspN6212a, complete
+sequence
+
+Length=315154
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6140957797
+
+
+Query= NZ_CP007048.1 Rhizobium leguminosarum bv. trifolii WSM1689 plasmid,
+complete sequence
+
+Length=341391
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6652238216
+
+
+Query= NZ_CP013544.1 Rhizobium phaseoli strain R620 plasmid pRphaR620b,
+complete sequence
+
+Length=355825
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6933513574
+
+
+Query= NZ_CP032690.1 Rhizobium sp. CCGE532 plasmid pRCCGE532d, complete
+sequence
+
+Length=1460443
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 28418273862
+
+
+Query= NZ_CP013597.1 Rhizobium sp. N741 plasmid pRspN741b, complete
+sequence
+
+Length=314785
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6133767094
+
+
+Query= NZ_CP013566.1 Rhizobium phaseoli strain N831 plasmid pRphaN831c,
+complete sequence
+
+Length=453258
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8832190445
+
+
+Query= NZ_CP013553.1 Rhizobium phaseoli strain N931 plasmid pRphaN931a,
+complete sequence
+
+Length=340631
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6637428096
+
+
+Query= NZ_CP021032.1 Rhizobium sp. NXC14 plasmid pRspNXC14b, complete
+sequence
+
+Length=773015
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 15052453743
+
+
+Query= NZ_CP013541.1 Rhizobium phaseoli strain R630 plasmid pRphaR630d,
+complete sequence
+
+Length=1144409
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 22268568256
+
+
+Query= NZ_CP013605.1 Rhizobium sp. N731 plasmid pRspN731d, complete
+sequence
+
+Length=488789
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9517720845
+
+
+Query= NZ_CP013551.1 Rhizobium phaseoli strain R611 plasmid pRetR611d,
+complete sequence
+
+Length=990934
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 19295990430
+
+
+Query= NZ_CP013559.1 Rhizobium phaseoli strain N841 plasmid pRphaN841b,
+complete sequence
+
+Length=351351
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6846328736
+
+
+Query= NC_020060.1 Rhizobium tropici CIAT 899 plasmid pRtrCIAT899a,
+complete sequence
+
+Length=216610
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4220630869
+
+
+Query= NZ_CP021375.1 Rhizobium sp. ACO-34A plasmid pRACO34Aa, complete
+sequence
+
+Length=213273
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4155602750
+
+
+Query= NZ_CP025510.1 Rhizobium leguminosarum bv. viciae strain UPM791
+plasmid pRlvD, complete sequence
+
+Length=217776
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4243352711
+
+
+Query= NZ_CP032686.1 Rhizobium sp. CCGE531 plasmid pRCCGE531c, complete
+sequence
+
+Length=756635
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14733486003
+
+
+Query= NZ_CP013638.1 Rhizobium sp. N541 plasmid pRspN541b, complete
+sequence
+
+Length=408857
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7966948158
+
+
+Query= NZ_CP013512.1 Rhizobium sp. N1314 plasmid pRspN1314a, complete
+sequence
+
+Length=162302
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3164622280
+
+
+Query= NZ_CP013546.1 Rhizobium phaseoli strain R620 plasmid pRphaR620d,
+complete sequence
+
+Length=1080727
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 21044529519
+
+
+Query= NC_020061.1 Rhizobium tropici CIAT 899 plasmid pRtrCIAT899b,
+complete sequence
+
+Length=549467
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10699303539
+
+
+Query= NZ_CP020898.1 Rhizobium phaseoli Brasil 5 plasmid pRetBra5b,
+complete sequence
+
+Length=392817
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7654376678
+
+
+Query= NZ_CP013602.1 Rhizobium sp. N731 plasmid pRspN731a, complete
+sequence
+
+Length=162302
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3164622280
+
+
+Query= NC_008382.1 Rhizobium leguminosarum bv. viciae plasmid pRL7 complete
+genome, strain 3841
+
+Length=151564
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2955220542
+
+
+Query= NZ_CP032695.1 Rhizobium jaguaris strain CCGE525 plasmid pRCCGE525c,
+complete sequence
+
+Length=2584926
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 50299588559
+
+
+Query= NZ_CP013535.1 Rhizobium phaseoli strain R650 plasmid pRphaR650c,
+complete sequence
+
+Length=435286
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8481970081
+
+
+Query= NZ_CP023000.1 Rhizobium sp. 11515TR plasmid p10195B, complete
+sequence
+
+Length=1497349
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 29136427716
+
+
+Query= NZ_CP013642.1 Rhizobium sp. N541 plasmid pRspN541e, complete
+sequence
+
+Length=661871
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12888146631
+
+
+Query= NZ_CP021372.1 Rhizobium sp. ACO-34A plasmid pRACO34Ad, complete
+sequence
+
+Length=516813
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10063432197
+
+
+Query= NZ_CP013513.1 Rhizobium sp. N1314 plasmid pRspN1314b, complete
+sequence
+
+Length=336117
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6549463778
+
+
+Query= NZ_CP013579.1 Rhizobium phaseoli strain N671 plasmid pRphaN671e,
+complete sequence
+
+Length=1189373
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 23143522732
+
+
+Query= NZ_CP013586.1 Rhizobium phaseoli strain N161 plasmid pRphaN161a,
+complete sequence
+
+Length=354689
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6911376342
+
+
+Query= NZ_CP013641.1 Rhizobium sp. N541 plasmid pRspN541d, complete
+sequence
+
+Length=504214
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9818091870
+
+
+Query= NZ_CP013529.1 Rhizobium phaseoli strain R723 plasmid pRphaR723b,
+complete sequence
+
+Length=427855
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8337162184
+
+
+Query= NZ_CP039896.1 Rhizobium pusense strain CFBP5875 plasmid pAtCFBP5875,
+complete sequence
+
+Length=129573
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526374051
+
+
+Query= NC_007763.1 Rhizobium etli CFN 42 plasmid p42b, complete sequence
+
+Length=184338
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3594346316
+
+
+Query= NC_021908.1 Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1d,
+complete sequence
+
+Length=512054
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9970760190
+
+
+Query= NZ_CP020910.1 Rhizobium etli strain NXC12 plasmid pRetNXC12d,
+complete sequence
+
+Length=543095
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10575221583
+
+
+Query= NZ_CP013604.1 Rhizobium sp. N731 plasmid pRspN731c, complete
+sequence
+
+Length=433219
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8441690452
+
+
+Query= NZ_CP013578.1 Rhizobium phaseoli strain N671 plasmid pRphaN671d,
+complete sequence
+
+Length=459642
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8956595453
+
+
+Query= NC_011366.1 Rhizobium leguminosarum bv. trifolii WSM2304 plasmid
+pRLG202, complete sequence
+
+Length=501946
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9773927106
+
+
+Query= NZ_CP013531.1 Rhizobium phaseoli strain R723 plasmid pRphaR723d,
+complete sequence
+
+Length=1074795
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 20929015683
+
+
+Query= NZ_CP017105.1 Rhizobium gallicum strain IE4872 plasmid pRgalIE4872d,
+complete sequence
+
+Length=2388366
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 46474727519
+
+
+Query= NZ_FO082822.1 Rhizobium sp. NT-26 plasmid NT26_p2, complete genome
+
+Length=15430
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 301177173
+
+
+Query= NZ_CP013496.1 Rhizobium sp. N621 plasmid pRspN621a, complete
+sequence
+
+Length=315154
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6140957797
+
+
+Query= NZ_CP021374.1 Rhizobium sp. ACO-34A plasmid pRACO34Ab, complete
+sequence
+
+Length=305590
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5954584129
+
+
+Query= NC_008381.1 Rhizobium leguminosarum bv. viciae plasmid pRL10
+complete genome, strain 3841
+
+Length=488135
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9504985503
+
+
+Query= NZ_CP020897.1 Rhizobium phaseoli Brasil 5 plasmid pRphaBra5a,
+complete sequence
+
+Length=262160
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5108263719
+
+
+Query= NZ_CP013539.1 Rhizobium phaseoli strain R630 plasmid pRphaR630b,
+complete sequence
+
+Length=421824
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8219636087
+
+
+Query= NZ_CP013533.1 Rhizobium phaseoli strain R650 plasmid pRphaR650a,
+complete sequence
+
+Length=352129
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6861489622
+
+
+Query= NZ_CP013509.1 Rhizobium sp. N1341 plasmid pRspN1341d, complete
+sequence
+
+Length=501077
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9757005069
+
+
+Query= NZ_CP017103.1 Rhizobium gallicum strain IE4872 plasmid pRgalIE4872a,
+complete sequence
+
+Length=176006
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3431863984
+
+
+Query= NC_010996.1 Rhizobium etli CIAT 652 plasmid pB, complete sequence
+
+Length=429111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8361637856
+
+
+Query= NC_022536.1 Rhizobium sp. IRBG74 plasmid IRBL74_p, complete sequence
+
+Length=584965
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11390556093
+
+
+Query= NZ_CP013530.1 Rhizobium phaseoli strain R723 plasmid pRphaR723c,
+complete sequence
+
+Length=429574
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8370660337
+
+
+Query= NZ_CM008160.1 Rhizobium sp. N4311 plasmid pRspN4311d, whole genome
+shotgun sequence
+
+Length=503294
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9800176710
+
+
+Query= NC_004041.2 Rhizobium etli CFN 42 plasmid symbiotic plasmid p42d,
+complete sequence
+
+Length=371254
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7234178497
+
+
+Query= NC_010998.1 Rhizobium etli CIAT 652 plasmid pA, complete sequence
+
+Length=414090
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8068923629
+
+
+Query= NZ_CP032691.1 Rhizobium sp. CCGE532 plasmid pRCCGE532c, complete
+sequence
+
+Length=747941
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14564187741
+
+
+Query= NZ_CP007068.1 Rhizobium leguminosarum bv. trifolii CB782 plasmid,
+complete sequence
+
+Length=1563772
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 30428952873
+
+
+Query= NC_012854.1 Rhizobium leguminosarum bv. trifolii WSM1325 plasmid
+pR132505, complete sequence
+
+Length=294782
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5743968633
+
+
+Query= NZ_CP021029.1 Rhizobium sp. TAL182 plasmid pRetTAL182e, complete
+sequence
+
+Length=515326
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10034475846
+
+
+Query= NZ_CM008158.1 Rhizobium sp. N4311 plasmid pRspN4311b, whole genome
+shotgun sequence
+
+Length=407789
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7946136042
+
+
+Query= NZ_CP013587.1 Rhizobium phaseoli strain N161 plasmid pRphaN161b,
+complete sequence
+
+Length=395855
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7713578184
+
+
+Query= NZ_CP020949.1 Rhizobium sp. CIAT894 plasmid pRheCIAT894b, complete
+sequence
+
+Length=273667
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5332500628
+
+
+Query= NZ_CP013499.1 Rhizobium sp. N621 plasmid pRspN621d, complete
+sequence
+
+Length=742499
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14458215675
+
+
+Query= NC_007765.1 Rhizobium etli CFN 42 plasmid p42e, complete sequence
+
+Length=505334
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9839901630
+
+
+Query= NZ_CP007046.1 Rhizobium leguminosarum bv. trifolii WSM1689 plasmid,
+complete sequence
+
+Length=667306
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12993982386
+
+
+Query= NZ_CP013502.1 Rhizobium esperanzae strain N561 plasmid pRspN561b,
+complete sequence
+
+Length=433056
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8438514071
+
+
+Query= NZ_CP013548.1 Rhizobium phaseoli strain R611 plasmid pRetR611a,
+complete sequence
+
+Length=352129
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6861489622
+
+
+Query= NZ_CP013514.1 Rhizobium sp. N1314 plasmid pRspN1314c, complete
+sequence
+
+Length=433217
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8441651478
+
+
+Query= NC_010997.1 Rhizobium etli CIAT 652 plasmid pC, complete sequence
+
+Length=1091523
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 21254760027
+
+
+Query= NZ_CP007644.1 Rhizobium etli bv. phaseoli str. IE4803 plasmid
+pRetIE4803c, complete sequence
+
+Length=711724
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13858934100
+
+
+Query= NZ_CP013571.1 Rhizobium phaseoli strain N771 plasmid pRphaN771c,
+complete sequence
+
+Length=414617
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8079193278
+
+
+Query= NZ_CP013593.1 Rhizobium sp. N871 plasmid pRspN871c, complete
+sequence
+
+Length=501077
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9757005069
+
+
+Query= NZ_CP013508.1 Rhizobium sp. N1341 plasmid pRspN1341c, complete
+sequence
+
+Length=434334
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8463418457
+
+
+Query= NZ_CP022667.1 Rhizobium leguminosarum bv. viciae strain BIHB 1217
+plasmid pPR2, complete sequence
+
+Length=605219
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11784962235
+
+
+Query= NZ_CP032687.1 Rhizobium sp. CCGE531 plasmid pRCCGE531b, complete
+sequence
+
+Length=577596
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11247059556
+
+
+Query= NZ_CP013594.1 Rhizobium sp. N871 plasmid pRspN871d, complete
+sequence
+
+Length=752940
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14661533268
+
+
+Query= NZ_CP018230.1 Rhizobium leguminosarum strain Vaf-108 plasmid
+unnamed2, complete sequence
+
+Length=517692
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10080548964
+
+
+Query= NZ_CP013560.1 Rhizobium phaseoli strain N841 plasmid pRphaN841c,
+complete sequence
+
+Length=407882
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7947948333
+
+
+Query= NZ_CP021127.1 Rhizobium sp. Kim5 plasmid pRetKim5c, complete
+sequence
+
+Length=655866
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12771211266
+
+
+Query= NZ_CP013528.1 Rhizobium phaseoli strain R723 plasmid pRphaR723a,
+complete sequence
+
+Length=349793
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6815967990
+
+
+Query= NC_021911.1 Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1f,
+complete sequence
+
+Length=1082659
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 21082151355
+
+
+Query= NZ_CP020908.1 Rhizobium etli strain NXC12 plasmid pRetNXC12b,
+complete sequence
+
+Length=250162
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4874458693
+
+
+Query= NZ_CP030761.1 Rhizobium leguminosarum strain ATCC 14479 plasmid
+unnamed1, complete sequence
+
+Length=1234209
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 24015986456
+
+
+Query= NZ_CP013577.1 Rhizobium phaseoli strain N671 plasmid pRphaN671c,
+complete sequence
+
+Length=414617
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8079193278
+
+
+Query= NZ_CP025013.1 Rhizobium leguminosarum strain Norway plasmid pRLN1,
+complete sequence
+
+Length=1098158
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 21383963382
+
+
+Query= NC_008379.1 Rhizobium leguminosarum bv. viciae plasmid pRL9 complete
+genome, strain 3841
+
+Length=352782
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6874214633
+
+
+Query= NZ_CP021128.1 Rhizobium sp. Kim5 plasmid pRetKim5d, complete
+sequence
+
+Length=684601
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13330767921
+
+
+Query= NZ_CP021033.1 Rhizobium sp. NXC14 plasmid pRspNXC14c, complete
+sequence
+
+Length=889015
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 17311321743
+
+
+Query= NZ_CP025014.1 Rhizobium leguminosarum strain Norway plasmid pRLN2,
+complete sequence
+
+Length=592529
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11537849865
+
+
+Query= NC_012852.1 Rhizobium leguminosarum bv. trifolii WSM1325 plasmid
+pR132504, complete sequence
+
+Length=350312
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6826081743
+
+
+Query= NC_011370.1 Rhizobium leguminosarum bv. trifolii WSM2304 plasmid
+pRLG203, complete sequence
+
+Length=308747
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6016104588
+
+
+Query= NZ_CP013558.1 Rhizobium phaseoli strain N841 plasmid pRphaN841a,
+complete sequence
+
+Length=81923
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1598317530
+
+
+Query= NZ_CP018234.1 Rhizobium leguminosarum strain Vaf-108 plasmid
+unnamed6, complete sequence
+
+Length=236058
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4599614045
+
+
+Query= NZ_CP032696.1 Rhizobium jaguaris strain CCGE525 plasmid pRCCGE525b,
+complete sequence
+
+Length=550563
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10720645947
+
+
+Query= NZ_CM008157.1 Rhizobium sp. N4311 plasmid pRspN4311a, whole genome
+shotgun sequence
+
+Length=305838
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5959416905
+
+
+Query= NC_020062.1 Rhizobium tropici CIAT 899 plasmid pRtrCIAT899c,
+complete sequence
+
+Length=2083197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 40536443948
+
+
+Query= NZ_CP032688.1 Rhizobium sp. CCGE531 plasmid pRCCGE531a, complete
+sequence
+
+Length=304634
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5935954557
+
+
+Query= NZ_CP013497.1 Rhizobium sp. N621 plasmid pRspN621b, complete
+sequence
+
+Length=439584
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8565725207
+
+
+Query= NZ_CP030763.1 Rhizobium leguminosarum strain ATCC 14479 plasmid
+unnamed3, complete sequence
+
+Length=771583
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 15024568407
+
+
+Query= NZ_CP013534.1 Rhizobium phaseoli strain R650 plasmid pRphaR650b,
+complete sequence
+
+Length=413457
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8056588358
+
+
+Query= NZ_CP018236.1 Rhizobium leguminosarum strain Vaf-108 plasmid
+unnamed8 sequence
+
+Length=142112
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2770897090
+
+
+Query= NZ_CP017102.1 Rhizobium gallicum strain IE4872 plasmid pRgalIE4872a,
+complete sequence
+
+Length=125266
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2442383244
+
+
+Query= NZ_CP013562.1 Rhizobium phaseoli strain N841 plasmid pRphaN841e,
+complete sequence
+
+Length=1201422
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 23377984223
+
+
+Query= NZ_CP018233.1 Rhizobium leguminosarum strain Vaf-108 plasmid
+unnamed5, complete sequence
+
+Length=255060
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4969906019
+
+
+Query= NZ_CP017244.1 Rhizobium etli 8C-3 plasmid pRsp8C3c, complete
+sequence
+
+Length=2253963
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 43859379542
+
+
+Query= NZ_CM008161.1 Rhizobium sp. N4311 plasmid pRspN4311e, whole genome
+shotgun sequence
+
+Length=666589
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12980020245
+
+
+Query= NZ_CP013501.1 Rhizobium esperanzae strain N561 plasmid pRspN561a,
+complete sequence
+
+Length=315151
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6140899336
+
+
+Query= NZ_CP013592.1 Rhizobium sp. N871 plasmid pRspN871b, complete
+sequence
+
+Length=433056
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8438514071
+
+
+Query= NZ_CP013520.1 Rhizobium sp. N113 plasmid pRspN113c, complete
+sequence
+
+Length=501077
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9757005069
+
+
+Query= NC_008378.1 Rhizobium leguminosarum bv. viciae plasmid pRL12
+complete genome, strain 3841
+
+Length=870021
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 16941451581
+
+
+Query= NZ_CP013510.1 Rhizobium sp. N1341 plasmid pRspN1341e, complete
+sequence
+
+Length=751351
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14630590671
+
+
+Query= NZ_CP013524.1 Rhizobium phaseoli strain R744 plasmid pRphaR744b,
+complete sequence
+
+Length=343400
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6691387599
+
+
+Query= NZ_CP018001.1 Rhizobium sp. Y9 plasmid pY9, complete sequence
+
+Length=481964
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9391584267
+
+
+Query= NZ_CP022568.1 Rhizobium leguminosarum bv. viciae strain BIHB 1148
+plasmid pSK04, complete sequence
+
+Length=326874
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6369345437
+
+
+Query= NZ_AQHN01000096.1 Rhizobium freirei PRF 81 plasmid pPRF81b, whole
+genome shotgun sequence
+
+Length=176070
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3433112048
+
+
+Query= NZ_CP013573.1 Rhizobium phaseoli strain N771 plasmid pRphaN771e,
+complete sequence
+
+Length=1189373
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 23143522732
+
+
+Query= NZ_CP013633.1 Rhizobium sp. N324 plasmid pRspN324c, complete
+sequence
+
+Length=447145
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8713066414
+
+
+Query= NZ_CP013521.1 Rhizobium sp. N113 plasmid pRspN113d, complete
+sequence
+
+Length=755598
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14713292502
+
+
+Query= NC_007762.1 Rhizobium etli CFN 42 plasmid p42a, complete sequence
+
+Length=194229
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3787230707
+
+
+Query= NZ_CP035001.1 Rhizobium acidisoli strain FH23 plasmid pRapFH23c,
+complete sequence
+
+Length=709381
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13813308861
+
+
+Query= NZ_CM003278.1 Rhizobium phaseoli Ch24-10 plasmid pRphCh2410a, whole
+genome shotgun sequence
+
+Length=367697
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7164863238
+
+
+Query= NZ_CP025508.1 Rhizobium leguminosarum bv. viciae strain UPM791
+plasmid pRlvB, complete sequence
+
+Length=597290
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11630560818
+
+
+Query= NZ_CP013545.1 Rhizobium phaseoli strain R620 plasmid pRphaR620c,
+complete sequence
+
+Length=413449
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8056432462
+
+
+Query= NZ_CP006990.1 Rhizobium sp. IE4771 plasmid pRetIE4771d, complete
+sequence
+
+Length=729172
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14198699004
+
+
+Query= NZ_CP013555.1 Rhizobium phaseoli strain N931 plasmid pRphaN931c,
+complete sequence
+
+Length=453545
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8837783214
+
+
+Query= NZ_CP013606.1 Rhizobium sp. N731 plasmid pRspN731e, complete
+sequence
+
+Length=506687
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9866248599
+
+
+Query= NZ_CP013506.1 Rhizobium sp. N1341 plasmid pRspN1341a, complete
+sequence
+
+Length=80368
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1567971705
+
+
+Query= NZ_CP013518.1 Rhizobium sp. N113 plasmid pRspN113a, complete
+sequence
+
+Length=315151
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6140899336
+
+
+Query= NZ_CP021031.1 Rhizobium sp. NXC14 plasmid pRspNXC14a, complete
+sequence
+
+Length=530065
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10321488393
+
+
+Query= NZ_CP007049.1 Rhizobium leguminosarum bv. trifolii WSM1689 plasmid,
+complete sequence
+
+Length=262704
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5118864647
+
+
+Query= NZ_CP013581.1 Rhizobium phaseoli strain N261 plasmid pRphaN261a,
+complete sequence
+
+Length=349796
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6816026451
+
+
+Query= NZ_CP007643.1 Rhizobium etli bv. phaseoli str. IE4803 plasmid
+pRetIE4803b, complete sequence
+
+Length=499136
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9719207976
+
+
+Query= NZ_CP013645.1 Rhizobium sp. N941 plasmid pRspN941b, complete
+sequence
+
+Length=408857
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7966948158
+
+
+Query= NZ_CP013603.1 Rhizobium sp. N731 plasmid pRspN731b, complete
+sequence
+
+Length=336117
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6549463778
+
+
+Query= NZ_CP013572.1 Rhizobium phaseoli strain N771 plasmid pRphaN671d,
+complete sequence
+
+Length=459642
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8956595453
+
+
+Query= NZ_CP018229.1 Rhizobium leguminosarum strain Vaf-108 plasmid
+unnamed1, complete sequence
+
+Length=1331126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 25901894359
+
+
+Query= NZ_CP013644.1 Rhizobium sp. N941 plasmid pRspN941a, complete
+sequence
+
+Length=300955
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5864261884
+
+
+Query= NC_012858.1 Rhizobium leguminosarum bv. trifolii WSM1325 plasmid
+pR132502, complete sequence
+
+Length=660973
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12870659877
+
+
+Query= NZ_AQHN01000095.1 Rhizobium freirei PRF 81 plasmid pPRF81a, whole
+genome shotgun sequence
+
+Length=144790
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2823120768
+
+
+Query= NZ_CP013564.1 Rhizobium phaseoli strain N831 plasmid pRphaN831a,
+complete sequence
+
+Length=340631
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6637428096
+
+
+Query= NZ_CP013493.1 Rhizobium sp. N6212 plasmid pRspN6212c, complete
+sequence
+
+Length=501077
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9757005069
+
+
+Query= NZ_CP013561.1 Rhizobium phaseoli strain N841 plasmid pRphaN841d,
+complete sequence
+
+Length=433209
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8441495582
+
+
+Query= NZ_CP013536.1 Rhizobium phaseoli strain R650 plasmid pRphaR650d,
+complete sequence
+
+Length=990934
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 19295990430
+
+
+Query= NZ_CP032685.1 Rhizobium sp. CCGE531 plasmid pRCCGE531d, complete
+sequence
+
+Length=1460465
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 28418701960
+
+
+Query= NZ_CP021026.1 Rhizobium sp. TAL182 plasmid pRetTAL182b, complete
+sequence
+
+Length=280614
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5467876817
+
+
+Query= NZ_CP020950.1 Rhizobium sp. CIAT894 plasmid pRheCIAT894c, complete
+sequence
+
+Length=464024
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9041987487
+
+
+Query= NZ_CP013538.1 Rhizobium phaseoli strain R630 plasmid pRphaR630a,
+complete sequence
+
+Length=344843
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6719507340
+
+
+Query= NZ_CP021025.1 Rhizobium sp. TAL182 plasmid pRetTAL182a, complete
+sequence
+
+Length=166357
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3243698835
+
+
+Query= NZ_CP013584.1 Rhizobium phaseoli strain N261 plasmid pRphaN261d,
+complete sequence
+
+Length=1074794
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 20928996210
+
+
+Query= NZ_CP013634.1 Rhizobium sp. N324 plasmid pRspN324d, complete
+sequence
+
+Length=504141
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9816670341
+
+
+  Database: amtBref.fna
+    Posted date:  Jun 19, 2019  2:14 PM
+  Number of letters in database: 19,809
+  Number of sequences in database:  14
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

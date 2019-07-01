@@ -1,0 +1,22 @@
+1: MIGS Cultured Bacterial/Archaeal sample from Rhizobium jaguaris
+Identifiers: BioSample: SAMN10118526; Sample name: Rhizobium jaguaris CCGE525; SRA: SRS4183485
+Organism: Rhizobium jaguaris
+Attributes:
+    /strain="CCGE525"
+    /collection date="2012"
+    /broad-scale environmental context="terrestrial biome"
+    /local-scale environmental context="soil"
+    /environmental medium="tropical rain forests and high mountains"
+    /geographic location="Mexico: Chiapas"
+    /host="Calliandra grandiflora"
+    /isolation and growth condition="PY at 28 degrees"
+    /latitude and longitude="16.07 N 91.45 W"
+    /number of replicons="4"
+    /reference for biomaterial="Rhizobium calliandrae sp. nov., Rhizobium mayense sp. nov. and Rhizobium jaguaris sp. nov., rhizobial species nodulating the medicinal legume Calliandra grandiflora"
+    /type-material="type strain of Rhizobium jaguaris"
+Description:
+Rhizobium etli, R. leguminosarum and a new Rhizobium genospecies from Phaseolus dumosus
+Keywords: GSC:MIxS;MIGS:5.0
+Accession: SAMN10118526	ID: 10118526
+
+

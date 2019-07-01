@@ -1,0 +1,8 @@
+#Organism/Name	Kingdom	Group	SubGroup	Plasmid Name	RefSeq	INSDC	Size (Kb)	GC%	Protein	rRNA	tRNA	Other RNA	Gene	Pseudogene	Release Date	Modify Date
+Rhizobium gallicum	Bacteria	Proteobacteria	Alphaproteobacteria	pRgalIE4872a	NZ_CP017102.1	CP017102	125.266	58.1363	106	-	-	-	124	18	2016/12/20	2017/04/16
+Rhizobium gallicum	Bacteria	Proteobacteria	Alphaproteobacteria	pRgalIE4872a	NZ_CP017103.1	CP017103	176.006	59.0258	137	-	-	-	152	15	2016/12/20	2017/04/16
+Rhizobium gallicum	Bacteria	Proteobacteria	Alphaproteobacteria	pRgalIE4872c	NZ_CP017104.1	CP017104	506.339	58.3301	411	-	-	-	485	74	2016/12/20	2017/04/16
+Rhizobium gallicum	Bacteria	Proteobacteria	Alphaproteobacteria	pRgalIE4872d	NZ_CP017105.1	CP017105	2388.37	59.2376	2151	-	1	-	2322	170	2016/12/20	2017/04/16
+Rhizobium gallicum bv. gallicum R602	Bacteria	Proteobacteria	Alphaproteobacteria	pRgalR602a	-	CP006878	203.748	58.5974	196	-	-	1	201	4	2015/01/09	2016/07/26
+Rhizobium gallicum bv. gallicum R602	Bacteria	Proteobacteria	Alphaproteobacteria	pRgalR602b	-	CP006879	507.254	58.2024	503	-	-	-	517	14	2015/01/09	2016/07/26
+Rhizobium gallicum bv. gallicum R602	Bacteria	Proteobacteria	Alphaproteobacteria	pRgalR602c	-	CP006880	2466.95	59.3738	2377	-	1	-	2404	26	2015/01/09	2016/07/26

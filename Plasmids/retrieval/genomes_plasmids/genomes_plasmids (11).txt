@@ -1,0 +1,3 @@
+#Organism/Name	Kingdom	Group	SubGroup	Plasmid Name	RefSeq	INSDC	Size (Kb)	GC%	Protein	rRNA	tRNA	Other RNA	Gene	Pseudogene	Release Date	Modify Date
+Rhizobium freirei PRF 81	Bacteria	Proteobacteria	Alphaproteobacteria	pPRF81a	NZ_AQHN01000095.1	AQHN01000095	144.79	59.0655	136	-	-	-	140	4	2013/05/07	2017/05/19
+Rhizobium freirei PRF 81	Bacteria	Proteobacteria	Alphaproteobacteria	pPRF81b	NZ_AQHN01000096.1	AQHN01000096	176.07	59.0799	154	-	-	-	162	8	2013/05/07	2017/05/19

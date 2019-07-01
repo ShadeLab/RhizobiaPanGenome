@@ -1,0 +1,266 @@
+Organism number,#Organism/Name,Kingdom,Group,SubGroup,Plasmid Name,RefSeq,INSDC,Size (Kb),GC%,Protein,rRNA,tRNA,Other RNA,Gene,Pseudogene,Release Date,Modify Date
+0,Rhizobium etli strain NXC12,Bacteria,Proteobacteria,Alphaproteobacteria,pRetNXC12a,NZ_CP020907.1,CP020907,182.413,61.7626,165,-,-,-,172,7,2017/05/22,2017/05/22
+0,Rhizobium etli strain NXC12,Bacteria,Proteobacteria,Alphaproteobacteria,pRetNXC12b,NZ_CP020908.1,CP020908,250.162,61.4981,228,-,-,-,243,15,2017/05/22,2017/05/22
+0,Rhizobium etli strain NXC12,Bacteria,Proteobacteria,Alphaproteobacteria,pRetNXC12c,NZ_CP020909.1,CP020909,505.136,61.7238,470,-,-,-,485,15,2017/05/22,2017/05/22
+0,Rhizobium etli strain NXC12,Bacteria,Proteobacteria,Alphaproteobacteria,pRetNXC12d,NZ_CP020910.1,CP020910,543.095,58.2933,396,-,-,-,526,130,2017/05/22,2017/05/22
+0,Rhizobium etli strain NXC12,Bacteria,Proteobacteria,Alphaproteobacteria,pRetNXC12e,NZ_CP020911.1,CP020911,978.479,60.7395,870,-,-,-,936,66,2017/05/22,2017/05/22
+1,Rhizobium etli 8C-3,Bacteria,Proteobacteria,Alphaproteobacteria,pRsp8C3a,NZ_CP017242.1,CP017242,430.631,58.6381,337,-,1,-,390,52,2016/12/20,2017/04/06
+1,Rhizobium etli 8C-3,Bacteria,Proteobacteria,Alphaproteobacteria,pRsp8C3b,NZ_CP017243.1,CP017243,438.379,57.8887,376,-,-,-,445,69,2016/12/20,2017/04/06
+1,Rhizobium etli 8C-3,Bacteria,Proteobacteria,Alphaproteobacteria,pRsp8C3c,NZ_CP017244.1,CP017244,2253.96,59.2403,2060,-,1,-,2156,95,2016/12/20,2017/04/06
+2,Rhizobium etli bv. mimosae str. Mim1,Bacteria,Proteobacteria,Alphaproteobacteria,pRetMIM1a,NC_021906.1,CP005951,181.313,61.7799,165,-,-,-,172,7,2013/08/02,2017/04/01
+2,Rhizobium etli bv. mimosae str. Mim1,Bacteria,Proteobacteria,Alphaproteobacteria,pRetMIM1b,NC_021907.1,CP005952,252.689,61.529,224,-,-,-,242,18,2013/08/02,2017/04/01
+2,Rhizobium etli bv. mimosae str. Mim1,Bacteria,Proteobacteria,Alphaproteobacteria,pRetMIM1d,NC_021908.1,CP005954,512.054,61.632,476,-,-,-,497,21,2013/08/02,2017/04/01
+2,Rhizobium etli bv. mimosae str. Mim1,Bacteria,Proteobacteria,Alphaproteobacteria,pRetMIM1e,NC_021909.1,CP005955,615.363,57.9396,491,-,-,-,579,88,2013/08/02,2017/04/01
+2,Rhizobium etli bv. mimosae str. Mim1,Bacteria,Proteobacteria,Alphaproteobacteria,pRetNIM1c,NC_021910.1,CP005953,269.426,58.3644,234,-,-,-,254,20,2013/08/02,2017/04/01
+2,Rhizobium etli bv. mimosae str. Mim1,Bacteria,Proteobacteria,Alphaproteobacteria,pRetMIM1f,NC_021911.1,CP005956,1082.66,60.513,955,-,-,-,1028,73,2013/08/02,2017/04/01
+3,Rhizobium etli bv. phaseoli str. IE4803,Bacteria,Proteobacteria,Alphaproteobacteria,pRetIE4803a,NZ_CP007642.1,CP007642,445.194,62.1671,412,-,-,-,419,7,2015/01/21,2017/04/03
+3,Rhizobium etli bv. phaseoli str. IE4803,Bacteria,Proteobacteria,Alphaproteobacteria,pRetIE4803b,NZ_CP007643.1,CP007643,499.136,57.874,384,-,-,-,521,137,2015/01/21,2017/04/03
+3,Rhizobium etli bv. phaseoli str. IE4803,Bacteria,Proteobacteria,Alphaproteobacteria,pRetIE4803c,NZ_CP007644.1,CP007644,711.724,61.1522,637,-,-,-,654,17,2015/01/21,2017/04/03
+3,Rhizobium etli bv. phaseoli str. IE4803,Bacteria,Proteobacteria,Alphaproteobacteria,pRetIE4803d,NZ_CP007645.1,CP007645,742.914,60.6337,648,-,-,-,699,51,2015/01/21,2017/04/03
+4,Rhizobium etli CFN 42,Bacteria,Proteobacteria,Alphaproteobacteria,symbiotic plasmid p42d,NC_004041.2,U80928,371.254,57.8159,326,-,-,-,396,70,1997/08/20,2017/05/19
+4,Rhizobium etli CFN 42,Bacteria,Proteobacteria,Alphaproteobacteria,p42a,NC_007762.1,CP000134,194.229,58.0027,143,-,-,-,204,61,2006/02/02,2017/05/19
+4,Rhizobium etli CFN 42,Bacteria,Proteobacteria,Alphaproteobacteria,p42b,NC_007763.1,CP000135,184.338,61.8071,163,-,-,-,172,9,2006/02/02,2017/05/19
+4,Rhizobium etli CFN 42,Bacteria,Proteobacteria,Alphaproteobacteria,p42c,NC_007764.1,CP000136,250.948,61.5179,232,-,-,-,247,15,2006/02/02,2017/05/19
+4,Rhizobium etli CFN 42,Bacteria,Proteobacteria,Alphaproteobacteria,p42e,NC_007765.1,CP000137,505.334,61.6667,469,-,-,-,487,18,2006/02/02,2017/05/19
+4,Rhizobium etli CFN 42,Bacteria,Proteobacteria,Alphaproteobacteria,p42f,NC_007766.1,CP000138,642.517,61.2192,592,-,-,-,628,36,2006/02/02,2017/05/19
+5,Rhizobium etli CIAT 652,Bacteria,Proteobacteria,Alphaproteobacteria,pB,NC_010996.1,CP001076,429.111,57.7594,357,-,-,-,442,85,2008/06/20,2017/05/19
+5,Rhizobium etli CIAT 652,Bacteria,Proteobacteria,Alphaproteobacteria,pC,NC_010997.1,CP001077,1091.52,60.8908,974,-,-,-,1019,45,2008/06/20,2017/05/19
+5,Rhizobium etli CIAT 652,Bacteria,Proteobacteria,Alphaproteobacteria,pA,NC_010998.1,CP001075,414.09,62.2203,379,-,-,-,393,14,2008/06/20,2017/05/19
+6,Rhizobium freirei PRF 81,Bacteria,Proteobacteria,Alphaproteobacteria,pPRF81a,NZ_AQHN01000095.1,AQHN01000095,144.79,59.0655,136,-,-,-,140,4,2013/05/07,2017/05/19
+6,Rhizobium freirei PRF 81,Bacteria,Proteobacteria,Alphaproteobacteria,pPRF81b,NZ_AQHN01000096.1,AQHN01000096,176.07,59.0799,154,-,-,-,162,8,2013/05/07,2017/05/19
+7,Rhizobium phaseoli strain N261,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN261a,NZ_CP013581.1,CP013581,349.796,61.9272,332,-,-,-,339,7,2016/06/21,2017/04/05
+7,Rhizobium phaseoli strain N261,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN261b,NZ_CP013582.1,CP013582,427.855,62.2695,393,-,-,-,398,5,2016/06/21,2017/04/05
+7,Rhizobium phaseoli strain N261,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN261c,NZ_CP013583.1,CP013583,429.574,58.0561,360,-,-,-,440,80,2016/06/21,2017/04/05
+7,Rhizobium phaseoli strain N261,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN261d,NZ_CP013584.1,CP013584,1074.79,60.9539,977,-,-,-,1027,50,2016/06/21,2017/04/05
+8,Rhizobium phaseoli strain N831,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN831a,NZ_CP013564.1,CP013564,340.631,61.726,326,-,-,-,332,6,2016/06/21,2017/04/05
+8,Rhizobium phaseoli strain N831,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN831b,NZ_CP013565.1,CP013565,431.484,62.1316,399,-,-,-,412,13,2016/06/21,2017/04/05
+8,Rhizobium phaseoli strain N831,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN831c,NZ_CP013566.1,CP013566,453.258,57.884,375,-,-,-,457,82,2016/06/21,2017/04/05
+8,Rhizobium phaseoli strain N831,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN831d,NZ_CP013567.1,CP013567,1165.89,61.142,1061,-,-,-,1123,62,2016/06/21,2017/04/05
+9,Rhizobium phaseoli strain N161,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN161a,NZ_CP013586.1,CP013586,354.689,61.8003,335,-,-,-,339,4,2016/06/21,2017/04/05
+9,Rhizobium phaseoli strain N161,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN161b,NZ_CP013587.1,CP013587,395.855,57.9629,335,-,-,-,408,73,2016/06/21,2017/04/05
+9,Rhizobium phaseoli strain N161,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN161c,NZ_CP013588.1,CP013588,407.297,62.354,371,-,-,-,380,9,2016/06/21,2017/04/05
+9,Rhizobium phaseoli strain N161,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN161d,NZ_CP013589.1,CP013589,1048.06,61.2018,935,-,-,-,991,56,2016/06/21,2017/04/05
+10,Rhizobium phaseoli strain R744,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR744a,NZ_CP013523.1,CP013523,256.181,57.8411,206,-,-,-,226,20,2016/06/21,2017/04/05
+10,Rhizobium phaseoli strain R744,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR744b,NZ_CP013524.1,CP013524,343.4,61.7568,325,-,-,-,332,7,2016/06/21,2017/04/05
+10,Rhizobium phaseoli strain R744,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR744c,NZ_CP013525.1,CP013525,407.814,62.3066,371,-,-,-,380,9,2016/06/21,2017/04/05
+10,Rhizobium phaseoli strain R744,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR744d,NZ_CP013526.1,CP013526,1195.49,60.9807,1093,-,-,-,1158,65,2016/06/21,2017/04/05
+11,Rhizobium phaseoli strain R630,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR630a,NZ_CP013538.1,CP013538,344.843,61.8438,328,-,-,-,333,5,2016/06/21,2017/04/05
+11,Rhizobium phaseoli strain R630,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR630b,NZ_CP013539.1,CP013539,421.824,62.2532,376,-,-,-,389,13,2016/06/21,2017/04/05
+11,Rhizobium phaseoli strain R630,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR630c,NZ_CP013540.1,CP013540,442.592,58.0354,365,-,1,-,447,81,2016/06/21,2017/04/05
+11,Rhizobium phaseoli strain R630,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR630d,NZ_CP013541.1,CP013541,1144.41,60.9175,1027,-,-,-,1076,49,2016/06/21,2017/04/05
+12,Rhizobium phaseoli strain R723,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR723a,NZ_CP013528.1,CP013528,349.793,61.9278,332,-,-,-,339,7,2016/06/21,2017/04/05
+12,Rhizobium phaseoli strain R723,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR723b,NZ_CP013529.1,CP013529,427.855,62.2704,392,-,-,-,397,5,2016/06/21,2017/04/05
+12,Rhizobium phaseoli strain R723,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR723c,NZ_CP013530.1,CP013530,429.574,58.0571,360,-,-,-,440,80,2016/06/21,2017/04/05
+12,Rhizobium phaseoli strain R723,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR723d,NZ_CP013531.1,CP013531,1074.8,60.9539,979,-,-,-,1028,49,2016/06/21,2017/04/05
+13,Rhizobium phaseoli strain R620,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR620a,NZ_CP013543.1,CP013543,356.39,61.7318,334,-,-,-,342,8,2016/06/21,2017/04/05
+13,Rhizobium phaseoli strain R620,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR620b,NZ_CP013544.1,CP013544,355.825,57.9251,319,-,-,-,379,60,2016/06/21,2017/04/05
+13,Rhizobium phaseoli strain R620,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR620c,NZ_CP013545.1,CP013545,413.449,62.3322,385,-,-,-,390,5,2016/06/21,2017/04/05
+13,Rhizobium phaseoli strain R620,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR620d,NZ_CP013546.1,CP013546,1080.73,61.0764,974,-,-,-,1026,52,2016/06/21,2017/04/05
+14,Rhizobium phaseoli strain N931,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN931a,NZ_CP013553.1,CP013553,340.631,61.7266,325,-,-,-,331,6,2016/06/21,2017/04/05
+14,Rhizobium phaseoli strain N931,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN931b,NZ_CP013554.1,CP013554,431.484,62.1312,398,-,-,-,411,13,2016/06/21,2017/04/05
+14,Rhizobium phaseoli strain N931,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN931c,NZ_CP013555.1,CP013555,453.545,57.8833,375,-,-,-,456,81,2016/06/21,2017/04/05
+14,Rhizobium phaseoli strain N931,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN931d,NZ_CP013556.1,CP013556,1165.89,61.142,1060,-,-,-,1122,62,2016/06/21,2017/04/05
+15,Rhizobium phaseoli strain N671,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN671a,NZ_CP013575.1,CP013575,96.338,56.6329,119,-,-,-,122,3,2016/06/21,2017/04/05
+15,Rhizobium phaseoli strain N671,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN671b,NZ_CP013576.1,CP013576,352.133,61.7619,332,-,-,-,337,5,2016/06/21,2017/04/05
+15,Rhizobium phaseoli strain N671,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN671c,NZ_CP013577.1,CP013577,414.617,62.3397,385,-,-,-,392,7,2016/06/21,2017/04/05
+15,Rhizobium phaseoli strain N671,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN671d,NZ_CP013578.1,CP013578,459.642,57.9553,392,-,-,-,469,77,2016/06/21,2017/04/05
+15,Rhizobium phaseoli strain N671,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN671e,NZ_CP013579.1,CP013579,1189.37,60.888,1080,-,-,-,1156,76,2016/06/21,2017/04/05
+16,Rhizobium phaseoli strain R650,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR650a,NZ_CP013533.1,CP013533,352.129,61.7603,331,-,-,-,337,6,2016/06/21,2017/04/05
+16,Rhizobium phaseoli strain R650,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR650b,NZ_CP013534.1,CP013534,413.457,62.3308,386,-,-,-,390,4,2016/06/21,2017/04/05
+16,Rhizobium phaseoli strain R650,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR650c,NZ_CP013535.1,CP013535,435.286,58.0333,363,-,-,-,441,78,2016/06/21,2017/04/05
+16,Rhizobium phaseoli strain R650,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaR650d,NZ_CP013536.1,CP013536,990.934,61.2316,891,-,-,-,933,42,2016/06/21,2017/04/05
+17,Rhizobium phaseoli strain N771,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN771a,NZ_CP013569.1,CP013569,96.338,56.6329,118,-,-,-,121,3,2016/06/21,2017/04/05
+17,Rhizobium phaseoli strain N771,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN771b,NZ_CP013570.1,CP013570,352.133,61.7622,332,-,-,-,337,5,2016/06/21,2017/04/05
+17,Rhizobium phaseoli strain N771,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN771c,NZ_CP013571.1,CP013571,414.617,62.3404,385,-,-,-,392,7,2016/06/21,2017/04/05
+17,Rhizobium phaseoli strain N771,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN671d,NZ_CP013572.1,CP013572,459.642,57.9553,392,-,-,-,469,77,2016/06/21,2017/04/05
+17,Rhizobium phaseoli strain N771,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN771e,NZ_CP013573.1,CP013573,1189.37,60.8878,1079,-,-,-,1155,76,2016/06/21,2017/04/05
+18,Rhizobium phaseoli strain N841,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN841a,NZ_CP013558.1,CP013558,81.923,56.9425,100,-,-,-,101,1,2016/06/21,2017/04/05
+18,Rhizobium phaseoli strain N841,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN841b,NZ_CP013559.1,CP013559,351.351,61.6913,335,-,-,-,340,5,2016/06/21,2017/04/05
+18,Rhizobium phaseoli strain N841,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN841c,NZ_CP013560.1,CP013560,407.882,62.256,372,-,-,-,377,5,2016/06/21,2017/04/05
+18,Rhizobium phaseoli strain N841,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN841d,NZ_CP013561.1,CP013561,433.209,57.9277,367,-,-,-,448,81,2016/06/21,2017/04/05
+18,Rhizobium phaseoli strain N841,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaN841e,NZ_CP013562.1,CP013562,1201.42,60.8432,1103,-,-,-,1177,74,2016/06/21,2017/04/05
+19,Rhizobium phaseoli strain R611,Bacteria,Proteobacteria,Alphaproteobacteria,pRetR611a,NZ_CP013548.1,CP013548,352.129,61.7595,331,-,-,-,337,6,2016/06/21,2017/04/05
+19,Rhizobium phaseoli strain R611,Bacteria,Proteobacteria,Alphaproteobacteria,pRetR611b,NZ_CP013549.1,CP013549,413.457,62.3305,386,-,-,-,390,4,2016/06/21,2017/04/05
+19,Rhizobium phaseoli strain R611,Bacteria,Proteobacteria,Alphaproteobacteria,pRetR611c,NZ_CP013550.1,CP013550,414.08,58.1296,341,-,-,-,418,77,2016/06/21,2017/04/05
+19,Rhizobium phaseoli strain R611,Bacteria,Proteobacteria,Alphaproteobacteria,pRetR611d,NZ_CP013551.1,CP013551,990.934,61.2316,891,-,-,-,933,42,2016/06/21,2017/04/05
+20,Rhizobium phaseoli Brasil 5,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaBra5a,NZ_CP020897.1,CP020897,262.16,61.9934,246,-,-,-,260,14,2017/04/27,2018/12/18
+20,Rhizobium phaseoli Brasil 5,Bacteria,Proteobacteria,Alphaproteobacteria,pRetBra5b,NZ_CP020898.1,CP020898,392.817,58.0611,314,-,-,-,394,80,2017/04/27,2018/12/18
+20,Rhizobium phaseoli Brasil 5,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaBra5c,NZ_CP020899.1,CP020899,439.779,62.2008,406,-,-,-,419,13,2017/04/27,2018/12/18
+20,Rhizobium phaseoli Brasil 5,Bacteria,Proteobacteria,Alphaproteobacteria,pRphaBra5d,NZ_CP020900.1,CP020900,1144.01,60.9397,1027,-,-,-,1093,66,2017/04/27,2018/12/18
+21,Rhizobium phaseoli Ch24-10,Bacteria,Proteobacteria,Alphaproteobacteria,pRphCh2410a,NZ_CM003278.1,CM003278,367.697,61.7818,343,-,-,-,351,8,2015/05/20,2017/04/03
+22,Rhizobium tropici CIAT 899,Bacteria,Proteobacteria,Alphaproteobacteria,pRtrCIAT899a,NC_020060.1,CP004016,216.61,58.6243,201,-,-,-,221,20,2013/01/03,2017/05/19
+22,Rhizobium tropici CIAT 899,Bacteria,Proteobacteria,Alphaproteobacteria,pRtrCIAT899b,NC_020061.1,CP004017,549.467,57.624,496,-,-,-,566,70,2013/01/03,2017/05/19
+22,Rhizobium tropici CIAT 899,Bacteria,Proteobacteria,Alphaproteobacteria,pRtrCIAT899c,NC_020062.1,CP004018,2083.2,59.3562,1872,-,-,-,1905,33,2013/01/03,2017/05/19
+23,Rhizobium leguminosarum strain Vaf-108,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed1,NZ_CP018229.1,CP018229,1331.13,59.9719,1106,-,-,-,1248,142,2016/12/18,2017/04/06
+23,Rhizobium leguminosarum strain Vaf-108,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed2,NZ_CP018230.1,CP018230,517.692,61.3915,463,-,-,-,489,26,2016/12/18,2017/04/06
+23,Rhizobium leguminosarum strain Vaf-108,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed3,NZ_CP018231.1,CP018231,339.3,58.3183,268,-,-,-,346,78,2016/12/18,2017/04/06
+23,Rhizobium leguminosarum strain Vaf-108,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed4,NZ_CP018232.1,CP018232,278.328,61.2091,261,-,-,-,269,8,2016/12/18,2017/04/06
+23,Rhizobium leguminosarum strain Vaf-108,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed5,NZ_CP018233.1,CP018233,255.06,61.2374,212,-,-,-,228,16,2016/12/18,2017/04/06
+23,Rhizobium leguminosarum strain Vaf-108,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed6,NZ_CP018234.1,CP018234,236.058,58.0874,164,-,-,-,236,72,2016/12/18,2017/04/06
+23,Rhizobium leguminosarum strain Vaf-108,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed7,NZ_CP018235.1,CP018235,227.762,58.2459,181,-,-,-,236,55,2016/12/18,2017/04/06
+23,Rhizobium leguminosarum strain Vaf-108,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed8,NZ_CP018236.1,CP018236,142.112,57.7369,110,-,-,-,131,21,2016/12/18,2017/04/06
+24,Rhizobium leguminosarum strain Norway,Bacteria,Proteobacteria,Alphaproteobacteria,pRLN1,NZ_CP025013.1,CP025013,1098.16,60.5329,999,-,-,-,1047,48,2018/03/04,2018/03/04
+24,Rhizobium leguminosarum strain Norway,Bacteria,Proteobacteria,Alphaproteobacteria,pRLN2,NZ_CP025014.1,CP025014,592.529,60.8973,536,-,-,-,562,26,2018/03/04,2018/03/04
+24,Rhizobium leguminosarum strain Norway,Bacteria,Proteobacteria,Alphaproteobacteria,pRLN3,NZ_CP025015.1,CP025015,557.386,57.4279,440,-,-,-,523,83,2018/03/04,2018/03/04
+24,Rhizobium leguminosarum strain Norway,Bacteria,Proteobacteria,Alphaproteobacteria,pRLN4,NZ_CP025016.1,CP025016,354.35,60.6533,296,-,-,-,309,13,2018/03/04,2018/03/04
+24,Rhizobium leguminosarum strain Norway,Bacteria,Proteobacteria,Alphaproteobacteria,pRLN5,NZ_CP025017.1,CP025017,279.539,61.331,254,-,-,-,262,8,2018/03/04,2018/03/04
+25,Rhizobium leguminosarum strain ATCC 14479,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed1,NZ_CP030761.1,CP030761,1234.21,59.9949,1111,-,-,-,1194,83,2018/07/13,2018/07/13
+25,Rhizobium leguminosarum strain ATCC 14479,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed2,NZ_CP030762.1,CP030762,415.988,58.3286,323,-,-,-,432,109,2018/07/13,2018/07/13
+25,Rhizobium leguminosarum strain ATCC 14479,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed3,NZ_CP030763.1,CP030763,771.583,60.5033,702,-,-,-,746,44,2018/07/13,2018/07/13
+25,Rhizobium leguminosarum strain ATCC 14479,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed4,NZ_CP030764.1,CP030764,630.306,60.3743,568,-,1,-,607,38,2018/07/13,2018/07/13
+26,Rhizobium leguminosarum bv. trifolii CB782,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed,NZ_CP007068.1,CP007068,1563.77,60.3104,1397,-,-,-,1494,97,2015/02/05,2017/04/02
+26,Rhizobium leguminosarum bv. trifolii CB782,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed2,NZ_CP007069.1,CP007069,509.829,61.7021,471,-,-,-,485,14,2015/02/05,2017/04/02
+26,Rhizobium leguminosarum bv. trifolii CB782,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed3,NZ_CP007070.1,CP007070,251.612,57.3236,216,-,-,-,248,32,2015/02/05,2017/04/02
+27,Rhizobium leguminosarum bv. trifolii WSM1325,Bacteria,Proteobacteria,Alphaproteobacteria,pR132501,NC_012848.1,CP001623,828.924,60.3655,725,-,-,-,775,50,2009/06/22,2017/05/19
+27,Rhizobium leguminosarum bv. trifolii WSM1325,Bacteria,Proteobacteria,Alphaproteobacteria,pR132504,NC_012852.1,CP001626,350.312,60.5646,304,-,-,-,315,11,2009/06/22,2017/05/19
+27,Rhizobium leguminosarum bv. trifolii WSM1325,Bacteria,Proteobacteria,Alphaproteobacteria,pR132503,NC_012853.1,CP001625,516.088,58.7925,486,-,-,-,540,54,2009/06/22,2017/05/19
+27,Rhizobium leguminosarum bv. trifolii WSM1325,Bacteria,Proteobacteria,Alphaproteobacteria,pR132505,NC_012854.1,CP001627,294.782,60.3707,275,-,-,-,295,20,2009/06/22,2017/05/19
+27,Rhizobium leguminosarum bv. trifolii WSM1325,Bacteria,Proteobacteria,Alphaproteobacteria,pR132502,NC_012858.1,CP001624,660.973,60.8184,629,-,-,-,670,41,2009/06/23,2017/05/19
+28,Rhizobium leguminosarum bv. trifolii WSM1689,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed,NZ_CP007046.1,CP007046,667.306,60.9442,614,-,-,-,628,14,2015/02/04,2017/04/02
+28,Rhizobium leguminosarum bv. trifolii WSM1689,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed2,NZ_CP007047.1,CP007047,518.052,61.246,469,-,-,-,487,18,2015/02/04,2017/04/02
+28,Rhizobium leguminosarum bv. trifolii WSM1689,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed3,NZ_CP007048.1,CP007048,341.391,58.2057,299,-,-,-,337,38,2015/02/04,2017/04/02
+28,Rhizobium leguminosarum bv. trifolii WSM1689,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed4,NZ_CP007049.1,CP007049,262.704,61.1407,243,-,-,-,247,4,2015/02/04,2017/04/02
+28,Rhizobium leguminosarum bv. trifolii WSM1689,Bacteria,Proteobacteria,Alphaproteobacteria,unnamed5,NZ_CP007050.1,CP007050,259.408,60.7005,234,-,-,-,243,9,2015/02/04,2017/04/02
+29,Rhizobium leguminosarum bv. trifolii WSM2304,Bacteria,Proteobacteria,Alphaproteobacteria,pRLG202,NC_011366.1,CP001193,501.946,61.9581,453,-,-,-,465,12,2008/10/16,2017/10/21
+29,Rhizobium leguminosarum bv. trifolii WSM2304,Bacteria,Proteobacteria,Alphaproteobacteria,pRLG201,NC_011368.1,CP001192,1266.11,60.3599,1161,-,-,-,1241,80,2008/10/16,2017/10/21
+29,Rhizobium leguminosarum bv. trifolii WSM2304,Bacteria,Proteobacteria,Alphaproteobacteria,pRLG203,NC_011370.1,CP001195,308.747,57.9011,262,-,-,-,278,16,2008/10/16,2017/10/21
+29,Rhizobium leguminosarum bv. trifolii WSM2304,Bacteria,Proteobacteria,Alphaproteobacteria,pRLG204,NC_011371.1,CP001194,257.956,61.3868,221,-,-,-,224,3,2008/10/16,2017/10/21
+30,Rhizobium leguminosarum bv. viciae strain BIHB 1148,Bacteria,Proteobacteria,Alphaproteobacteria,pSK01,NZ_CP022565.1,CP022565,976.232,60.6487,865,-,-,-,934,69,2017/08/04,2017/08/04
+30,Rhizobium leguminosarum bv. viciae strain BIHB 1148,Bacteria,Proteobacteria,Alphaproteobacteria,pSK02,NZ_CP022566.1,CP022566,549.819,61.232,501,-,-,-,522,21,2017/08/04,2017/08/04
+30,Rhizobium leguminosarum bv. viciae strain BIHB 1148,Bacteria,Proteobacteria,Alphaproteobacteria,pSK03,NZ_CP022567.1,CP022567,407.945,61.0668,374,-,2,1,397,20,2017/08/04,2017/08/04
+30,Rhizobium leguminosarum bv. viciae strain BIHB 1148,Bacteria,Proteobacteria,Alphaproteobacteria,pSK04,NZ_CP022568.1,CP022568,326.874,61.0792,305,-,-,-,321,16,2017/08/04,2017/08/04
+30,Rhizobium leguminosarum bv. viciae strain BIHB 1148,Bacteria,Proteobacteria,Alphaproteobacteria,pSK05,NZ_CP022569.1,CP022569,264.815,61.3636,223,-,-,-,237,14,2017/08/04,2017/08/04
+30,Rhizobium leguminosarum bv. viciae strain BIHB 1148,Bacteria,Proteobacteria,Alphaproteobacteria,pSK06,NZ_CP022570.1,CP022570,12.967,61.1707,17,-,-,-,19,2,2017/08/04,2017/08/04
+31,Rhizobium leguminosarum bv. viciae strain BIHB 1217,Bacteria,Proteobacteria,Alphaproteobacteria,pPR1,NZ_CP022666.1,CP022666,1169.14,60.0001,1044,-,-,-,1101,57,2017/08/10,2017/08/10
+31,Rhizobium leguminosarum bv. viciae strain BIHB 1217,Bacteria,Proteobacteria,Alphaproteobacteria,pPR2,NZ_CP022667.1,CP022667,605.219,60.9812,546,-,-,-,572,26,2017/08/10,2017/08/10
+31,Rhizobium leguminosarum bv. viciae strain BIHB 1217,Bacteria,Proteobacteria,Alphaproteobacteria,pPR3,NZ_CP022668.1,CP022668,576.09,60.9462,516,-,-,-,537,21,2017/08/10,2017/08/10
+31,Rhizobium leguminosarum bv. viciae strain BIHB 1217,Bacteria,Proteobacteria,Alphaproteobacteria,pPR4,NZ_CP022669.1,CP022669,327.451,57.5821,267,-,-,-,331,64,2017/08/10,2017/08/10
+31,Rhizobium leguminosarum bv. viciae strain BIHB 1217,Bacteria,Proteobacteria,Alphaproteobacteria,pPR5,NZ_CP022670.1,CP022670,179.782,58.7801,155,-,-,-,176,21,2017/08/10,2017/08/10
+31,Rhizobium leguminosarum bv. viciae strain BIHB 1217,Bacteria,Proteobacteria,Alphaproteobacteria,pPR6,NZ_CP022671.1,CP022671,18.458,58.988,26,-,-,-,32,6,2017/08/10,2017/08/10
+32,Rhizobium leguminosarum bv. viciae strain UPM791,Bacteria,Proteobacteria,Alphaproteobacteria,pRlvC,NZ_CP025505.1,CP025505,405.209,57.3257,332,-,-,-,375,43,2018/03/03,2018/03/03
+32,Rhizobium leguminosarum bv. viciae strain UPM791,Bacteria,Proteobacteria,Alphaproteobacteria,pRlvE,NZ_CP025506.1,CP025506,564.641,60.9178,506,-,-,-,527,21,2018/03/03,2018/03/03
+32,Rhizobium leguminosarum bv. viciae strain UPM791,Bacteria,Proteobacteria,Alphaproteobacteria,pRlvA,NZ_CP025507.1,CP025507,1291.92,59.6619,1130,-,-,-,1224,94,2018/03/03,2018/03/03
+32,Rhizobium leguminosarum bv. viciae strain UPM791,Bacteria,Proteobacteria,Alphaproteobacteria,pRlvB,NZ_CP025508.1,CP025508,597.29,60.9582,543,-,-,-,567,24,2018/03/03,2018/03/03
+32,Rhizobium leguminosarum bv. viciae strain UPM791,Bacteria,Proteobacteria,Alphaproteobacteria,pRlvD,NZ_CP025510.1,CP025510,217.776,58.5092,126,-,-,-,212,86,2018/03/03,2018/03/03
+33,Rhizobium leguminosarum bv. viciae strain 3841,Bacteria,Proteobacteria,Alphaproteobacteria,pRL12,NC_008378.1,AM236086,870.021,61.0247,777,-,-,-,809,32,2006/05/04,2019/02/10
+33,Rhizobium leguminosarum bv. viciae strain 3841,Bacteria,Proteobacteria,Alphaproteobacteria,pRL9,NC_008379.1,AM236083,352.782,60.9909,308,-,-,-,329,21,2006/05/04,2019/02/10
+33,Rhizobium leguminosarum bv. viciae strain 3841,Bacteria,Proteobacteria,Alphaproteobacteria,pRL10,NC_008381.1,AM236084,488.135,59.6044,422,-,-,-,485,63,2006/05/04,2019/02/10
+33,Rhizobium leguminosarum bv. viciae strain 3841,Bacteria,Proteobacteria,Alphaproteobacteria,pRL7,NC_008382.1,AM236081,151.564,57.6219,113,-,-,-,170,57,2006/05/04,2019/02/10
+33,Rhizobium leguminosarum bv. viciae strain 3841,Bacteria,Proteobacteria,Alphaproteobacteria,pRL8,NC_008383.1,AM236082,147.463,58.7449,134,-,-,-,145,11,2006/05/04,2019/02/10
+33,Rhizobium leguminosarum bv. viciae strain 3841,Bacteria,Proteobacteria,Alphaproteobacteria,pRL11,NC_008384.1,AM236085,684.202,60.9728,621,-,-,-,651,30,2006/05/04,2019/02/10
+34,Rhizobium gallicum strain IE4872,Bacteria,Proteobacteria,Alphaproteobacteria,pRgalIE4872a,NZ_CP017102.1,CP017102,125.266,58.1363,106,-,-,-,124,18,2016/12/20,2017/04/16
+34,Rhizobium gallicum strain IE4872,Bacteria,Proteobacteria,Alphaproteobacteria,pRgalIE4872a,NZ_CP017103.1,CP017103,176.006,59.0258,137,-,-,-,152,15,2016/12/20,2017/04/16
+34,Rhizobium gallicum strain IE4872,Bacteria,Proteobacteria,Alphaproteobacteria,pRgalIE4872c,NZ_CP017104.1,CP017104,506.339,58.3301,411,-,-,-,485,74,2016/12/20,2017/04/16
+34,Rhizobium gallicum strain IE4872,Bacteria,Proteobacteria,Alphaproteobacteria,pRgalIE4872d,NZ_CP017105.1,CP017105,2388.37,59.2376,2151,-,1,-,2322,170,2016/12/20,2017/04/16
+35,Rhizobium esperanzae strain N561,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN561a,NZ_CP013501.1,CP013501,315.151,61.686,302,-,-,-,306,4,2016/06/21,2018/11/26
+35,Rhizobium esperanzae strain N561,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN561b,NZ_CP013502.1,CP013502,433.056,57.7865,346,-,-,-,450,104,2016/06/21,2018/11/26
+35,Rhizobium esperanzae strain N561,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN561c,NZ_CP013503.1,CP013503,501.077,61.8576,463,-,-,-,483,20,2016/06/21,2018/11/26
+35,Rhizobium esperanzae strain N561,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN561d,NZ_CP013504.1,CP013504,752.94,60.969,668,-,-,-,724,56,2016/06/21,2018/11/26
+36,Rhizobium acidisoli strain FH23,Bacteria,Proteobacteria,Alphaproteobacteria,pRapFH23a,NZ_CP034999.1,CP034999,671.287,58.3789,509,-,-,-,675,166,2019/01/09,2019/01/26
+36,Rhizobium acidisoli strain FH23,Bacteria,Proteobacteria,Alphaproteobacteria,pRapFH23b,NZ_CP035000.1,CP035000,701.88,60.8999,599,-,-,-,646,47,2019/01/09,2019/01/26
+36,Rhizobium acidisoli strain FH23,Bacteria,Proteobacteria,Alphaproteobacteria,pRapFH23c,NZ_CP035001.1,CP035001,709.381,61.089,630,-,-,-,714,84,2019/01/09,2019/01/26
+36,Rhizobium acidisoli strain FH23,Bacteria,Proteobacteria,Alphaproteobacteria,pRapFH23d,NZ_CP035002.1,CP035002,845.857,60.7476,743,-,-,-,823,80,2019/01/09,2019/01/26
+37,Rhizobium sp. LPU83,Bacteria,Proteobacteria,Alphaproteobacteria,pLPU83a,NZ_HG916853.1,HG916853,151.687,59.6511,126,-,-,-,159,33,2014/02/07,2018/07/12
+37,Rhizobium sp. LPU83,Bacteria,Proteobacteria,Alphaproteobacteria,pLPU83c,NZ_HG916854.1,HG916854,759.787,59.1832,665,-,-,-,787,122,2014/02/07,2018/07/12
+37,Rhizobium sp. LPU83,Bacteria,Proteobacteria,Alphaproteobacteria,pLPU83d,NZ_HG916855.1,HG916855,1932.03,59.164,1679,-,1,-,1903,223,2014/02/07,2018/07/12
+38,Rhizobium jaguaris strain CCGE525,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE525c,NZ_CP032695.1,CP032695,2584.93,59.3675,2284,-,1,-,2402,117,2018/10/11,2018/10/11
+38,Rhizobium jaguaris strain CCGE525,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE525b,NZ_CP032696.1,CP032696,550.563,57.6168,438,-,-,-,541,103,2018/10/11,2018/10/11
+38,Rhizobium jaguaris strain CCGE525,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE525a,NZ_CP032697.1,CP032697,314.764,59.0849,225,-,-,-,262,37,2018/10/11,2018/10/11
+39,Rhizobium pusense strain CFBP5875,Bacteria,Proteobacteria,Alphaproteobacteria,pAtCFBP5875,NZ_CP039896.1,CP039896,129.573,57.2642,115,-,-,-,137,-,2019/05/08,2019/05/08
+40,Rhizobium sp. 11515TR,Bacteria,Proteobacteria,Alphaproteobacteria,p10195A,NZ_CP022999.1,CP022999,1569.18,59.2087,1404,-,1,-,1425,20,2017/09/01,2018/07/12
+40,Rhizobium sp. 11515TR,Bacteria,Proteobacteria,Alphaproteobacteria,p10195B,NZ_CP023000.1,CP023000,1497.35,58.7952,1326,-,-,-,1388,62,2017/09/01,2018/07/12
+41,Rhizobium sp. ACO-34A,Bacteria,Proteobacteria,Alphaproteobacteria,pRACO34Ad,NZ_CP021372.1,CP021372,516.813,60.3917,447,3,3,-,476,23,2017/10/23,2017/10/23
+41,Rhizobium sp. ACO-34A,Bacteria,Proteobacteria,Alphaproteobacteria,pRACO34Ac,NZ_CP021373.1,CP021373,494.144,62.7698,428,-,-,-,442,14,2017/10/23,2017/10/23
+41,Rhizobium sp. ACO-34A,Bacteria,Proteobacteria,Alphaproteobacteria,pRACO34Ab,NZ_CP021374.1,CP021374,305.59,61.5668,257,-,-,-,263,6,2017/10/23,2017/10/23
+41,Rhizobium sp. ACO-34A,Bacteria,Proteobacteria,Alphaproteobacteria,pRACO34Aa,NZ_CP021375.1,CP021375,213.273,59.4398,200,-,-,-,214,14,2017/10/23,2017/10/23
+42,Rhizobium sp. CCGE531,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE531d,NZ_CP032685.1,CP032685,1460.46,60.2064,1304,-,-,-,1345,41,2018/10/11,2018/10/11
+42,Rhizobium sp. CCGE531,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE531c,NZ_CP032686.1,CP032686,756.635,58.6399,628,-,-,-,698,70,2018/10/11,2018/10/11
+42,Rhizobium sp. CCGE531,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE531b,NZ_CP032687.1,CP032687,577.596,57.6344,488,-,-,-,579,91,2018/10/11,2018/10/11
+42,Rhizobium sp. CCGE531,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE531a,NZ_CP032688.1,CP032688,304.634,58.4281,263,-,-,-,284,21,2018/10/11,2018/10/11
+43,Rhizobium sp. CCGE532,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE532d,NZ_CP032690.1,CP032690,1460.44,60.2039,1298,-,-,-,1349,51,2018/10/11,2018/10/11
+43,Rhizobium sp. CCGE532,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE532c,NZ_CP032691.1,CP032691,747.941,58.6343,620,-,-,-,692,72,2018/10/11,2018/10/11
+43,Rhizobium sp. CCGE532,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE532b,NZ_CP032692.1,CP032692,506.16,57.7535,434,-,-,-,514,80,2018/10/11,2018/10/11
+43,Rhizobium sp. CCGE532,Bacteria,Proteobacteria,Alphaproteobacteria,pRCCGE532a,NZ_CP032693.1,CP032693,300.963,58.4274,255,-,-,-,279,24,2018/10/11,2018/10/11
+44,Rhizobium sp. CIAT894,Bacteria,Proteobacteria,Alphaproteobacteria,pRheCIAT894a,NZ_CP020948.1,CP020948,215.247,61.2775,194,-,-,-,207,13,2017/05/01,2018/12/18
+44,Rhizobium sp. CIAT894,Bacteria,Proteobacteria,Alphaproteobacteria,pRheCIAT894b,NZ_CP020949.1,CP020949,273.667,58.2507,246,-,-,-,264,18,2017/05/01,2018/12/18
+44,Rhizobium sp. CIAT894,Bacteria,Proteobacteria,Alphaproteobacteria,pRheCIAT894c,NZ_CP020950.1,CP020950,464.024,58.1614,385,-,-,-,471,86,2017/05/01,2018/12/18
+44,Rhizobium sp. CIAT894,Bacteria,Proteobacteria,Alphaproteobacteria,pRheCIAT894d,NZ_CP020951.1,CP020951,560.456,61.9911,515,-,-,-,530,15,2017/05/01,2018/12/18
+44,Rhizobium sp. CIAT894,Bacteria,Proteobacteria,Alphaproteobacteria,pRheCIAT894e,NZ_CP020952.1,CP020952,718.394,60.8814,606,-,-,-,632,26,2017/05/01,2018/12/18
+45,Rhizobium sp. IE4771,Bacteria,Proteobacteria,Alphaproteobacteria,pRetIE4771a,NZ_CP006987.1,CP006987,244.771,58.768,211,-,-,-,224,13,2015/01/21,2017/07/19
+45,Rhizobium sp. IE4771,Bacteria,Proteobacteria,Alphaproteobacteria,pRetIE4771b,NZ_CP006988.1,CP006988,393.846,57.4895,312,-,-,-,364,52,2015/01/21,2017/07/19
+45,Rhizobium sp. IE4771,Bacteria,Proteobacteria,Alphaproteobacteria,pRetIE4771c,NZ_CP006989.1,CP006989,470.125,61.9461,426,-,-,-,438,12,2015/01/21,2017/07/19
+45,Rhizobium sp. IE4771,Bacteria,Proteobacteria,Alphaproteobacteria,pRetIE4771d,NZ_CP006990.1,CP006990,729.172,61.2194,649,-,-,-,671,22,2015/01/21,2017/07/19
+45,Rhizobium sp. IE4771,Bacteria,Proteobacteria,Alphaproteobacteria,pRetIE4771e,NZ_CP006991.1,CP006991,744.104,60.7438,666,-,-,-,689,23,2015/01/21,2017/07/19
+46,Rhizobium sp. IRBG74,Bacteria,Proteobacteria,Alphaproteobacteria,III,NC_022536.1,HG518324,584.965,57.484,535,-,-,-,584,49,2013/10/09,2017/04/17
+47,Rhizobium sp. Kim5,Bacteria,Proteobacteria,Alphaproteobacteria,pRetKim5a,NZ_CP021125.1,CP021125,431.886,57.8305,350,-,-,-,460,110,2017/05/05,2018/12/18
+47,Rhizobium sp. Kim5,Bacteria,Proteobacteria,Alphaproteobacteria,pRetKim5b,NZ_CP021126.1,CP021126,482.471,61.8288,442,-,-,-,468,26,2017/05/05,2018/12/18
+47,Rhizobium sp. Kim5,Bacteria,Proteobacteria,Alphaproteobacteria,pRetKim5c,NZ_CP021127.1,CP021127,655.866,61.1451,572,-,-,-,604,32,2017/05/05,2018/12/18
+47,Rhizobium sp. Kim5,Bacteria,Proteobacteria,Alphaproteobacteria,pRetKim5d,NZ_CP021128.1,CP021128,684.601,60.9977,618,-,-,-,656,38,2017/05/05,2018/12/18
+48,Rhizobium sp. N113,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN113a,NZ_CP013518.1,CP013518,315.151,61.6857,300,-,-,-,303,3,2016/06/21,2017/04/12
+48,Rhizobium sp. N113,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN113b,NZ_CP013519.1,CP013519,435.821,57.8008,359,-,-,-,453,94,2016/06/21,2017/04/12
+48,Rhizobium sp. N113,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN113c,NZ_CP013520.1,CP013520,501.077,61.857,464,-,-,-,481,17,2016/06/21,2017/04/12
+48,Rhizobium sp. N113,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN113d,NZ_CP013521.1,CP013521,755.598,60.9646,672,-,-,-,721,49,2016/06/21,2017/04/12
+49,Rhizobium sp. N1314,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1314a,NZ_CP013512.1,CP013512,162.302,61.4225,146,-,-,-,151,5,2016/06/21,2017/04/12
+49,Rhizobium sp. N1314,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1314b,NZ_CP013513.1,CP013513,336.117,61.1367,311,-,-,-,319,8,2016/06/21,2017/04/12
+49,Rhizobium sp. N1314,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1314c,NZ_CP013514.1,CP013514,433.217,57.9299,368,-,-,-,449,81,2016/06/21,2017/04/12
+49,Rhizobium sp. N1314,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1314d,NZ_CP013515.1,CP013515,488.795,61.6467,438,-,-,-,456,18,2016/06/21,2017/04/12
+49,Rhizobium sp. N1314,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1314e,NZ_CP013516.1,CP013516,506.687,62.0034,474,-,-,-,486,12,2016/06/21,2017/04/12
+50,Rhizobium sp. N1341,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1341a,NZ_CP013506.1,CP013506,80.368,57.4047,113,-,-,-,115,2,2016/06/21,2017/04/12
+50,Rhizobium sp. N1341,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1341b,NZ_CP013507.1,CP013507,314.785,61.6859,299,-,-,-,303,4,2016/06/21,2017/04/12
+50,Rhizobium sp. N1341,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1341c,NZ_CP013508.1,CP013508,434.334,57.7751,356,-,-,-,449,93,2016/06/21,2017/04/12
+50,Rhizobium sp. N1341,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1341d,NZ_CP013509.1,CP013509,501.077,61.8568,464,-,-,-,481,17,2016/06/21,2017/04/12
+50,Rhizobium sp. N1341,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN1341e,NZ_CP013510.1,CP013510,751.351,60.9786,670,-,-,-,718,48,2016/06/21,2017/04/12
+51,Rhizobium sp. N324,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN324a,NZ_CP013631.1,CP013631,305.839,62.1866,293,-,-,-,297,4,2016/06/21,2017/04/12
+51,Rhizobium sp. N324,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN324b,NZ_CP013632.1,CP013632,407.833,60.9943,361,-,-,-,378,17,2016/06/21,2017/04/12
+51,Rhizobium sp. N324,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN324c,NZ_CP013633.1,CP013633,447.145,57.9119,362,-,-,-,458,96,2016/06/21,2017/04/12
+51,Rhizobium sp. N324,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN324d,NZ_CP013634.1,CP013634,504.141,62.0324,472,-,-,-,491,19,2016/06/21,2017/04/12
+51,Rhizobium sp. N324,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN324e,NZ_CP013635.1,CP013635,667.63,61.362,583,-,-,-,603,20,2016/06/21,2017/04/12
+52,Rhizobium sp. N4311,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN4311a,NZ_CM008157.1,CM008157,305.838,62.1888,294,-,-,-,297,3,2017/08/16,2017/08/16
+52,Rhizobium sp. N4311,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN4311b,NZ_CM008158.1,CM008158,407.789,60.995,362,-,-,-,379,17,2017/08/16,2017/08/16
+52,Rhizobium sp. N4311,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN4311c,NZ_CM008159.1,CM008159,439.28,57.905,356,-,-,-,455,99,2017/08/16,2017/08/16
+52,Rhizobium sp. N4311,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN4311d,NZ_CM008160.1,CM008160,503.294,62.0357,473,-,-,-,497,24,2017/08/16,2017/08/16
+52,Rhizobium sp. N4311,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN4311e,NZ_CM008161.1,CM008161,666.589,61.3627,580,-,-,-,604,24,2017/08/16,2017/08/16
+53,Rhizobium sp. N541,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN541a,NZ_CP013637.1,CP013637,300.955,62.1342,289,-,-,-,293,4,2016/06/23,2017/04/13
+53,Rhizobium sp. N541,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN541b,NZ_CP013638.1,CP013638,408.857,60.9871,359,-,-,-,379,20,2016/06/23,2017/04/13
+53,Rhizobium sp. N541,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN541d,NZ_CP013641.1,CP013641,504.214,62.0249,475,-,-,-,497,22,2016/06/23,2017/04/13
+53,Rhizobium sp. N541,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN541e,NZ_CP013642.1,CP013642,661.871,61.3481,577,-,-,-,602,25,2016/06/23,2017/04/13
+54,Rhizobium sp. N621,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN621a,NZ_CP013496.1,CP013496,315.154,61.6905,300,-,-,-,303,3,2016/06/21,2017/04/12
+54,Rhizobium sp. N621,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN621b,NZ_CP013497.1,CP013497,439.584,57.8065,362,-,-,-,456,94,2016/06/21,2017/04/12
+54,Rhizobium sp. N621,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN621c,NZ_CP013498.1,CP013498,501.077,61.857,464,-,-,-,481,17,2016/06/21,2017/04/12
+54,Rhizobium sp. N621,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN621d,NZ_CP013499.1,CP013499,742.499,61.0363,664,-,-,-,711,47,2016/06/21,2017/04/12
+55,Rhizobium sp. N6212,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN6212a,NZ_CP013491.1,CP013491,315.154,61.6911,300,-,-,-,303,3,2016/06/21,2017/04/12
+55,Rhizobium sp. N6212,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN6212b,NZ_CP013492.1,CP013492,438.384,57.8201,364,-,-,-,457,93,2016/06/21,2017/04/12
+55,Rhizobium sp. N6212,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN6212c,NZ_CP013493.1,CP013493,501.077,61.857,464,-,-,-,481,17,2016/06/21,2017/04/12
+55,Rhizobium sp. N6212,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN6212d,NZ_CP013494.1,CP013494,742.499,61.0363,664,-,-,-,711,47,2016/06/21,2017/04/12
+56,Rhizobium sp. N731,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN731a,NZ_CP013602.1,CP013602,162.302,61.4225,146,-,-,-,151,5,2016/06/21,2017/04/13
+56,Rhizobium sp. N731,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN731b,NZ_CP013603.1,CP013603,336.117,61.1373,311,-,-,-,319,8,2016/06/21,2017/04/13
+56,Rhizobium sp. N731,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN731c,NZ_CP013604.1,CP013604,433.219,57.9301,368,-,-,-,449,81,2016/06/21,2017/04/13
+56,Rhizobium sp. N731,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN731d,NZ_CP013605.1,CP013605,488.789,61.6471,438,-,-,-,456,18,2016/06/21,2017/04/13
+56,Rhizobium sp. N731,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN731e,NZ_CP013606.1,CP013606,506.687,62.0034,474,-,-,-,486,12,2016/06/21,2017/04/13
+57,Rhizobium sp. N741,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN741a,NZ_CP013596.1,CP013596,80.368,57.4047,114,-,-,-,116,2,2016/06/21,2017/04/12
+57,Rhizobium sp. N741,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN741b,NZ_CP013597.1,CP013597,314.785,61.6862,300,-,-,-,304,4,2016/06/21,2017/04/12
+57,Rhizobium sp. N741,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN741c,NZ_CP013598.1,CP013598,433.134,57.7902,356,-,-,-,448,92,2016/06/21,2017/04/12
+57,Rhizobium sp. N741,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN741d,NZ_CP013599.1,CP013599,501.077,61.8568,464,-,-,-,481,17,2016/06/21,2017/04/12
+57,Rhizobium sp. N741,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN741e,NZ_CP013600.1,CP013600,752.91,60.9684,671,-,-,-,719,48,2016/06/21,2017/04/12
+58,Rhizobium sp. N871,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN871a,NZ_CP013591.1,CP013591,315.154,61.687,300,-,-,-,303,3,2016/06/21,2017/04/12
+58,Rhizobium sp. N871,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN871b,NZ_CP013592.1,CP013592,433.056,57.7868,362,-,-,-,453,91,2016/06/21,2017/04/12
+58,Rhizobium sp. N871,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN871c,NZ_CP013593.1,CP013593,501.077,61.8576,464,-,-,-,481,17,2016/06/21,2017/04/12
+58,Rhizobium sp. N871,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN871d,NZ_CP013594.1,CP013594,752.94,60.9686,671,-,-,-,719,48,2016/06/21,2017/04/12
+59,Rhizobium sp. N941,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN941a,NZ_CP013644.1,CP013644,300.955,62.1342,289,-,-,-,293,4,2016/06/23,2017/04/13
+59,Rhizobium sp. N941,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN941b,NZ_CP013645.1,CP013645,408.857,60.9873,360,-,-,-,380,20,2016/06/23,2017/04/13
+59,Rhizobium sp. N941,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN941d,NZ_CP013648.1,CP013648,505.351,62.0357,474,-,-,-,496,22,2016/06/23,2017/04/13
+59,Rhizobium sp. N941,Bacteria,Proteobacteria,Alphaproteobacteria,pRspN941e,NZ_CP013649.1,CP013649,661.872,61.3466,578,-,-,-,602,24,2016/06/23,2017/04/13
+60,Rhizobium sp. NT-26,Bacteria,Proteobacteria,Alphaproteobacteria,NT26_p1,NZ_FO082821.1,FO082821,322.264,60.1898,302,-,-,-,323,21,2012/12/16,2017/04/10
+60,Rhizobium sp. NT-26,Bacteria,Proteobacteria,Alphaproteobacteria,NT26_p2,NZ_FO082822.1,FO082822,15.43,62.0933,14,-,-,-,18,4,2012/12/16,2017/04/10
+61,Rhizobium sp. NXC14,Bacteria,Proteobacteria,Alphaproteobacteria,pRspNXC14a,NZ_CP021031.1,CP021031,530.065,58.2257,392,-,-,-,499,107,2017/05/06,2017/05/06
+61,Rhizobium sp. NXC14,Bacteria,Proteobacteria,Alphaproteobacteria,pRspNXC14b,NZ_CP021032.1,CP021032,773.015,61.6238,702,-,-,-,728,26,2017/05/06,2017/05/06
+61,Rhizobium sp. NXC14,Bacteria,Proteobacteria,Alphaproteobacteria,pRspNXC14c,NZ_CP021033.1,CP021033,889.015,60.6859,815,-,-,-,853,38,2017/05/06,2017/05/06
+62,Rhizobium sp. NXC24,Bacteria,Proteobacteria,Alphaproteobacteria,pRspNXC24a,NZ_CP024312.1,CP024312,271.356,58.3123,263,-,-,-,286,23,2018/03/02,2018/03/02
+62,Rhizobium sp. NXC24,Bacteria,Proteobacteria,Alphaproteobacteria,pRspNXC24b,NZ_CP024313.1,CP024313,489.086,56.7796,415,-,-,-,466,51,2018/03/02,2018/03/02
+62,Rhizobium sp. NXC24,Bacteria,Proteobacteria,Alphaproteobacteria,pRspNXC24c,NZ_CP024314.1,CP024314,2379.65,59.0522,2080,-,-,-,2183,103,2018/03/02,2018/03/02
+63,Rhizobium sp. TAL182,Bacteria,Proteobacteria,Alphaproteobacteria,pRetTAL182a,NZ_CP021025.1,CP021025,166.357,61.4203,150,-,-,-,156,6,2017/05/06,2018/12/18
+63,Rhizobium sp. TAL182,Bacteria,Proteobacteria,Alphaproteobacteria,pRetTAL182b,NZ_CP021026.1,CP021026,280.614,61.1563,263,-,-,-,274,11,2017/05/06,2018/12/18
+63,Rhizobium sp. TAL182,Bacteria,Proteobacteria,Alphaproteobacteria,pRetTAL182c,NZ_CP021027.1,CP021027,442.228,57.8959,361,-,-,-,467,106,2017/05/06,2018/12/18
+63,Rhizobium sp. TAL182,Bacteria,Proteobacteria,Alphaproteobacteria,pRetTAL182d,NZ_CP021028.1,CP021028,506.213,61.8198,465,-,-,-,479,14,2017/05/06,2018/12/18
+63,Rhizobium sp. TAL182,Bacteria,Proteobacteria,Alphaproteobacteria,pRetTAL182e,NZ_CP021029.1,CP021029,515.326,61.4555,465,-,-,-,490,25,2017/05/06,2018/12/18
+64,Rhizobium sp. Y9,Bacteria,Proteobacteria,Alphaproteobacteria,pY9,NZ_CP018001.1,CP018001,481.964,57.5885,456,-,-,-,497,41,2017/12/09,2017/12/09

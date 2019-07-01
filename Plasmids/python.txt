@@ -1,0 +1,33 @@
+import sys
+!{sys.executable} -m pip install matplotlib
+
+
+start jupyter notebook
+
+cd jupynote/
+source jupyenv/bin/activate
+jupyter notebook
+
+https://www.ncbi.nlm.nih.gov/genomes/Genome2BE/genome2srv.cgi?action=download&orgn=%22Rhizobium%20leguminosarum%22[orgn]&status=50|40|30|20&report=plasmids&king=All&group=All&subgroup=All&format=undefined
+
+
+https://www.ncbi.nlm.nih.gov/genomes/Genome2BE/genome2srv.cgi?action=download&orgn=%22Rhizobium%22[orgn]&status=50|40|30|20&report=plasmids&king=All&group=All&subgroup=All&format=undefined
+
+
+
+
+
+
+
+Rhizobium etli
+
+
+https://www.ncbi.nlm.nih.gov/genomes/Genome2BE/genome2srv.cgi?action=download&orgn=%22Rhizobium%20etli%22[orgn]&status=50|40|30|20&report=plasmids&king=All&group=All&subgroup=All&format=undefined
+
+Rhizobium sp. NFR12
+
+https://www.ncbi.nlm.nih.gov/genomes/Genome2BE/genome2srv.cgi?action=download&orgn=%22Rhizobium%20%2Esp%20NFR12%22[orgn]&status=50|40|30|20&report=plasmids&king=All&group=All&subgroup=All&format=undefined
+
+https://www.ncbi.nlm.nih.gov/genomes/Genome2BE/genome2srv.cgi?action=download&orgn=%22%22[orgn]&status=50|40|30|20&report=plasmids&king=All&group=All&subgroup=All&format=undefined
+
+https://www.ncbi.nlm.nih.gov/genomes/Genome2BE/genome2srv.cgi?action=download&orgn=%22Rhizobium%22[orgn]&status=50|40|30|20&report=plasmids&king=All&group=All&subgroup=All&format=undefined

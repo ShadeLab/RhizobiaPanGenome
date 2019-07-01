@@ -1,0 +1,28 @@
+#Organism/Name	Kingdom	Group	SubGroup	Plasmid Name	RefSeq	INSDC	Size (Kb)	GC%	Protein	rRNA	tRNA	Other RNA	Gene	Pseudogene	Release Date	Modify Date
+Rhizobium etli	Bacteria	Proteobacteria	Alphaproteobacteria	pRetNXC12a	NZ_CP020907.1	CP020907	182.413	61.7626	165	-	-	-	172	7	2017/05/22	2017/05/22
+Rhizobium etli	Bacteria	Proteobacteria	Alphaproteobacteria	pRetNXC12b	NZ_CP020908.1	CP020908	250.162	61.4981	228	-	-	-	243	15	2017/05/22	2017/05/22
+Rhizobium etli	Bacteria	Proteobacteria	Alphaproteobacteria	pRetNXC12c	NZ_CP020909.1	CP020909	505.136	61.7238	470	-	-	-	485	15	2017/05/22	2017/05/22
+Rhizobium etli	Bacteria	Proteobacteria	Alphaproteobacteria	pRetNXC12d	NZ_CP020910.1	CP020910	543.095	58.2933	396	-	-	-	526	130	2017/05/22	2017/05/22
+Rhizobium etli	Bacteria	Proteobacteria	Alphaproteobacteria	pRetNXC12e	NZ_CP020911.1	CP020911	978.479	60.7395	870	-	-	-	936	66	2017/05/22	2017/05/22
+Rhizobium etli 8C-3	Bacteria	Proteobacteria	Alphaproteobacteria	pRsp8C3a	NZ_CP017242.1	CP017242	430.631	58.6381	337	-	1	-	390	52	2016/12/20	2017/04/06
+Rhizobium etli 8C-3	Bacteria	Proteobacteria	Alphaproteobacteria	pRsp8C3b	NZ_CP017243.1	CP017243	438.379	57.8887	376	-	-	-	445	69	2016/12/20	2017/04/06
+Rhizobium etli 8C-3	Bacteria	Proteobacteria	Alphaproteobacteria	pRsp8C3c	NZ_CP017244.1	CP017244	2253.96	59.2403	2060	-	1	-	2156	95	2016/12/20	2017/04/06
+Rhizobium etli bv. mimosae str. Mim1	Bacteria	Proteobacteria	Alphaproteobacteria	pRetMIM1a	NC_021906.1	CP005951	181.313	61.7799	165	-	-	-	172	7	2013/08/02	2017/04/01
+Rhizobium etli bv. mimosae str. Mim1	Bacteria	Proteobacteria	Alphaproteobacteria	pRetMIM1b	NC_021907.1	CP005952	252.689	61.529	224	-	-	-	242	18	2013/08/02	2017/04/01
+Rhizobium etli bv. mimosae str. Mim1	Bacteria	Proteobacteria	Alphaproteobacteria	pRetMIM1d	NC_021908.1	CP005954	512.054	61.632	476	-	-	-	497	21	2013/08/02	2017/04/01
+Rhizobium etli bv. mimosae str. Mim1	Bacteria	Proteobacteria	Alphaproteobacteria	pRetMIM1e	NC_021909.1	CP005955	615.363	57.9396	491	-	-	-	579	88	2013/08/02	2017/04/01
+Rhizobium etli bv. mimosae str. Mim1	Bacteria	Proteobacteria	Alphaproteobacteria	pRetNIM1c	NC_021910.1	CP005953	269.426	58.3644	234	-	-	-	254	20	2013/08/02	2017/04/01
+Rhizobium etli bv. mimosae str. Mim1	Bacteria	Proteobacteria	Alphaproteobacteria	pRetMIM1f	NC_021911.1	CP005956	1082.66	60.513	955	-	-	-	1028	73	2013/08/02	2017/04/01
+Rhizobium etli bv. phaseoli str. IE4803	Bacteria	Proteobacteria	Alphaproteobacteria	pRetIE4803a	NZ_CP007642.1	CP007642	445.194	62.1671	412	-	-	-	419	7	2015/01/21	2017/04/03
+Rhizobium etli bv. phaseoli str. IE4803	Bacteria	Proteobacteria	Alphaproteobacteria	pRetIE4803b	NZ_CP007643.1	CP007643	499.136	57.874	384	-	-	-	521	137	2015/01/21	2017/04/03
+Rhizobium etli bv. phaseoli str. IE4803	Bacteria	Proteobacteria	Alphaproteobacteria	pRetIE4803c	NZ_CP007644.1	CP007644	711.724	61.1522	637	-	-	-	654	17	2015/01/21	2017/04/03
+Rhizobium etli bv. phaseoli str. IE4803	Bacteria	Proteobacteria	Alphaproteobacteria	pRetIE4803d	NZ_CP007645.1	CP007645	742.914	60.6337	648	-	-	-	699	51	2015/01/21	2017/04/03
+Rhizobium etli CFN 42	Bacteria	Proteobacteria	Alphaproteobacteria	symbiotic plasmid p42d	NC_004041.2	U80928	371.254	57.8159	326	-	-	-	396	70	1997/08/20	2017/05/19
+Rhizobium etli CFN 42	Bacteria	Proteobacteria	Alphaproteobacteria	p42a	NC_007762.1	CP000134	194.229	58.0027	143	-	-	-	204	61	2006/02/02	2017/05/19
+Rhizobium etli CFN 42	Bacteria	Proteobacteria	Alphaproteobacteria	p42b	NC_007763.1	CP000135	184.338	61.8071	163	-	-	-	172	9	2006/02/02	2017/05/19
+Rhizobium etli CFN 42	Bacteria	Proteobacteria	Alphaproteobacteria	p42c	NC_007764.1	CP000136	250.948	61.5179	232	-	-	-	247	15	2006/02/02	2017/05/19
+Rhizobium etli CFN 42	Bacteria	Proteobacteria	Alphaproteobacteria	p42e	NC_007765.1	CP000137	505.334	61.6667	469	-	-	-	487	18	2006/02/02	2017/05/19
+Rhizobium etli CFN 42	Bacteria	Proteobacteria	Alphaproteobacteria	p42f	NC_007766.1	CP000138	642.517	61.2192	592	-	-	-	628	36	2006/02/02	2017/05/19
+Rhizobium etli CIAT 652	Bacteria	Proteobacteria	Alphaproteobacteria	pB	NC_010996.1	CP001076	429.111	57.7594	357	-	-	-	442	85	2008/06/20	2017/05/19
+Rhizobium etli CIAT 652	Bacteria	Proteobacteria	Alphaproteobacteria	pC	NC_010997.1	CP001077	1091.52	60.8908	974	-	-	-	1019	45	2008/06/20	2017/05/19
+Rhizobium etli CIAT 652	Bacteria	Proteobacteria	Alphaproteobacteria	pA	NC_010998.1	CP001075	414.09	62.2203	379	-	-	-	393	14	2008/06/20	2017/05/19

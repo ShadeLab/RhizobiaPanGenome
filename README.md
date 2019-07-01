@@ -290,3 +290,31 @@ nifH gene to genome information was added to genematches.csv
 98 matches were found
 
 nodC gene to genome information was added to genematches.csv
+
+
+
+#4/16/19 update 
+Much has been done since last updated but not documented here or pushed to the git repository. 
+
+##MLSa phylogenetic tree creation 
+After locating gene matches within the database using improved reference files, it was found the 250 of the 264 genomes were found to have all 6 of the housekeeping genes of interest. After alignment and removal of short sequences in MEGA, it was possible to include all but 16srRNA and still have 240 genomes. With the inclusion of 16srRNA, this number was lowered to below 230 due to many of the 250 sequences having short 16srRNA genes. 
+
+Two MLSas were produced, one with all 6 genes and another without 16srRNA that only had 5 genes but more total genomes. It was intended that phylogenetic trees were to produced with both of these concetanations to see if inclusion of 16srRNA would provide a higher enough level of improvement to confidence that it justified removing 10-20 genomes from the MLSa, but a phylogenetic tree was only produced for the 5 gene MLSa without 16srRNA due to shortness of time before UURAF. 
+
+The 5 gene MLSa was realigned in MEGA before passing it into MEGAs phylolgenetic tree creation. The phylogenetic tree was calculated using the neighbor joining method and was done for 1000 iterations to provide bootstrapping values. 
+
+The tree was exported with bootstrapping and distance values in newick format.
+
+The tree was read into itol for better visualization and annotation. There were 2 genomes on the tree that had a very high relative distance. The genomes for these trees will be looked at later to see if a low quality sequence for a gene in the MLSa is causing higher distance than intended.
+
+
+Base pair length of each genome as well as marks for full completedness as included in the metadata were annotated onto the phylogeneteic tree. Presence of nifH and nodC as documented in genematches.csv were then placed. Species classification for the plants the sequenced Rhizobium were isolated from was also available in the metadata and was annotated onto the tree. The family classification for the plant species was also provided through a color bar and a corresponding legend (there were only 4 different family classifications). 6 genomes were not present in the metadata so did not have any annotations. These information for these genomes were later located but not in time for inclusion on the phylogenetic tree used on the UURAF poster.
+
+
+##OTU classification comparison
+
+
+
+
+blastn -db allspeciesref -query fullquery.txt -perc_identity 100 -outfmt 6 -out allspeciesout2.txt
+

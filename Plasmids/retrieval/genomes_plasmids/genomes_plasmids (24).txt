@@ -1,0 +1,61 @@
+#Organism/Name	Kingdom	Group	SubGroup	Plasmid Name	RefSeq	INSDC	Size (Kb)	GC%	Protein	rRNA	tRNA	Other RNA	Gene	Pseudogene	Release Date	Modify Date
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN261a	NZ_CP013581.1	CP013581	349.796	61.9272	332	-	-	-	339	7	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN261b	NZ_CP013582.1	CP013582	427.855	62.2695	393	-	-	-	398	5	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN261c	NZ_CP013583.1	CP013583	429.574	58.0561	360	-	-	-	440	80	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN261d	NZ_CP013584.1	CP013584	1074.79	60.9539	977	-	-	-	1027	50	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN831a	NZ_CP013564.1	CP013564	340.631	61.726	326	-	-	-	332	6	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN831b	NZ_CP013565.1	CP013565	431.484	62.1316	399	-	-	-	412	13	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN831c	NZ_CP013566.1	CP013566	453.258	57.884	375	-	-	-	457	82	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN831d	NZ_CP013567.1	CP013567	1165.89	61.142	1061	-	-	-	1123	62	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN161a	NZ_CP013586.1	CP013586	354.689	61.8003	335	-	-	-	339	4	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN161b	NZ_CP013587.1	CP013587	395.855	57.9629	335	-	-	-	408	73	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN161c	NZ_CP013588.1	CP013588	407.297	62.354	371	-	-	-	380	9	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN161d	NZ_CP013589.1	CP013589	1048.06	61.2018	935	-	-	-	991	56	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR744a	NZ_CP013523.1	CP013523	256.181	57.8411	206	-	-	-	226	20	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR744b	NZ_CP013524.1	CP013524	343.4	61.7568	325	-	-	-	332	7	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR744c	NZ_CP013525.1	CP013525	407.814	62.3066	371	-	-	-	380	9	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR744d	NZ_CP013526.1	CP013526	1195.49	60.9807	1093	-	-	-	1158	65	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR630a	NZ_CP013538.1	CP013538	344.843	61.8438	328	-	-	-	333	5	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR630b	NZ_CP013539.1	CP013539	421.824	62.2532	376	-	-	-	389	13	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR630c	NZ_CP013540.1	CP013540	442.592	58.0354	365	-	1	-	447	81	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR630d	NZ_CP013541.1	CP013541	1144.41	60.9175	1027	-	-	-	1076	49	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR723a	NZ_CP013528.1	CP013528	349.793	61.9278	332	-	-	-	339	7	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR723b	NZ_CP013529.1	CP013529	427.855	62.2704	392	-	-	-	397	5	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR723c	NZ_CP013530.1	CP013530	429.574	58.0571	360	-	-	-	440	80	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR723d	NZ_CP013531.1	CP013531	1074.8	60.9539	979	-	-	-	1028	49	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR620a	NZ_CP013543.1	CP013543	356.39	61.7318	334	-	-	-	342	8	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR620b	NZ_CP013544.1	CP013544	355.825	57.9251	319	-	-	-	379	60	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR620c	NZ_CP013545.1	CP013545	413.449	62.3322	385	-	-	-	390	5	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR620d	NZ_CP013546.1	CP013546	1080.73	61.0764	974	-	-	-	1026	52	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN931a	NZ_CP013553.1	CP013553	340.631	61.7266	325	-	-	-	331	6	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN931b	NZ_CP013554.1	CP013554	431.484	62.1312	398	-	-	-	411	13	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN931c	NZ_CP013555.1	CP013555	453.545	57.8833	375	-	-	-	456	81	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN931d	NZ_CP013556.1	CP013556	1165.89	61.142	1060	-	-	-	1122	62	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN671a	NZ_CP013575.1	CP013575	96.338	56.6329	119	-	-	-	122	3	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN671b	NZ_CP013576.1	CP013576	352.133	61.7619	332	-	-	-	337	5	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN671c	NZ_CP013577.1	CP013577	414.617	62.3397	385	-	-	-	392	7	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN671d	NZ_CP013578.1	CP013578	459.642	57.9553	392	-	-	-	469	77	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN671e	NZ_CP013579.1	CP013579	1189.37	60.888	1080	-	-	-	1156	76	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR650a	NZ_CP013533.1	CP013533	352.129	61.7603	331	-	-	-	337	6	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR650b	NZ_CP013534.1	CP013534	413.457	62.3308	386	-	-	-	390	4	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR650c	NZ_CP013535.1	CP013535	435.286	58.0333	363	-	-	-	441	78	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaR650d	NZ_CP013536.1	CP013536	990.934	61.2316	891	-	-	-	933	42	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN771a	NZ_CP013569.1	CP013569	96.338	56.6329	118	-	-	-	121	3	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN771b	NZ_CP013570.1	CP013570	352.133	61.7622	332	-	-	-	337	5	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN771c	NZ_CP013571.1	CP013571	414.617	62.3404	385	-	-	-	392	7	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN671d	NZ_CP013572.1	CP013572	459.642	57.9553	392	-	-	-	469	77	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN771e	NZ_CP013573.1	CP013573	1189.37	60.8878	1079	-	-	-	1155	76	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN841a	NZ_CP013558.1	CP013558	81.923	56.9425	100	-	-	-	101	1	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN841b	NZ_CP013559.1	CP013559	351.351	61.6913	335	-	-	-	340	5	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN841c	NZ_CP013560.1	CP013560	407.882	62.256	372	-	-	-	377	5	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN841d	NZ_CP013561.1	CP013561	433.209	57.9277	367	-	-	-	448	81	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaN841e	NZ_CP013562.1	CP013562	1201.42	60.8432	1103	-	-	-	1177	74	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRetR611a	NZ_CP013548.1	CP013548	352.129	61.7595	331	-	-	-	337	6	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRetR611b	NZ_CP013549.1	CP013549	413.457	62.3305	386	-	-	-	390	4	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRetR611c	NZ_CP013550.1	CP013550	414.08	58.1296	341	-	-	-	418	77	2016/06/21	2017/04/05
+Rhizobium phaseoli	Bacteria	Proteobacteria	Alphaproteobacteria	pRetR611d	NZ_CP013551.1	CP013551	990.934	61.2316	891	-	-	-	933	42	2016/06/21	2017/04/05
+Rhizobium phaseoli Brasil 5	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaBra5a	NZ_CP020897.1	CP020897	262.16	61.9934	246	-	-	-	260	14	2017/04/27	2018/12/18
+Rhizobium phaseoli Brasil 5	Bacteria	Proteobacteria	Alphaproteobacteria	pRetBra5b	NZ_CP020898.1	CP020898	392.817	58.0611	314	-	-	-	394	80	2017/04/27	2018/12/18
+Rhizobium phaseoli Brasil 5	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaBra5c	NZ_CP020899.1	CP020899	439.779	62.2008	406	-	-	-	419	13	2017/04/27	2018/12/18
+Rhizobium phaseoli Brasil 5	Bacteria	Proteobacteria	Alphaproteobacteria	pRphaBra5d	NZ_CP020900.1	CP020900	1144.01	60.9397	1027	-	-	-	1093	66	2017/04/27	2018/12/18
+Rhizobium phaseoli Ch24-10	Bacteria	Proteobacteria	Alphaproteobacteria	pRphCh2410a	NZ_CM003278.1	CM003278	367.697	61.7818	343	-	-	-	351	8	2015/05/20	2017/04/03

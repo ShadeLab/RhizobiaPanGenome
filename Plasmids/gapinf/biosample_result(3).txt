@@ -1,0 +1,15 @@
+1: Genomic DNA from Rhizobium leguminosarum
+Identifiers: BioSample: SAMN09255527; Sample name: RL ATCC 14479; SRA: SRS3381404
+Organism: Rhizobium leguminosarum
+Attributes:
+    /strain="ATCC 14479"
+    /host="Not applicable"
+    /collection date="2018"
+    /geographic location="Not applicable"
+    /sample type="Genomic DNA from Bacterial pure culture"
+    /culture collection="ATCC:14479"
+Description:
+Rhizobium leguminosarum ATCC 14479 was obtained from the American Type Culture Collection. It was isolated at Arlington Farms, VA and is most effective on the red clover, Trifolium praetense.
+Accession: SAMN09255527	ID: 9255527
+
+

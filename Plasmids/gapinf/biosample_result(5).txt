@@ -1,0 +1,35 @@
+1: Microbe sample of Rhizobium leguminosarum symbiovar viciae from CSIR-Institute of Himalayan Bioresource Technology
+Identifiers: BioSample: SAMN07414824; Sample name: Rhizobium leguminosarum symbiovar viciae
+Organism: Rhizobium leguminosarum bv. viciae
+Attributes:
+    /strain="BIHB 1217"
+    /isolate="not applicable"
+    /host="not applicable"
+    /isolation source="root nodules"
+    /collection date="sep-2005"
+    /geographic location="India:Khoksar, Lahual &amp; Spiti Valley"
+    /sample type="single cell"
+    /altitude="3134 m"
+    /biomaterial provider="Dr. Arvind Gulati"
+    /collected by="Praveen Rahi"
+    /culture collection="MCC:2256"
+    /depth="10CM"
+    /broad-scale environmental context="Rhizosphere"
+    /genotype="not applicable"
+    /host tissue sampled="not applicable"
+    /identified by="Praveen Rahi"
+    /lab host="CSIR-IHBT"
+    /latitude and longitude="32.24 N 77.14 E"
+    /mating type="not applicable"
+    /passage history="10"
+    /sample size="not applicable"
+    /serotype="not applicable"
+    /serovar="not applicable"
+    /specimen voucher="not applicable"
+    /temperature="16 DEG C"
+    /biovar="viciae"
+Description:
+Plant growth promoting nitrogen-fixing microbial inoculant for pea
+Accession: SAMN07414824	ID: 7414824
+
+

@@ -1,0 +1,1060 @@
+
+1. Rhizobium etli CFN 42 plasmid p42a, complete sequence
+194,229 bp circular DNA 
+NC_007762.1 GI:86359705
+
+2. Rhizobium etli CFN 42 plasmid p42b, complete sequence
+184,338 bp circular DNA 
+NC_007763.1 GI:86359881
+
+3. Rhizobium etli CFN 42 plasmid p42c, complete sequence
+250,948 bp circular DNA 
+NC_007764.1 GI:86360045
+
+4. Rhizobium etli CFN 42 plasmid p42e, complete sequence
+505,334 bp circular DNA 
+NC_007765.1 GI:86360278
+
+5. Rhizobium etli CFN 42 plasmid p42f, complete sequence
+642,517 bp circular DNA 
+NC_007766.1 GI:86360734
+
+6. Rhizobium etli CFN 42 plasmid symbiotic plasmid p42d, complete sequence
+371,254 bp circular DNA 
+NC_004041.2 GI:89255298
+
+7. Rhizobium leguminosarum bv. viciae plasmid pRL12 complete genome, strain 3841
+870,021 bp circular DNA 
+NC_008378.1 GI:116248676
+
+8. Rhizobium leguminosarum bv. viciae plasmid pRL9 complete genome, strain 3841
+352,782 bp circular DNA 
+NC_008379.1 GI:116249460
+
+9. Rhizobium leguminosarum bv. viciae plasmid pRL10 complete genome, strain 3841
+488,135 bp circular DNA 
+NC_008381.1 GI:116254467
+
+10. Rhizobium leguminosarum bv. viciae plasmid pRL7 complete genome, strain 3841
+151,564 bp circular DNA 
+NC_008382.1 GI:116254910
+
+11. Rhizobium leguminosarum bv. viciae plasmid pRL8 complete genome, strain 3841
+147,463 bp circular DNA 
+NC_008383.1 GI:116255067
+
+12. Rhizobium leguminosarum bv. viciae plasmid pRL11 complete genome, strain 3841
+684,202 bp circular DNA 
+NC_008384.1 GI:116255200
+
+13. Rhizobium etli CIAT 652 plasmid pB, complete sequence
+429,111 bp circular DNA 
+NC_010996.1 GI:190893983
+
+14. Rhizobium etli CIAT 652 plasmid pC, complete sequence
+1,091,523 bp circular DNA 
+NC_010997.1 GI:190894340
+
+15. Rhizobium etli CIAT 652 plasmid pA, complete sequence
+414,090 bp circular DNA 
+NC_010998.1 GI:190895317
+
+16. Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG202, complete sequence
+501,946 bp circular DNA 
+NC_011366.1 GI:209545999
+
+17. Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG201, complete sequence
+1,266,105 bp circular DNA 
+NC_011368.1 GI:209546450
+
+18. Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG203, complete sequence
+308,747 bp circular DNA 
+NC_011370.1 GI:209551938
+
+19. Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG204, complete sequence
+257,956 bp circular DNA 
+NC_011371.1 GI:209552195
+
+20. Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132501, complete sequence
+828,924 bp circular DNA 
+NC_012848.1 GI:241113003
+
+21. Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132504, complete sequence
+350,312 bp circular DNA 
+NC_012852.1 GI:241258599
+
+22. Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132503, complete sequence
+516,088 bp circular DNA 
+NC_012853.1 GI:241518161
+
+23. Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132505, complete sequence
+294,782 bp circular DNA 
+NC_012854.1 GI:241554070
+
+24. Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132502, complete sequence
+660,973 bp circular DNA 
+NC_012858.1 GI:241666492
+
+25. Rhizobium tropici CIAT 899 plasmid pRtrCIAT899b, complete sequence
+549,467 bp circular DNA 
+NC_020061.1 GI:440222456
+
+26. Rhizobium tropici CIAT 899 plasmid pRtrCIAT899c, complete sequence
+2,083,197 bp circular DNA 
+NC_020062.1 GI:440222965
+
+27. Rhizobium tropici CIAT 899 plasmid pRtrCIAT899a, complete sequence
+216,610 bp circular DNA 
+NC_020060.1 GI:440228565
+
+28. Rhizobium freirei PRF 81 plasmid pPRF81a, whole genome shotgun sequence
+144,790 bp circular DNA 
+NZ_AQHN01000095.1 GI:490231263
+
+29. Rhizobium freirei PRF 81 plasmid pPRF81b, whole genome shotgun sequence
+176,070 bp circular DNA 
+NZ_AQHN01000096.1 GI:490231777
+
+30. Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1a, complete sequence
+181,313 bp circular DNA 
+NC_021906.1 GI:528830926
+
+31. Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1b, complete sequence
+252,689 bp circular DNA 
+NC_021907.1 GI:528831098
+
+32. Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1d, complete sequence
+512,054 bp circular DNA 
+NC_021908.1 GI:528832486
+
+33. Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1e, complete sequence
+615,363 bp circular DNA 
+NC_021909.1 GI:528834105
+
+34. Rhizobium etli bv. mimosae str. Mim1 plasmid pRetNIM1c, complete sequence
+269,426 bp circular DNA 
+NC_021910.1 GI:528835310
+
+35. Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1f, complete sequence
+1,082,659 bp circular DNA 
+NC_021911.1 GI:528837521
+
+36. Rhizobium sp. IRBG74 plasmid IRBL74_p, complete sequence
+584,965 bp circular DNA 
+NC_022536.1 GI:549707555
+
+37. Rhizobium etli bv. phaseoli str. IE4803 plasmid pRetIE4803a, complete sequence
+445,194 bp circular DNA 
+NZ_CP007642.1 GI:749199013
+
+38. Rhizobium etli bv. phaseoli str. IE4803 plasmid pRetIE4803b, complete sequence
+499,136 bp circular DNA 
+NZ_CP007643.1 GI:749199303
+
+39. Rhizobium etli bv. phaseoli str. IE4803 plasmid pRetIE4803c, complete sequence
+711,724 bp circular DNA 
+NZ_CP007644.1 GI:749199937
+
+40. Rhizobium etli bv. phaseoli str. IE4803 plasmid pRetIE4803d, complete sequence
+742,914 bp circular DNA 
+NZ_CP007645.1 GI:749200541
+
+41. Rhizobium sp. IE4771 plasmid pRetIE4771a, complete sequence
+244,771 bp circular DNA 
+NZ_CP006987.1 GI:749316165
+
+42. Rhizobium sp. IE4771 plasmid pRetIE4771b, complete sequence
+393,846 bp circular DNA 
+NZ_CP006988.1 GI:749316728
+
+43. Rhizobium sp. IE4771 plasmid pRetIE4771c, complete sequence
+470,125 bp circular DNA 
+NZ_CP006989.1 GI:749317405
+
+44. Rhizobium sp. IE4771 plasmid pRetIE4771d, complete sequence
+729,172 bp circular DNA 
+NZ_CP006990.1 GI:749318574
+
+45. Rhizobium sp. IE4771 plasmid pRetIE4771e, complete sequence
+744,104 bp circular DNA 
+NZ_CP006991.1 GI:749320237
+
+46. Rhizobium sp. LPU83 plasmid pLPU83a complete sequence
+151,687 bp circular DNA 
+NZ_HG916853.1 GI:750398865
+
+47. Rhizobium sp. LPU83 plasmid pLPU83c, complete sequence
+759,787 bp circular DNA 
+NZ_HG916854.1 GI:750398950
+
+48. Rhizobium sp. LPU83 plasmid pLPU83d complete sequence
+1,932,030 bp circular DNA 
+NZ_HG916855.1 GI:750399151
+
+49. Rhizobium leguminosarum bv. trifolii WSM1689 plasmid, complete sequence
+667,306 bp circular DNA 
+NZ_CP007046.1 GI:752843597
+
+50. Rhizobium leguminosarum bv. trifolii WSM1689 plasmid, complete sequence
+518,052 bp circular DNA 
+NZ_CP007047.1 GI:752843628
+
+51. Rhizobium leguminosarum bv. trifolii WSM1689 plasmid, complete sequence
+341,391 bp circular DNA 
+NZ_CP007048.1 GI:752843668
+
+52. Rhizobium leguminosarum bv. trifolii WSM1689 plasmid, complete sequence
+262,704 bp circular DNA 
+NZ_CP007049.1 GI:752843684
+
+53. Rhizobium leguminosarum bv. trifolii WSM1689 plasmid, complete sequence
+259,408 bp circular DNA 
+NZ_CP007050.1 GI:752843695
+
+54. Rhizobium leguminosarum bv. trifolii CB782 plasmid, complete sequence
+1,563,772 bp circular DNA 
+NZ_CP007068.1 GI:754031321
+
+55. Rhizobium leguminosarum bv. trifolii CB782 plasmid, complete sequence
+509,829 bp circular DNA 
+NZ_CP007069.1 GI:754031485
+
+56. Rhizobium leguminosarum bv. trifolii CB782 plasmid, complete sequence
+251,612 bp circular DNA 
+NZ_CP007070.1 GI:754031643
+
+57. Rhizobium phaseoli Ch24-10 plasmid pRphCh2410a, whole genome shotgun sequence
+367,697 bp circular DNA 
+NZ_CM003278.1 GI:822549900
+
+58. Rhizobium sp. NT-26 plasmid NT26_p1, complete genome
+322,264 bp circular DNA 
+NZ_FO082821.1 GI:918950561
+
+59. Rhizobium sp. NT-26 plasmid NT26_p2, complete genome
+15,430 bp circular DNA 
+NZ_FO082822.1 GI:918950573
+
+60. Rhizobium sp. N731 plasmid pRspN731a, complete sequence
+162,302 bp circular DNA 
+NZ_CP013602.1 GI:1039445955
+
+61. Rhizobium sp. N731 plasmid pRspN731b, complete sequence
+336,117 bp circular DNA 
+NZ_CP013603.1 GI:1039445967
+
+62. Rhizobium sp. N731 plasmid pRspN731c, complete sequence
+433,219 bp circular DNA 
+NZ_CP013604.1 GI:1039445983
+
+63. Rhizobium sp. N731 plasmid pRspN731d, complete sequence
+488,789 bp circular DNA 
+NZ_CP013605.1 GI:1039445995
+
+64. Rhizobium sp. N731 plasmid pRspN731e, complete sequence
+506,687 bp circular DNA 
+NZ_CP013606.1 GI:1039446006
+
+65. Rhizobium sp. N621 plasmid pRspN621a, complete sequence
+315,154 bp circular DNA 
+NZ_CP013496.1 GI:1039473638
+
+66. Rhizobium sp. N621 plasmid pRspN621b, complete sequence
+439,584 bp circular DNA 
+NZ_CP013497.1 GI:1039473658
+
+67. Rhizobium sp. N621 plasmid pRspN621c, complete sequence
+501,077 bp circular DNA 
+NZ_CP013498.1 GI:1039473677
+
+68. Rhizobium sp. N621 plasmid pRspN621d, complete sequence
+742,499 bp circular DNA 
+NZ_CP013499.1 GI:1039473698
+
+69. Rhizobium sp. N6212 plasmid pRspN6212a, complete sequence
+315,154 bp circular DNA 
+NZ_CP013491.1 GI:1039475494
+
+70. Rhizobium sp. N6212 plasmid pRspN6212b, complete sequence
+438,384 bp circular DNA 
+NZ_CP013492.1 GI:1039475521
+
+71. Rhizobium sp. N6212 plasmid pRspN6212c, complete sequence
+501,077 bp circular DNA 
+NZ_CP013493.1 GI:1039475552
+
+72. Rhizobium sp. N6212 plasmid pRspN6212d, complete sequence
+742,499 bp circular DNA 
+NZ_CP013494.1 GI:1039475586
+
+73. Rhizobium sp. N1314 plasmid pRspN1314a, complete sequence
+162,302 bp circular DNA 
+NZ_CP013512.1 GI:1039476695
+
+74. Rhizobium sp. N1314 plasmid pRspN1314b, complete sequence
+336,117 bp circular DNA 
+NZ_CP013513.1 GI:1039476702
+
+75. Rhizobium sp. N1314 plasmid pRspN1314c, complete sequence
+433,217 bp circular DNA 
+NZ_CP013514.1 GI:1039476715
+
+76. Rhizobium sp. N1314 plasmid pRspN1314d, complete sequence
+488,795 bp circular DNA 
+NZ_CP013515.1 GI:1039476727
+
+77. Rhizobium sp. N1314 plasmid pRspN1314e, complete sequence
+506,687 bp circular DNA 
+NZ_CP013516.1 GI:1039476743
+
+78. Rhizobium sp. N1341 plasmid pRspN1341a, complete sequence
+80,368 bp circular DNA 
+NZ_CP013506.1 GI:1039477909
+
+79. Rhizobium sp. N1341 plasmid pRspN1341b, complete sequence
+314,785 bp circular DNA 
+NZ_CP013507.1 GI:1039477917
+
+80. Rhizobium sp. N1341 plasmid pRspN1341c, complete sequence
+434,334 bp circular DNA 
+NZ_CP013508.1 GI:1039477929
+
+81. Rhizobium sp. N1341 plasmid pRspN1341d, complete sequence
+501,077 bp circular DNA 
+NZ_CP013509.1 GI:1039477946
+
+82. Rhizobium sp. N1341 plasmid pRspN1341e, complete sequence
+751,351 bp circular DNA 
+NZ_CP013510.1 GI:1039477971
+
+83. Rhizobium sp. N113 plasmid pRspN113a, complete sequence
+315,151 bp circular DNA 
+NZ_CP013518.1 GI:1039478654
+
+84. Rhizobium sp. N113 plasmid pRspN113b, complete sequence
+435,821 bp circular DNA 
+NZ_CP013519.1 GI:1039478658
+
+85. Rhizobium sp. N113 plasmid pRspN113c, complete sequence
+501,077 bp circular DNA 
+NZ_CP013520.1 GI:1039478667
+
+86. Rhizobium sp. N113 plasmid pRspN113d, complete sequence
+755,598 bp circular DNA 
+NZ_CP013521.1 GI:1039478675
+
+87. Rhizobium phaseoli strain N261 plasmid pRphaN261a, complete sequence
+349,796 bp circular DNA 
+NZ_CP013581.1 GI:1039482926
+
+88. Rhizobium phaseoli strain N261 plasmid pRphaN261b, complete sequence
+427,855 bp circular DNA 
+NZ_CP013582.1 GI:1039482927
+
+89. Rhizobium phaseoli strain N261 plasmid pRphaN261c, complete sequence
+429,574 bp circular DNA 
+NZ_CP013583.1 GI:1039482928
+
+90. Rhizobium phaseoli strain N261 plasmid pRphaN261d, complete sequence
+1,074,794 bp circular DNA 
+NZ_CP013584.1 GI:1039482929
+
+91. Rhizobium phaseoli strain N831 plasmid pRphaN831a, complete sequence
+340,631 bp circular DNA 
+NZ_CP013564.1 GI:1039487306
+
+92. Rhizobium phaseoli strain N831 plasmid pRphaN831b, complete sequence
+431,484 bp circular DNA 
+NZ_CP013565.1 GI:1039487307
+
+93. Rhizobium phaseoli strain N831 plasmid pRphaN831c, complete sequence
+453,258 bp circular DNA 
+NZ_CP013566.1 GI:1039487308
+
+94. Rhizobium phaseoli strain N831 plasmid pRphaN831d, complete sequence
+1,165,895 bp circular DNA 
+NZ_CP013567.1 GI:1039487309
+
+95. Rhizobium esperanzae strain N561 plasmid pRspN561a, complete sequence
+315,151 bp circular DNA 
+NZ_CP013501.1 GI:1039487689
+
+96. Rhizobium esperanzae strain N561 plasmid pRspN561b, complete sequence
+433,056 bp circular DNA 
+NZ_CP013502.1 GI:1039487690
+
+97. Rhizobium esperanzae strain N561 plasmid pRspN561c, complete sequence
+501,077 bp circular DNA 
+NZ_CP013503.1 GI:1039487691
+
+98. Rhizobium esperanzae strain N561 plasmid pRspN561d, complete sequence
+752,940 bp circular DNA 
+NZ_CP013504.1 GI:1039487692
+
+99. Rhizobium phaseoli strain R620 plasmid pRphaR620a, complete sequence
+356,390 bp circular DNA 
+NZ_CP013543.1 GI:1039489561
+
+100. Rhizobium phaseoli strain R620 plasmid pRphaR620b, complete sequence
+355,825 bp circular DNA 
+NZ_CP013544.1 GI:1039489562
+
+101. Rhizobium phaseoli strain R620 plasmid pRphaR620c, complete sequence
+413,449 bp circular DNA 
+NZ_CP013545.1 GI:1039489563
+
+102. Rhizobium phaseoli strain R620 plasmid pRphaR620d, complete sequence
+1,080,727 bp circular DNA 
+NZ_CP013546.1 GI:1039489564
+
+103. Rhizobium phaseoli strain R630 plasmid pRphaR630a, complete sequence
+344,843 bp circular DNA 
+NZ_CP013538.1 GI:1039493184
+
+104. Rhizobium phaseoli strain R630 plasmid pRphaR630b, complete sequence
+421,824 bp circular DNA 
+NZ_CP013539.1 GI:1039493185
+
+105. Rhizobium phaseoli strain R630 plasmid pRphaR630c, complete sequence
+442,592 bp circular DNA 
+NZ_CP013540.1 GI:1039493186
+
+106. Rhizobium phaseoli strain R630 plasmid pRphaR630d, complete sequence
+1,144,409 bp circular DNA 
+NZ_CP013541.1 GI:1039493187
+
+107. Rhizobium phaseoli strain R650 plasmid pRphaR650a, complete sequence
+352,129 bp circular DNA 
+NZ_CP013533.1 GI:1039493674
+
+108. Rhizobium phaseoli strain R650 plasmid pRphaR650b, complete sequence
+413,457 bp circular DNA 
+NZ_CP013534.1 GI:1039493675
+
+109. Rhizobium phaseoli strain R650 plasmid pRphaR650c, complete sequence
+435,286 bp circular DNA 
+NZ_CP013535.1 GI:1039493676
+
+110. Rhizobium phaseoli strain R650 plasmid pRphaR650d, complete sequence
+990,934 bp circular DNA 
+NZ_CP013536.1 GI:1039493677
+
+111. Rhizobium phaseoli strain R723 plasmid pRphaR723a, complete sequence
+349,793 bp circular DNA 
+NZ_CP013528.1 GI:1039493875
+
+112. Rhizobium phaseoli strain R723 plasmid pRphaR723b, complete sequence
+427,855 bp circular DNA 
+NZ_CP013529.1 GI:1039493876
+
+113. Rhizobium phaseoli strain R723 plasmid pRphaR723c, complete sequence
+429,574 bp circular DNA 
+NZ_CP013530.1 GI:1039493877
+
+114. Rhizobium phaseoli strain R723 plasmid pRphaR723d, complete sequence
+1,074,795 bp circular DNA 
+NZ_CP013531.1 GI:1039493878
+
+115. Rhizobium phaseoli strain N841 plasmid pRphaN841a, complete sequence
+81,923 bp circular DNA 
+NZ_CP013558.1 GI:1039496263
+
+116. Rhizobium phaseoli strain N841 plasmid pRphaN841b, complete sequence
+351,351 bp circular DNA 
+NZ_CP013559.1 GI:1039496270
+
+117. Rhizobium phaseoli strain N841 plasmid pRphaN841c, complete sequence
+407,882 bp circular DNA 
+NZ_CP013560.1 GI:1039496280
+
+118. Rhizobium phaseoli strain N841 plasmid pRphaN841d, complete sequence
+433,209 bp circular DNA 
+NZ_CP013561.1 GI:1039496290
+
+119. Rhizobium phaseoli strain N841 plasmid pRphaN841e, complete sequence
+1,201,422 bp circular DNA 
+NZ_CP013562.1 GI:1039496306
+
+120. Rhizobium phaseoli strain N671 plasmid pRphaN671a, complete sequence
+96,338 bp circular DNA 
+NZ_CP013575.1 GI:1039496433
+
+121. Rhizobium phaseoli strain N671 plasmid pRphaN671b, complete sequence
+352,133 bp circular DNA 
+NZ_CP013576.1 GI:1039496434
+
+122. Rhizobium phaseoli strain N671 plasmid pRphaN671c, complete sequence
+414,617 bp circular DNA 
+NZ_CP013577.1 GI:1039496440
+
+123. Rhizobium phaseoli strain N671 plasmid pRphaN671d, complete sequence
+459,642 bp circular DNA 
+NZ_CP013578.1 GI:1039496447
+
+124. Rhizobium phaseoli strain N671 plasmid pRphaN671e, complete sequence
+1,189,373 bp circular DNA 
+NZ_CP013579.1 GI:1039496454
+
+125. Rhizobium phaseoli strain R611 plasmid pRetR611a, complete sequence
+352,129 bp circular DNA 
+NZ_CP013548.1 GI:1039496919
+
+126. Rhizobium phaseoli strain R611 plasmid pRetR611b, complete sequence
+413,457 bp circular DNA 
+NZ_CP013549.1 GI:1039496920
+
+127. Rhizobium phaseoli strain R611 plasmid pRetR611c, complete sequence
+414,080 bp circular DNA 
+NZ_CP013550.1 GI:1039496921
+
+128. Rhizobium phaseoli strain R611 plasmid pRetR611d, complete sequence
+990,934 bp circular DNA 
+NZ_CP013551.1 GI:1039496928
+
+129. Rhizobium phaseoli strain N161 plasmid pRphaN161a, complete sequence
+354,689 bp circular DNA 
+NZ_CP013586.1 GI:1039502167
+
+130. Rhizobium phaseoli strain N161 plasmid pRphaN161b, complete sequence
+395,855 bp circular DNA 
+NZ_CP013587.1 GI:1039502175
+
+131. Rhizobium phaseoli strain N161 plasmid pRphaN161c, complete sequence
+407,297 bp circular DNA 
+NZ_CP013588.1 GI:1039502179
+
+132. Rhizobium phaseoli strain N161 plasmid pRphaN161d, complete sequence
+1,048,055 bp circular DNA 
+NZ_CP013589.1 GI:1039502194
+
+133. Rhizobium sp. N324 plasmid pRspN324a, complete sequence
+305,839 bp circular DNA 
+NZ_CP013631.1 GI:1039509359
+
+134. Rhizobium sp. N324 plasmid pRspN324b, complete sequence
+407,833 bp circular DNA 
+NZ_CP013632.1 GI:1039509360
+
+135. Rhizobium sp. N324 plasmid pRspN324c, complete sequence
+447,145 bp circular DNA 
+NZ_CP013633.1 GI:1039509361
+
+136. Rhizobium phaseoli strain R744 plasmid pRphaR744a, complete sequence
+256,181 bp circular DNA 
+NZ_CP013523.1 GI:1039509362
+
+137. Rhizobium sp. N324 plasmid pRspN324d, complete sequence
+504,141 bp circular DNA 
+NZ_CP013634.1 GI:1039509363
+
+138. Rhizobium phaseoli strain R744 plasmid pRphaR744b, complete sequence
+343,400 bp circular DNA 
+NZ_CP013524.1 GI:1039509364
+
+139. Rhizobium phaseoli strain R744 plasmid pRphaR744c, complete sequence
+407,814 bp circular DNA 
+NZ_CP013525.1 GI:1039509365
+
+140. Rhizobium sp. N324 plasmid pRspN324e, complete sequence
+667,630 bp circular DNA 
+NZ_CP013635.1 GI:1039509366
+
+141. Rhizobium phaseoli strain R744 plasmid pRphaR744d, complete sequence
+1,195,489 bp circular DNA 
+NZ_CP013526.1 GI:1039509367
+
+142. Rhizobium phaseoli strain N931 plasmid pRphaN931a, complete sequence
+340,631 bp circular DNA 
+NZ_CP013553.1 GI:1039510794
+
+143. Rhizobium phaseoli strain N931 plasmid pRphaN931b, complete sequence
+431,484 bp circular DNA 
+NZ_CP013554.1 GI:1039510807
+
+144. Rhizobium phaseoli strain N931 plasmid pRphaN931c, complete sequence
+453,545 bp circular DNA 
+NZ_CP013555.1 GI:1039510821
+
+145. Rhizobium phaseoli strain N931 plasmid pRphaN931d, complete sequence
+1,165,895 bp circular DNA 
+NZ_CP013556.1 GI:1039510845
+
+146. Rhizobium sp. N871 plasmid pRspN871a, complete sequence
+315,154 bp circular DNA 
+NZ_CP013591.1 GI:1039596677
+
+147. Rhizobium sp. N871 plasmid pRspN871b, complete sequence
+433,056 bp circular DNA 
+NZ_CP013592.1 GI:1039596678
+
+148. Rhizobium sp. N871 plasmid pRspN871c, complete sequence
+501,077 bp circular DNA 
+NZ_CP013593.1 GI:1039596679
+
+149. Rhizobium sp. N871 plasmid pRspN871d, complete sequence
+752,940 bp circular DNA 
+NZ_CP013594.1 GI:1039596680
+
+150. Rhizobium phaseoli strain N771 plasmid pRphaN771a, complete sequence
+96,338 bp circular DNA 
+NZ_CP013569.1 GI:1039609376
+
+151. Rhizobium phaseoli strain N771 plasmid pRphaN771b, complete sequence
+352,133 bp circular DNA 
+NZ_CP013570.1 GI:1039609377
+
+152. Rhizobium phaseoli strain N771 plasmid pRphaN771c, complete sequence
+414,617 bp circular DNA 
+NZ_CP013571.1 GI:1039609378
+
+153. Rhizobium phaseoli strain N771 plasmid pRphaN671d, complete sequence
+459,642 bp circular DNA 
+NZ_CP013572.1 GI:1039609379
+
+154. Rhizobium phaseoli strain N771 plasmid pRphaN771e, complete sequence
+1,189,373 bp circular DNA 
+NZ_CP013573.1 GI:1039609380
+
+155. Rhizobium sp. N741 plasmid pRspN741a, complete sequence
+80,368 bp circular DNA 
+NZ_CP013596.1 GI:1039631269
+
+156. Rhizobium sp. N741 plasmid pRspN741b, complete sequence
+314,785 bp circular DNA 
+NZ_CP013597.1 GI:1039631303
+
+157. Rhizobium sp. N741 plasmid pRspN741c, complete sequence
+433,134 bp circular DNA 
+NZ_CP013598.1 GI:1039631432
+
+158. Rhizobium sp. N741 plasmid pRspN741d, complete sequence
+501,077 bp circular DNA 
+NZ_CP013599.1 GI:1039631549
+
+159. Rhizobium sp. N741 plasmid pRspN741e, complete sequence
+752,910 bp circular DNA 
+NZ_CP013600.1 GI:1039631667
+
+160. Rhizobium sp. N941 plasmid pRspN941a, complete sequence
+300,955 bp circular DNA 
+NZ_CP013644.1 GI:1040153373
+
+161. Rhizobium sp. N941 plasmid pRspN941b, complete sequence
+408,857 bp circular DNA 
+NZ_CP013645.1 GI:1040153401
+
+162. Rhizobium sp. N941 plasmid pRspN941d, complete sequence
+505,351 bp circular DNA 
+NZ_CP013648.1 GI:1040153506
+
+163. Rhizobium sp. N941 plasmid pRspN941e, complete sequence
+661,872 bp circular DNA 
+NZ_CP013649.1 GI:1040153558
+
+164. Rhizobium sp. N541 plasmid pRspN541a, complete sequence
+300,955 bp circular DNA 
+NZ_CP013637.1 GI:1040164302
+
+165. Rhizobium sp. N541 plasmid pRspN541b, complete sequence
+408,857 bp circular DNA 
+NZ_CP013638.1 GI:1040164319
+
+166. Rhizobium sp. N541 plasmid pRspN541d, complete sequence
+504,214 bp circular DNA 
+NZ_CP013641.1 GI:1040164359
+
+167. Rhizobium sp. N541 plasmid pRspN541e, complete sequence
+661,871 bp circular DNA 
+NZ_CP013642.1 GI:1040164391
+
+168. Rhizobium leguminosarum strain Vaf-108 plasmid unnamed1, complete sequence
+1,331,126 bp circular DNA 
+NZ_CP018229.1 GI:1119725439
+
+169. Rhizobium leguminosarum strain Vaf-108 plasmid unnamed2, complete sequence
+517,692 bp circular DNA 
+NZ_CP018230.1 GI:1119725440
+
+170. Rhizobium leguminosarum strain Vaf-108 plasmid unnamed3 sequence
+339,300 bp linear DNA 
+NZ_CP018231.1 GI:1119725441
+
+171. Rhizobium leguminosarum strain Vaf-108 plasmid unnamed4, complete sequence
+278,328 bp circular DNA 
+NZ_CP018232.1 GI:1119725442
+
+172. Rhizobium leguminosarum strain Vaf-108 plasmid unnamed5, complete sequence
+255,060 bp circular DNA 
+NZ_CP018233.1 GI:1119725443
+
+173. Rhizobium leguminosarum strain Vaf-108 plasmid unnamed6, complete sequence
+236,058 bp circular DNA 
+NZ_CP018234.1 GI:1119725444
+
+174. Rhizobium leguminosarum strain Vaf-108 plasmid unnamed7, complete sequence
+227,762 bp circular DNA 
+NZ_CP018235.1 GI:1119725445
+
+175. Rhizobium leguminosarum strain Vaf-108 plasmid unnamed8 sequence
+142,112 bp linear DNA 
+NZ_CP018236.1 GI:1119725446
+
+176. Rhizobium etli 8C-3 plasmid pRsp8C3a, complete sequence
+430,631 bp circular DNA 
+NZ_CP017242.1 GI:1122408100
+
+177. Rhizobium etli 8C-3 plasmid pRsp8C3b, complete sequence
+438,379 bp circular DNA 
+NZ_CP017243.1 GI:1122408101
+
+178. Rhizobium etli 8C-3 plasmid pRsp8C3c, complete sequence
+2,253,963 bp circular DNA 
+NZ_CP017244.1 GI:1122408102
+
+179. Rhizobium gallicum strain IE4872 plasmid pRgalIE4872a, complete sequence
+125,266 bp circular DNA 
+NZ_CP017102.1 GI:1122420352
+
+180. Rhizobium gallicum strain IE4872 plasmid pRgalIE4872a, complete sequence
+176,006 bp circular DNA 
+NZ_CP017103.1 GI:1122420353
+
+181. Rhizobium gallicum strain IE4872 plasmid pRgalIE4872c, complete sequence
+506,339 bp circular DNA 
+NZ_CP017104.1 GI:1122420354
+
+182. Rhizobium gallicum strain IE4872 plasmid pRgalIE4872d, complete sequence
+2,388,366 bp circular DNA 
+NZ_CP017105.1 GI:1122420355
+
+183. Rhizobium sp. CIAT894 plasmid pRheCIAT894a, complete sequence
+215,247 bp circular DNA 
+NZ_CP020948.1 GI:1189325344
+
+184. Rhizobium sp. CIAT894 plasmid pRheCIAT894b, complete sequence
+273,667 bp circular DNA 
+NZ_CP020949.1 GI:1189325345
+
+185. Rhizobium sp. CIAT894 plasmid pRheCIAT894c, complete sequence
+464,024 bp circular DNA 
+NZ_CP020950.1 GI:1189325346
+
+186. Rhizobium sp. CIAT894 plasmid pRheCIAT894d, complete sequence
+560,456 bp circular DNA 
+NZ_CP020951.1 GI:1189325347
+
+187. Rhizobium sp. CIAT894 plasmid pRheCIAT894e, complete sequence
+718,394 bp circular DNA 
+NZ_CP020952.1 GI:1189325348
+
+188. Rhizobium phaseoli Brasil 5 plasmid pRphaBra5a, complete sequence
+262,160 bp circular DNA 
+NZ_CP020897.1 GI:1189334077
+
+189. Rhizobium phaseoli Brasil 5 plasmid pRetBra5b, complete sequence
+392,817 bp circular DNA 
+NZ_CP020898.1 GI:1189334078
+
+190. Rhizobium phaseoli Brasil 5 plasmid pRphaBra5c, complete sequence
+439,779 bp circular DNA 
+NZ_CP020899.1 GI:1189334079
+
+191. Rhizobium phaseoli Brasil 5 plasmid pRphaBra5d, complete sequence
+1,144,005 bp circular DNA 
+NZ_CP020900.1 GI:1189334080
+
+192. Rhizobium sp. NXC14 plasmid pRspNXC14a, complete sequence
+530,065 bp circular DNA 
+NZ_CP021031.1 GI:1189732614
+
+193. Rhizobium sp. NXC14 plasmid pRspNXC14b, complete sequence
+773,015 bp circular DNA 
+NZ_CP021032.1 GI:1189732618
+
+194. Rhizobium sp. NXC14 plasmid pRspNXC14c, complete sequence
+889,015 bp circular DNA 
+NZ_CP021033.1 GI:1189732626
+
+195. Rhizobium sp. TAL182 plasmid pRetTAL182a, complete sequence
+166,357 bp circular DNA 
+NZ_CP021025.1 GI:1189851729
+
+196. Rhizobium sp. TAL182 plasmid pRetTAL182b, complete sequence
+280,614 bp circular DNA 
+NZ_CP021026.1 GI:1189851730
+
+197. Rhizobium sp. TAL182 plasmid pRetTAL182c, complete sequence
+442,228 bp circular DNA 
+NZ_CP021027.1 GI:1189851732
+
+198. Rhizobium sp. TAL182 plasmid pRetTAL182d, complete sequence
+506,213 bp circular DNA 
+NZ_CP021028.1 GI:1189851746
+
+199. Rhizobium sp. TAL182 plasmid pRetTAL182e, complete sequence
+515,326 bp circular DNA 
+NZ_CP021029.1 GI:1189851753
+
+200. Rhizobium etli strain NXC12 plasmid pRetNXC12a, complete sequence
+182,413 bp circular DNA 
+NZ_CP020907.1 GI:1196401749
+
+201. Rhizobium etli strain NXC12 plasmid pRetNXC12b, complete sequence
+250,162 bp circular DNA 
+NZ_CP020908.1 GI:1196401750
+
+202. Rhizobium etli strain NXC12 plasmid pRetNXC12c, complete sequence
+505,136 bp circular DNA 
+NZ_CP020909.1 GI:1196401751
+
+203. Rhizobium etli strain NXC12 plasmid pRetNXC12d, complete sequence
+543,095 bp circular DNA 
+NZ_CP020910.1 GI:1196401752
+
+204. Rhizobium etli strain NXC12 plasmid pRetNXC12e, complete sequence
+978,479 bp circular DNA 
+NZ_CP020911.1 GI:1196401753
+
+205. Rhizobium sp. Kim5 plasmid pRetKim5a, complete sequence
+431,886 bp circular DNA 
+NZ_CP021125.1 GI:1196502679
+
+206. Rhizobium sp. Kim5 plasmid pRetKim5b, complete sequence
+482,471 bp circular DNA 
+NZ_CP021126.1 GI:1196502680
+
+207. Rhizobium sp. Kim5 plasmid pRetKim5c, complete sequence
+655,866 bp circular DNA 
+NZ_CP021127.1 GI:1196502681
+
+208. Rhizobium sp. Kim5 plasmid pRetKim5d, complete sequence
+684,601 bp circular DNA 
+NZ_CP021128.1 GI:1196502682
+
+209. Rhizobium leguminosarum bv. viciae strain BIHB 1148 plasmid pSK01, complete sequence
+976,232 bp circular DNA 
+NZ_CP022565.1 GI:1227534302
+
+210. Rhizobium leguminosarum bv. viciae strain BIHB 1148 plasmid pSK02, complete sequence
+549,819 bp circular DNA 
+NZ_CP022566.1 GI:1227534303
+
+211. Rhizobium leguminosarum bv. viciae strain BIHB 1148 plasmid pSK03, complete sequence
+407,945 bp circular DNA 
+NZ_CP022567.1 GI:1227534304
+
+212. Rhizobium leguminosarum bv. viciae strain BIHB 1148 plasmid pSK04, complete sequence
+326,874 bp circular DNA 
+NZ_CP022568.1 GI:1227534305
+
+213. Rhizobium leguminosarum bv. viciae strain BIHB 1148 plasmid pSK05, complete sequence
+264,815 bp circular DNA 
+NZ_CP022569.1 GI:1227534306
+
+214. Rhizobium leguminosarum bv. viciae strain BIHB 1148 plasmid pSK06, complete sequence
+12,967 bp circular DNA 
+NZ_CP022570.1 GI:1227534307
+
+215. Rhizobium leguminosarum bv. viciae strain BIHB 1217 plasmid pPR1, complete sequence
+1,169,137 bp circular DNA 
+NZ_CP022666.1 GI:1229386298
+
+216. Rhizobium leguminosarum bv. viciae strain BIHB 1217 plasmid pPR2, complete sequence
+605,219 bp circular DNA 
+NZ_CP022667.1 GI:1229386299
+
+217. Rhizobium leguminosarum bv. viciae strain BIHB 1217 plasmid pPR3, complete sequence
+576,090 bp circular DNA 
+NZ_CP022668.1 GI:1229386300
+
+218. Rhizobium leguminosarum bv. viciae strain BIHB 1217 plasmid pPR4, complete sequence
+327,451 bp circular DNA 
+NZ_CP022669.1 GI:1229386301
+
+219. Rhizobium leguminosarum bv. viciae strain BIHB 1217 plasmid pPR5, complete sequence
+179,782 bp circular DNA 
+NZ_CP022670.1 GI:1229386302
+
+220. Rhizobium leguminosarum bv. viciae strain BIHB 1217 plasmid pPR6, complete sequence
+18,458 bp circular DNA 
+NZ_CP022671.1 GI:1229386303
+
+221. Rhizobium sp. N4311 plasmid pRspN4311a, whole genome shotgun sequence
+305,838 bp circular DNA 
+NZ_CM008157.1 GI:1231899874
+
+222. Rhizobium sp. N4311 plasmid pRspN4311b, whole genome shotgun sequence
+407,789 bp circular DNA 
+NZ_CM008158.1 GI:1231899875
+
+223. Rhizobium sp. N4311 plasmid pRspN4311c, whole genome shotgun sequence
+439,280 bp circular DNA 
+NZ_CM008159.1 GI:1231899876
+
+224. Rhizobium sp. N4311 plasmid pRspN4311d, whole genome shotgun sequence
+503,294 bp circular DNA 
+NZ_CM008160.1 GI:1231899877
+
+225. Rhizobium sp. N4311 plasmid pRspN4311e, whole genome shotgun sequence
+666,589 bp circular DNA 
+NZ_CM008161.1 GI:1231899878
+
+226. Rhizobium sp. 11515TR plasmid p10195A, complete sequence
+1,569,179 bp circular DNA 
+NZ_CP022999.1 GI:1239373121
+
+227. Rhizobium sp. 11515TR plasmid p10195B, complete sequence
+1,497,349 bp circular DNA 
+NZ_CP023000.1 GI:1239373122
+
+228. Rhizobium sp. ACO-34A plasmid pRACO34Ad, complete sequence
+516,813 bp circular DNA 
+NZ_CP021372.1 GI:1268849831
+
+229. Rhizobium sp. ACO-34A plasmid pRACO34Ac, complete sequence
+494,144 bp circular DNA 
+NZ_CP021373.1 GI:1268849832
+
+230. Rhizobium sp. ACO-34A plasmid pRACO34Ab, complete sequence
+305,590 bp circular DNA 
+NZ_CP021374.1 GI:1268849833
+
+231. Rhizobium sp. ACO-34A plasmid pRACO34Aa, complete sequence
+213,273 bp circular DNA 
+NZ_CP021375.1 GI:1268849834
+
+232. Rhizobium sp. Y9 plasmid pY9, complete sequence
+481,964 bp circular DNA 
+NZ_CP018001.1 GI:1302485976
+
+233. Rhizobium sp. NXC24 plasmid pRspNXC24a, complete sequence
+271,356 bp circular DNA 
+NZ_CP024312.1 GI:1352845608
+
+234. Rhizobium sp. NXC24 plasmid pRspNXC24b, complete sequence
+489,086 bp circular DNA 
+NZ_CP024313.1 GI:1352845609
+
+235. Rhizobium sp. NXC24 plasmid pRspNXC24c, complete sequence
+2,379,650 bp circular DNA 
+NZ_CP024314.1 GI:1352845610
+
+236. Rhizobium leguminosarum bv. viciae strain UPM791 plasmid pRlvC, complete sequence
+405,209 bp circular DNA 
+NZ_CP025505.1 GI:1353029323
+
+237. Rhizobium leguminosarum bv. viciae strain UPM791 plasmid pRlvE, complete sequence
+564,641 bp circular DNA 
+NZ_CP025506.1 GI:1353029324
+
+238. Rhizobium leguminosarum bv. viciae strain UPM791 plasmid pRlvA, complete sequence
+1,291,920 bp circular DNA 
+NZ_CP025507.1 GI:1353029325
+
+239. Rhizobium leguminosarum bv. viciae strain UPM791 plasmid pRlvB, complete sequence
+597,290 bp circular DNA 
+NZ_CP025508.1 GI:1353029326
+
+240. Rhizobium leguminosarum bv. viciae strain UPM791 plasmid pRlvD, complete sequence
+217,776 bp circular DNA 
+NZ_CP025510.1 GI:1353029328
+
+241. Rhizobium leguminosarum strain Norway plasmid pRLN1, complete sequence
+1,098,158 bp circular DNA 
+NZ_CP025013.1 GI:1353572664
+
+242. Rhizobium leguminosarum strain Norway plasmid pRLN2, complete sequence
+592,529 bp circular DNA 
+NZ_CP025014.1 GI:1353572665
+
+243. Rhizobium leguminosarum strain Norway plasmid pRLN3, complete sequence
+557,386 bp circular DNA 
+NZ_CP025015.1 GI:1353572666
+
+244. Rhizobium leguminosarum strain Norway plasmid pRLN4, complete sequence
+354,350 bp circular DNA 
+NZ_CP025016.1 GI:1353572667
+
+245. Rhizobium leguminosarum strain Norway plasmid pRLN5, complete sequence
+279,539 bp circular DNA 
+NZ_CP025017.1 GI:1353572668
+
+246. Rhizobium leguminosarum strain ATCC 14479 plasmid unnamed1, complete sequence
+1,234,209 bp circular DNA 
+NZ_CP030761.1 GI:1425880977
+
+247. Rhizobium leguminosarum strain ATCC 14479 plasmid unnamed2, complete sequence
+415,988 bp circular DNA 
+NZ_CP030762.1 GI:1425880978
+
+248. Rhizobium leguminosarum strain ATCC 14479 plasmid unnamed3, complete sequence
+771,583 bp circular DNA 
+NZ_CP030763.1 GI:1425880979
+
+249. Rhizobium leguminosarum strain ATCC 14479 plasmid unnamed4, complete sequence
+630,306 bp circular DNA 
+NZ_CP030764.1 GI:1425880980
+
+250. Rhizobium sp. CCGE531 plasmid pRCCGE531d, complete sequence
+1,460,465 bp circular DNA 
+NZ_CP032685.1 GI:1488217277
+
+251. Rhizobium sp. CCGE531 plasmid pRCCGE531c, complete sequence
+756,635 bp circular DNA 
+NZ_CP032686.1 GI:1488217278
+
+252. Rhizobium sp. CCGE531 plasmid pRCCGE531b, complete sequence
+577,596 bp circular DNA 
+NZ_CP032687.1 GI:1488217279
+
+253. Rhizobium sp. CCGE531 plasmid pRCCGE531a, complete sequence
+304,634 bp circular DNA 
+NZ_CP032688.1 GI:1488217280
+
+254. Rhizobium jaguaris strain CCGE525 plasmid pRCCGE525c, complete sequence
+2,584,926 bp circular DNA 
+NZ_CP032695.1 GI:1488257761
+
+255. Rhizobium jaguaris strain CCGE525 plasmid pRCCGE525b, complete sequence
+550,563 bp circular DNA 
+NZ_CP032696.1 GI:1488257762
+
+256. Rhizobium jaguaris strain CCGE525 plasmid pRCCGE525a, complete sequence
+314,764 bp circular DNA 
+NZ_CP032697.1 GI:1488257763
+
+257. Rhizobium sp. CCGE532 plasmid pRCCGE532d, complete sequence
+1,460,443 bp circular DNA 
+NZ_CP032690.1 GI:1488317346
+
+258. Rhizobium sp. CCGE532 plasmid pRCCGE532c, complete sequence
+747,941 bp circular DNA 
+NZ_CP032691.1 GI:1488317347
+
+259. Rhizobium sp. CCGE532 plasmid pRCCGE532b, complete sequence
+506,160 bp circular DNA 
+NZ_CP032692.1 GI:1488317348
+
+260. Rhizobium sp. CCGE532 plasmid pRCCGE532a, complete sequence
+300,963 bp circular DNA 
+NZ_CP032693.1 GI:1488317349
+
+261. Rhizobium acidisoli strain FH23 plasmid pRapFH23a, complete sequence
+671,287 bp circular DNA 
+NZ_CP034999.1 GI:1562282856
+
+262. Rhizobium acidisoli strain FH23 plasmid pRapFH23b, complete sequence
+701,880 bp circular DNA 
+NZ_CP035000.1 GI:1562282857
+
+263. Rhizobium acidisoli strain FH23 plasmid pRapFH23c, complete sequence
+709,381 bp circular DNA 
+NZ_CP035001.1 GI:1562282858
+
+264. Rhizobium acidisoli strain FH23 plasmid pRapFH23d, complete sequence
+845,857 bp circular DNA 
+NZ_CP035002.1 GI:1562282859
+
+265. Rhizobium pusense strain CFBP5875 plasmid pAtCFBP5875, complete sequence
+129,573 bp circular DNA 
+NZ_CP039896.1 GI:1634489751

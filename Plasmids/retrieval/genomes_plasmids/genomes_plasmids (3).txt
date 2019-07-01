@@ -1,0 +1,65 @@
+#Organism/Name	Kingdom	Group	SubGroup	Plasmid Name	RefSeq	INSDC	Size (Kb)	GC%	Protein	rRNA	tRNA	Other RNA	Gene	Pseudogene	Release Date	Modify Date
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed1	-	CP016287	1254.53	59.9533	1097	-	-	-	1191	94	2016/07/05	2016/07/05
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed7	-	CP016288	247.808	58.8819	211	-	-	-	230	19	2016/07/05	2016/07/05
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed2	-	CP016289	622.622	60.495	535	-	-	-	586	51	2016/07/05	2016/07/05
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed3	-	CP016290	557.598	58.4925	458	-	-	-	518	60	2016/07/05	2016/07/05
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed6	-	CP016291	265.603	61.3416	240	-	-	-	254	14	2016/07/05	2016/07/05
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed4	-	CP016292	309.378	60.1601	225	-	-	-	264	39	2016/07/05	2016/07/05
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed5	-	CP016293	274.981	61.3886	229	-	-	-	239	10	2016/07/05	2016/07/05
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed1	NZ_CP018229.1	CP018229	1331.13	59.9719	1106	-	-	-	1248	142	2016/12/18	2017/04/06
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed2	NZ_CP018230.1	CP018230	517.692	61.3915	463	-	-	-	489	26	2016/12/18	2017/04/06
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed3	NZ_CP018231.1	CP018231	339.3	58.3183	268	-	-	-	346	78	2016/12/18	2017/04/06
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed4	NZ_CP018232.1	CP018232	278.328	61.2091	261	-	-	-	269	8	2016/12/18	2017/04/06
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed5	NZ_CP018233.1	CP018233	255.06	61.2374	212	-	-	-	228	16	2016/12/18	2017/04/06
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed6	NZ_CP018234.1	CP018234	236.058	58.0874	164	-	-	-	236	72	2016/12/18	2017/04/06
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed7	NZ_CP018235.1	CP018235	227.762	58.2459	181	-	-	-	236	55	2016/12/18	2017/04/06
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed8	NZ_CP018236.1	CP018236	142.112	57.7369	110	-	-	-	131	21	2016/12/18	2017/04/06
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	pRLN1	NZ_CP025013.1	CP025013	1098.16	60.5329	999	-	-	-	1047	48	2018/03/04	2018/03/04
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	pRLN2	NZ_CP025014.1	CP025014	592.529	60.8973	536	-	-	-	562	26	2018/03/04	2018/03/04
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	pRLN3	NZ_CP025015.1	CP025015	557.386	57.4279	440	-	-	-	523	83	2018/03/04	2018/03/04
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	pRLN4	NZ_CP025016.1	CP025016	354.35	60.6533	296	-	-	-	309	13	2018/03/04	2018/03/04
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	pRLN5	NZ_CP025017.1	CP025017	279.539	61.331	254	-	-	-	262	8	2018/03/04	2018/03/04
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed1	NZ_CP030761.1	CP030761	1234.21	59.9949	1111	-	-	-	1194	83	2018/07/13	2018/07/13
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed2	NZ_CP030762.1	CP030762	415.988	58.3286	323	-	-	-	432	109	2018/07/13	2018/07/13
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed3	NZ_CP030763.1	CP030763	771.583	60.5033	702	-	-	-	746	44	2018/07/13	2018/07/13
+Rhizobium leguminosarum	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed4	NZ_CP030764.1	CP030764	630.306	60.3743	568	-	1	-	607	38	2018/07/13	2018/07/13
+Rhizobium leguminosarum bv. trifolii CB782	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed	NZ_CP007068.1	CP007068	1563.77	60.3104	1397	-	-	-	1494	97	2015/02/05	2017/04/02
+Rhizobium leguminosarum bv. trifolii CB782	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed2	NZ_CP007069.1	CP007069	509.829	61.7021	471	-	-	-	485	14	2015/02/05	2017/04/02
+Rhizobium leguminosarum bv. trifolii CB782	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed3	NZ_CP007070.1	CP007070	251.612	57.3236	216	-	-	-	248	32	2015/02/05	2017/04/02
+Rhizobium leguminosarum bv. trifolii WSM1325	Bacteria	Proteobacteria	Alphaproteobacteria	pR132501	NC_012848.1	CP001623	828.924	60.3655	725	-	-	-	775	50	2009/06/22	2017/05/19
+Rhizobium leguminosarum bv. trifolii WSM1325	Bacteria	Proteobacteria	Alphaproteobacteria	pR132504	NC_012852.1	CP001626	350.312	60.5646	304	-	-	-	315	11	2009/06/22	2017/05/19
+Rhizobium leguminosarum bv. trifolii WSM1325	Bacteria	Proteobacteria	Alphaproteobacteria	pR132503	NC_012853.1	CP001625	516.088	58.7925	486	-	-	-	540	54	2009/06/22	2017/05/19
+Rhizobium leguminosarum bv. trifolii WSM1325	Bacteria	Proteobacteria	Alphaproteobacteria	pR132505	NC_012854.1	CP001627	294.782	60.3707	275	-	-	-	295	20	2009/06/22	2017/05/19
+Rhizobium leguminosarum bv. trifolii WSM1325	Bacteria	Proteobacteria	Alphaproteobacteria	pR132502	NC_012858.1	CP001624	660.973	60.8184	629	-	-	-	670	41	2009/06/23	2017/05/19
+Rhizobium leguminosarum bv. trifolii WSM1689	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed	NZ_CP007046.1	CP007046	667.306	60.9442	614	-	-	-	628	14	2015/02/04	2017/04/02
+Rhizobium leguminosarum bv. trifolii WSM1689	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed2	NZ_CP007047.1	CP007047	518.052	61.246	469	-	-	-	487	18	2015/02/04	2017/04/02
+Rhizobium leguminosarum bv. trifolii WSM1689	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed3	NZ_CP007048.1	CP007048	341.391	58.2057	299	-	-	-	337	38	2015/02/04	2017/04/02
+Rhizobium leguminosarum bv. trifolii WSM1689	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed4	NZ_CP007049.1	CP007049	262.704	61.1407	243	-	-	-	247	4	2015/02/04	2017/04/02
+Rhizobium leguminosarum bv. trifolii WSM1689	Bacteria	Proteobacteria	Alphaproteobacteria	unnamed5	NZ_CP007050.1	CP007050	259.408	60.7005	234	-	-	-	243	9	2015/02/04	2017/04/02
+Rhizobium leguminosarum bv. trifolii WSM2304	Bacteria	Proteobacteria	Alphaproteobacteria	pRLG202	NC_011366.1	CP001193	501.946	61.9581	453	-	-	-	465	12	2008/10/16	2017/10/21
+Rhizobium leguminosarum bv. trifolii WSM2304	Bacteria	Proteobacteria	Alphaproteobacteria	pRLG201	NC_011368.1	CP001192	1266.11	60.3599	1161	-	-	-	1241	80	2008/10/16	2017/10/21
+Rhizobium leguminosarum bv. trifolii WSM2304	Bacteria	Proteobacteria	Alphaproteobacteria	pRLG203	NC_011370.1	CP001195	308.747	57.9011	262	-	-	-	278	16	2008/10/16	2017/10/21
+Rhizobium leguminosarum bv. trifolii WSM2304	Bacteria	Proteobacteria	Alphaproteobacteria	pRLG204	NC_011371.1	CP001194	257.956	61.3868	221	-	-	-	224	3	2008/10/16	2017/10/21
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pSK01	NZ_CP022565.1	CP022565	976.232	60.6487	865	-	-	-	934	69	2017/08/04	2017/08/04
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pSK02	NZ_CP022566.1	CP022566	549.819	61.232	501	-	-	-	522	21	2017/08/04	2017/08/04
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pSK03	NZ_CP022567.1	CP022567	407.945	61.0668	374	-	2	1	397	20	2017/08/04	2017/08/04
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pSK04	NZ_CP022568.1	CP022568	326.874	61.0792	305	-	-	-	321	16	2017/08/04	2017/08/04
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pSK05	NZ_CP022569.1	CP022569	264.815	61.3636	223	-	-	-	237	14	2017/08/04	2017/08/04
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pSK06	NZ_CP022570.1	CP022570	12.967	61.1707	17	-	-	-	19	2	2017/08/04	2017/08/04
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pPR1	NZ_CP022666.1	CP022666	1169.14	60.0001	1044	-	-	-	1101	57	2017/08/10	2017/08/10
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pPR2	NZ_CP022667.1	CP022667	605.219	60.9812	546	-	-	-	572	26	2017/08/10	2017/08/10
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pPR3	NZ_CP022668.1	CP022668	576.09	60.9462	516	-	-	-	537	21	2017/08/10	2017/08/10
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pPR4	NZ_CP022669.1	CP022669	327.451	57.5821	267	-	-	-	331	64	2017/08/10	2017/08/10
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pPR5	NZ_CP022670.1	CP022670	179.782	58.7801	155	-	-	-	176	21	2017/08/10	2017/08/10
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pPR6	NZ_CP022671.1	CP022671	18.458	58.988	26	-	-	-	32	6	2017/08/10	2017/08/10
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pRlvC	NZ_CP025505.1	CP025505	405.209	57.3257	332	-	-	-	375	43	2018/03/03	2018/03/03
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pRlvE	NZ_CP025506.1	CP025506	564.641	60.9178	506	-	-	-	527	21	2018/03/03	2018/03/03
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pRlvA	NZ_CP025507.1	CP025507	1291.92	59.6619	1130	-	-	-	1224	94	2018/03/03	2018/03/03
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pRlvB	NZ_CP025508.1	CP025508	597.29	60.9582	543	-	-	-	567	24	2018/03/03	2018/03/03
+Rhizobium leguminosarum bv. viciae	Bacteria	Proteobacteria	Alphaproteobacteria	pRlvD	NZ_CP025510.1	CP025510	217.776	58.5092	126	-	-	-	212	86	2018/03/03	2018/03/03
+Rhizobium leguminosarum bv. viciae 3841	Bacteria	Proteobacteria	Alphaproteobacteria	pRL12	NC_008378.1	AM236086	870.021	61.0247	777	-	-	-	809	32	2006/05/04	2019/02/10
+Rhizobium leguminosarum bv. viciae 3841	Bacteria	Proteobacteria	Alphaproteobacteria	pRL9	NC_008379.1	AM236083	352.782	60.9909	308	-	-	-	329	21	2006/05/04	2019/02/10
+Rhizobium leguminosarum bv. viciae 3841	Bacteria	Proteobacteria	Alphaproteobacteria	pRL10	NC_008381.1	AM236084	488.135	59.6044	422	-	-	-	485	63	2006/05/04	2019/02/10
+Rhizobium leguminosarum bv. viciae 3841	Bacteria	Proteobacteria	Alphaproteobacteria	pRL7	NC_008382.1	AM236081	151.564	57.6219	113	-	-	-	170	57	2006/05/04	2019/02/10
+Rhizobium leguminosarum bv. viciae 3841	Bacteria	Proteobacteria	Alphaproteobacteria	pRL8	NC_008383.1	AM236082	147.463	58.7449	134	-	-	-	145	11	2006/05/04	2019/02/10
+Rhizobium leguminosarum bv. viciae 3841	Bacteria	Proteobacteria	Alphaproteobacteria	pRL11	NC_008384.1	AM236085	684.202	60.9728	621	-	-	-	651	30	2006/05/04	2019/02/10

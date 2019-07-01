@@ -1,0 +1,21 @@
+1: Rhizobium leguminosarum bv. viciae strain Vaf-108
+Identifiers: BioSample: SAMN05990783; Sample name: Rhizobium leguminosarum Vaf-108, nodule isolate from Vavilovia formosa
+Organism: Rhizobium leguminosarum
+Attributes:
+    /strain="Vaf-108"
+    /collection date="2012"
+    /broad-scale environmental context="mountain"
+    /local-scale environmental context="slope"
+    /environmental medium="soil"
+    /geographic location="Russia: Dagestan"
+    /host="Vavilovia formosa"
+    /isolation and growth condition="unpublished"
+    /latitude and longitude="42.01 N 46.65 E"
+    /number of replicons="10"
+    /reference for biomaterial="unpublished"
+Description:
+Strain of Rhizobium-related bacteria isolated fromm roots of Vavilovia formosa collected in Dagestan, Russia
+Keywords: GSC:MIxS;MIGS:5.0
+Accession: SAMN05990783	ID: 5990783
+
+

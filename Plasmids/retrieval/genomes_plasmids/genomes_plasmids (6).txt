@@ -1,0 +1,5 @@
+#Organism/Name	Kingdom	Group	SubGroup	Plasmid Name	RefSeq	INSDC	Size (Kb)	GC%	Protein	rRNA	tRNA	Other RNA	Gene	Pseudogene	Release Date	Modify Date
+Rhizobium favelukesii	Bacteria	Proteobacteria	Alphaproteobacteria	pLPU83a	NZ_HG916853.1	HG916853	151.687	59.6511	126	-	-	-	159	33	2014/02/07	2018/07/12
+Rhizobium favelukesii	Bacteria	Proteobacteria	Alphaproteobacteria	pLPU83c	NZ_HG916854.1	HG916854	759.787	59.1832	665	-	-	-	787	122	2014/02/07	2018/07/12
+Rhizobium favelukesii	Bacteria	Proteobacteria	Alphaproteobacteria	pLPU83d	NZ_HG916855.1	HG916855	1932.03	59.164	1679	-	1	-	1903	223	2014/02/07	2018/07/12
+Rhizobium favelukesii	Bacteria	Proteobacteria	Alphaproteobacteria	pLPU83b	-	CBYB000000000	530.839	57.8154	560	-	-	-	582	22	2014/02/07	2015/01/30

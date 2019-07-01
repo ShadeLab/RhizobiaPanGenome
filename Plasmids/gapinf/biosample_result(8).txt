@@ -1,0 +1,20 @@
+1: Agrobacterium tumefaciens strain CFBP5875
+Identifiers: BioSample: SAMN11489452; Sample name: agro5875
+Organism: Rhizobium pusense
+Attributes:
+    /strain="CFBP5875"
+    /collection date="NA"
+    /broad-scale environmental context="NA"
+    /local-scale environmental context="NA"
+    /environmental medium="NA"
+    /geographic location="NA"
+    /isolation and growth condition="NA"
+    /latitude and longitude="NA"
+    /number of replicons="NA"
+    /reference for biomaterial="NA"
+Description: 
+Academia Sinica, Chih-Horng Kuo
+Keywords: GSC:MIxS;MIGS:5.0
+Accession: SAMN11489452	ID: 11489452
+
+
